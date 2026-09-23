@@ -1,6 +1,6 @@
-# GADGET NOTE
+# OCHA NOTE（お茶ノート）
 
-ガジェット紹介サイトの初版。Astro + Markdown + GitHub + Cloudflare Pages。サイト名は仮称です。
+ガジェット、お土産、家具、道具などを紹介するサイト。Astro + Markdown + GitHub + Cloudflare Pages。ドメインは ochanote.com。
 
 ## 入っているもの
 - スマホ対応トップ、3カテゴリ、記事詳細、目次、関連記事、編集方針、404
