@@ -1,0 +1,11 @@
+---
+import Base from '../../layouts/Base.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { articles, categories } from '../../lib/content';
+export function getStaticPaths() { return categories.map(category => ({ params: { category: category.id }, props: { category } })); }
+const { category } = Astro.props;
+const posts = articles.filter(a => a.meta.category === category.id);
+---
+<Base title={category.name} current={category.id} description={`${category.name}の選び方と、購入前に確認したいポイント。`}>
+<div class="container listing"><a class="back-link" href="/">ホーム</a><span class="eyebrow">{category.short}</span><h1>{category.name}</h1><p class="listing-count">{posts.length}件の記事</p><div class="article-grid">{posts.map(article => <ArticleCard article={article} />)}</div>{posts.length === 0 && <p>記事を準備しています。</p>}</div>
+</Base>

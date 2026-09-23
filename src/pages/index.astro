@@ -1,0 +1,12 @@
+---
+import Base from '../layouts/Base.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import { articles } from '../lib/content';
+const featured = articles.find(a => a.slug === 'earphones-first') || articles[0];
+const remaining = articles.filter(a => a !== featured);
+---
+<Base current="home">
+<section class="container intro"><span class="eyebrow">THE EVERYDAY GUIDE</span><h1>スペックの先に、<br /><span>自分に合う一台を。</span></h1><p>通学の音楽も、机の上の小さな不便も。<br />使う場面から、ガジェットを選ぼう。</p></section>
+<section class="container feature-section" aria-label="まず読みたい記事"><div class="section-heading"><span class="eyebrow">START HERE</span><span class="section-note">まず読みたい、選び方の基本</span></div>{featured && <ArticleCard article={featured} featured />}</section>
+<section class="container latest"><div class="section-heading"><h2>選び方のノート</h2><span class="section-note">暮らしの場面から探す</span></div><div class="article-grid">{remaining.map(article => <ArticleCard article={article} />)}</div>{!articles.length && <p>記事を準備しています。</p>}</section>
+</Base>
