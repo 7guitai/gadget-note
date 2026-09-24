@@ -11,11 +11,14 @@
 ## 記事追加
 - src/content/articles/<小文字英数とハイフン>.md に1記事1ファイル。
 - docs/article-template.md をコピー。未確認の記事は draft: true のままにする。
-- category は audio / charging / desk。新カテゴリ追加時は src/lib/content.ts も更新する。
-- title, description, date, kind, coverLabel は必須。日付は引用符付き YYYY-MM-DD（日本時間）。
+- category は gadget / souvenir / furniture / toolbox / life。新カテゴリ追加時は src/lib/content.ts も更新する。カテゴリを廃止・改名する場合は public/_redirects に301転送を追加する。
+- title, description, date, kind, coverLabel は必須。アイキャッチを使う場合は cover（/images/<slug>/cover.webp、1200×630）と coverAlt を指定する。日付は引用符付き YYYY-MM-DD（日本時間）。
 - 公開済みURLの slug は原則変更しない。変更する場合はCloudflare Pagesの_redirectsに301転送を追加する。
 - 未来日付の記事はビルド時に除外される。日付到来だけでは公開されないので、予定時刻に別途ビルドを実行する。
-- 画像を使う場合は public/images/ 以下へ置き、実際の記事から参照する。代替テキストと寸法を指定する。
+- 画像は public/images/<slug>/ 以下へ置き、本文では <img src alt width height> で参照する。
+- 生成AIの画像はアイキャッチ・イメージ図・図解に限り、altに「イメージ」と入れる。実在商品を生成画像で本物の写真のように見せない。
+- 購入リンクは <a href="..." rel="sponsored noopener"> で書く。Markdownリンク記法は使わない。
+- ChatGPTなどで作った記事（zip）は docs/chatgpt-brief.md の形式。取り込み時に【リンク】【要確認】【体験】【画像】の仮置き、リンク、画像、事実関係を確認する。ビルド時にも src/lib/content.ts で自動チェックされる。
 - 本文中の見出しはH2から。実際に読める記事に仕上げ、ダミー価格・ダミーリンクを公開しない。
 
 ## 更新・公開
@@ -29,5 +32,5 @@
 
 ## 現状
 - サイト名 OCHA NOTE（お茶ノート）。ドメイン ochanote.com は取得済み。商標など名称の権利は未確認。
-- 外部解析、広告配信、問い合わせフォームは未導入。追加時は実際の処理に合うプライバシー説明を用意する。
-- 初期記事3本は製品価格・具体的製品推薦を含まない一般的な選び方ガイド。
+- 外部解析、広告配信、問い合わせフォームは未導入。追加時は src/pages/privacy.astro を実際の処理に合わせて更新する。アフィリエイトプログラムに参加したら、プログラム名と各規約で必要な表記（例：Amazonアソシエイトの定型文）を privacy.astro に追記する。
+- 初期記事3本（gadget）は製品価格・具体的製品推薦を含まない一般的な選び方ガイド。

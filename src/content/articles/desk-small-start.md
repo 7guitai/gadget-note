@@ -1,7 +1,7 @@
 ---
 title: "デスク周りは、一度にそろえない。不便をひとつ減らす道具選び"
 description: "スタンド、ハブ、ケーブル収納。買い足す前に、机の上で困っていることを一つだけ書き出してみる。"
-category: desk
+category: gadget
 date: "2026-09-23"
 kind: "選び方"
 coverLabel: "FOCUS."

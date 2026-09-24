@@ -5,11 +5,13 @@ export function getStaticPaths() { return articles.map(article => ({ params: { s
 const { article } = Astro.props;
 const Content = article.Content;
 const headings = await article.getHeadings();
-const related = articles.filter(a => a.slug !== article.slug).slice(0,2);
+const others = articles.filter(a => a.slug !== article.slug);
+const related = [...others.filter(a => a.meta.category === article.meta.category), ...others.filter(a => a.meta.category !== article.meta.category)].slice(0,3);
 ---
-<Base title={article.meta.title} description={article.meta.description} current={article.category.id}>
+<Base title={article.meta.title} description={article.meta.description} current={article.category.id} image={article.meta.cover} type="article">
 <div class="container article-shell"><nav class="breadcrumbs" aria-label="パンくず"><a href="/">ホーム</a><span>/</span><a href={`/category/${article.category.id}/`}>{article.category.name}</a></nav>
-<article class="reading"><header class="article-header"><span class="eyebrow">{article.category.short} / {article.meta.kind}</span><h1>{article.meta.title}</h1><p class="lead">{article.meta.description}</p><div class="article-byline"><span>OCHA NOTE 編集部</span><time datetime={article.meta.date}>{displayDate(article.meta.date)}</time>{article.meta.updated && <span>更新 {displayDate(article.meta.updated)}</span>}</div>{article.meta.affiliate && <p class="disclosure">この記事には広告・アフィリエイトリンクが含まれます。</p>}</header>
+<article class="reading"><header class="article-header"><span class="eyebrow">{article.category.short} / {article.meta.kind}</span><h1>{article.meta.title}</h1><p class="lead">{article.meta.description}</p><div class="article-byline"><span>OCHA NOTE 編集部</span><time datetime={article.meta.date}>{displayDate(article.meta.date)}</time>{article.meta.updated && <span>更新 {displayDate(article.meta.updated)}</span>}</div>{article.meta.affiliate && <p class="disclosure"><strong>PR</strong> この記事には広告（アフィリエイトリンク）が含まれます。リンク先で購入されると、当サイトに報酬が支払われることがあります。</p>}</header>
+{article.meta.cover && <img class="article-cover" src={article.meta.cover} alt={article.meta.coverAlt} width="1200" height="630" />}
 {headings.some(h => h.depth === 2) && <nav class="toc" aria-label="目次"><strong>この記事の内容</strong><ol>{headings.filter(h => h.depth === 2).map(h => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}</ol></nav>}
 <div class="prose"><Content /></div>
 <div class="article-end"><strong>ほかの選び方も読む</strong>{related.map(a => <a href={`/articles/${a.slug}/`}>{a.meta.title}<span aria-hidden="true"> →</span></a>)}</div></article></div>

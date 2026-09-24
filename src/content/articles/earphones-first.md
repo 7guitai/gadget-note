@@ -1,7 +1,7 @@
 ---
 title: "イヤホン選びは、使う場所から。購入前に整理したい3つのこと"
 description: "通学、家での作業、オンライン通話。同じイヤホンでも、使う場面が変われば優先したい機能は変わる。"
-category: audio
+category: gadget
 date: "2026-09-23"
 kind: "選び方"
 coverLabel: "LISTEN."

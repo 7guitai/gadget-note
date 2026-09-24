@@ -1,7 +1,7 @@
 ---
 title: "充電器を買う前に。端末・ケーブル・持ち運び方を確認しよう"
 description: "数字の大きさだけで決めない。自分の機器を、いつ、何台充電するかから考えるチェックリスト。"
-category: charging
+category: gadget
 date: "2026-09-23"
 kind: "購入前チェック"
 coverLabel: "CHARGE."

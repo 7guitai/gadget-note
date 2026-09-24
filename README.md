@@ -51,13 +51,16 @@ CloudflareのWorkers & PagesからPagesのGit連携プロジェクトを作成�
 プレビュー用ブランチはnoindexを出力します。本番サイトはmainブランチで運用してください。プレビューはURLを知る人が閲覧できる場合があるため、秘密情報は記事に入れないでください。
 
 ## 日々の記事更新
+ChatGPTで記事を作る場合は docs/chatgpt-brief.md の指示書を使い、zip を Claude Code に渡す。
+
+手で書く場合：
 1. docs/article-template.md を src/content/articles/new-slug.md へコピー。
 2. 内容・日付・カテゴリを編集。draft: true の間は公開されません。
 3. 調査内容と表示を確認して draft: false に変更。
 4. GitHubの作業ブランチに保存してPR作成。
 5. Cloudflareのプレビューで確認し、mainに反映すると自動公開。
 
-画像を入れる場合はpublic/imagesへ保存し、/images/filename.webpのように参照します。初版は画像の転載許諾を必要としない文字中心の表紙です。
+画像は public/images/<slug>/ へ保存し、/images/<slug>/01.webp のように参照します。frontmatter の cover を指定するとアイキャッチ（一覧の表紙・SNSシェア画像）になり、指定しなければ文字の表紙になります。
 
 未来日付はビルド時に除外されます。日付が来ても自動的に再ビルドはされません。定期投稿が必要になった時点で、スケジュールと実行権限を設定します。
 

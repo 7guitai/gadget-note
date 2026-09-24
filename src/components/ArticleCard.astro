@@ -3,9 +3,9 @@ import { displayDate } from '../lib/content';
 const { article, featured = false } = Astro.props;
 ---
 <article class:list={['article-card', { featured }]}>
-<a class="card-cover" href={`/articles/${article.slug}/`} style={`--cover:${article.category.color}`} tabindex="-1" aria-hidden="true">
-<span class="cover-category">{article.category.short} / GUIDE</span><span class="cover-word">{article.meta.coverLabel}</span><span class="cover-bottom">OCHA NOTE <span>読む →</span></span>
+<a class:list={['card-cover', { 'has-image': article.meta.cover }]} href={`/articles/${article.slug}/`} style={`--cover:${article.category.color}`} tabindex="-1" aria-hidden="true">
+{article.meta.cover ? <img src={article.meta.cover} alt="" width="1200" height="630" loading={featured ? 'eager' : 'lazy'} /> : <><span class="cover-category">{article.category.short} / GUIDE</span><span class="cover-word">{article.meta.coverLabel}</span><span class="cover-bottom">OCHA NOTE <span>読む →</span></span></>}
 </a>
-<div class="card-body"><div class="meta"><span class="category-label">{article.category.name}</span><span>{article.meta.kind}</span></div>
+<div class="card-body"><div class="meta"><span class="category-label">{article.category.name}</span><span>{article.meta.kind}</span>{article.meta.affiliate && <span class="pr-label">PR</span>}</div>
 <h2><a href={`/articles/${article.slug}/`}>{article.meta.title}</a></h2><p>{article.meta.description}</p><time datetime={article.meta.date}>{displayDate(article.meta.date)}</time></div>
 </article>
