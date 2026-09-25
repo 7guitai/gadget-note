@@ -1,0 +1,20 @@
+---
+import Base from '../../layouts/Base.astro';
+import { displayDate } from '../../lib/content';
+import { news } from '../../lib/news';
+export function getStaticPaths() { return news.map(item => ({ params: { slug: item.slug }, props: { item } })); }
+const { item } = Astro.props;
+const Content = item.Content;
+const headings = (await item.getHeadings()).filter(h => h.depth === 2);
+const others = news.filter(n => n.slug !== item.slug).slice(0, 3);
+---
+<Base title={item.meta.title} description={item.meta.description} current="news" image={item.meta.cover} type="article">
+<div class="container article-shell"><nav class="breadcrumbs" aria-label="パンくず"><a href="/">ホーム</a><span>/</span><a href="/news/">AIニュース</a></nav>
+<article class="reading"><header class="article-header"><span class="eyebrow">AI NEWS / {item.topic.name}</span><h1>{item.meta.title}</h1><p class="lead">{item.meta.description}</p><div class="article-byline"><span>OCHA NOTE 編集部</span><time datetime={item.meta.date}>{displayDate(item.meta.date)}</time>{item.meta.updated && <span>更新 {displayDate(item.meta.updated)}</span>}</div>
+<p class="disclosure">この記事は{displayDate(item.meta.updated ?? item.meta.date)}時点の情報です。サービスの内容や提供状況は変わることがあるため、最新の情報は出典の公式ページで確認してください。</p></header>
+{item.meta.cover && <figure class="article-cover"><img src={item.meta.cover} alt={item.meta.coverAlt} width="1200" height="630" />{item.meta.coverAlt?.includes('イメージ') && <figcaption>画像はイメージです</figcaption>}</figure>}
+{headings.length >= 3 && <nav class="toc" aria-label="目次"><strong>この記事の内容</strong><ol>{headings.map(h => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}</ol></nav>}
+<div class="prose"><Content /></div>
+<section class="sources" aria-labelledby="sources-heading"><h2 id="sources-heading">出典</h2><ul>{item.meta.sources.map(s => <li><a href={s.url} rel="noopener">{s.title}</a></li>)}</ul></section>
+{others.length > 0 && <div class="article-end"><strong>ほかのAIニュース</strong>{others.map(n => <a href={`/news/${n.slug}/`}>{n.meta.title}<span aria-hidden="true"> →</span></a>)}</div>}</article></div>
+</Base>

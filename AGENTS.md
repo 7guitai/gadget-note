@@ -21,6 +21,16 @@
 - ChatGPTなどで作った記事（zip）は docs/chatgpt-brief.md の形式。取り込み時に【リンク】【要確認】【体験】【画像】の仮置き、リンク、画像、事実関係を確認する。ビルド時にも src/lib/content.ts で自動チェックされる。
 - 本文中の見出しはH2から。実際に読める記事に仕上げ、ダミー価格・ダミーリンクを公開しない。
 
+## AIニュース
+- ガジェット等の記事とは別セクション。src/content/news/<slug>.md、URLは /news/<slug>/。一覧 /news/、RSS /news/rss.xml。
+- docs/news-template.md をコピー。ChatGPTで作る場合は docs/chatgpt-news-brief.md の形式。
+- title, description, date（掲載日）, topic, sources は必須。topic は models / products / business / policy / research（src/lib/news.ts）。
+- 出典は frontmatter の sources（title と https のURL）に書く。本文に「## 出典」は書かない（自動表示）。
+- 一次情報（公式発表・公式ドキュメント・公的機関・論文）を確認してから公開する。取り込み時に出典の内容と発表日、日本での提供状況を確認する。うわさ・リークは扱わない。
+- 「発表」「提供開始」「予定」を区別する。誇張、根拠のない予想、体験談の捏造は禁止。アフィリエイトリンクは入れない。
+- 画像は任意。企業ロゴ・実在の製品画面・実在の人物を生成画像で描かない。画像は public/images/news/<slug>/ に置く。
+- 内容が変わった場合は updated を付けて本文を直す。記事は日付時点の情報である旨がページに自動表示される。
+
 ## 更新・公開
 - main が本番。原則、作業ブランチ → 変更確認 → main へ反映する。
 - 公開・マージはその会話でのユーザー指示と権限に従う。不要な再確認はしない。
@@ -34,3 +44,4 @@
 - サイト名 OCHA NOTE（お茶ノート）。ドメイン ochanote.com は取得済み。商標など名称の権利は未確認。
 - 外部解析、広告配信、問い合わせフォームは未導入。追加時は src/pages/privacy.astro を実際の処理に合わせて更新する。アフィリエイトプログラムに参加したら、プログラム名と各規約で必要な表記（例：Amazonアソシエイトの定型文）を privacy.astro に追記する。
 - 初期記事3本（gadget）は製品価格・具体的製品推薦を含まない一般的な選び方ガイド。
+- AIニュース欄は枠のみ作成済み（記事0件の間は「準備しています」と表示）。

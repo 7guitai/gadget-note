@@ -1,0 +1,9 @@
+---
+import { displayDate } from '../lib/content';
+const { item } = Astro.props;
+---
+<article class="news-item">
+<div class="meta"><time datetime={item.meta.date}>{displayDate(item.meta.date)}</time><span class="category-label">{item.topic.name}</span></div>
+<h3><a href={`/news/${item.slug}/`}>{item.meta.title}</a></h3>
+<p>{item.meta.description}</p>
+</article>
