@@ -32,5 +32,5 @@ const isPreview = import.meta.env.CF_PAGES_BRANCH && import.meta.env.CF_PAGES_BR
 {categories.map(c => <a href={`/category/${c.id}/`} aria-current={current === c.id ? 'page' : undefined}>{c.name.replace('・', '・\u200B')}</a>)}
 </nav></div>
 <main id="main"><slot /></main>
-<footer class="footer"><div class="container footer-inner"><div><a class="footer-brand" href="/">OCHA NOTE<span>.</span></a><p>必要な機能を知って、納得して選ぶ。</p></div><div class="footer-links"><a href="/about/">このサイトについて・編集方針</a><a href="/privacy/">プライバシーポリシー・免責事項</a></div><small>© {new Date().getFullYear()} OCHA NOTE</small></div></footer>
+<footer class="footer"><div class="container footer-inner"><div><a class="footer-brand" href="/">OCHA NOTE<span>.</span></a><p>必要な機能を知って、納得して選ぶ。</p></div><div class="footer-links"><a href="/about/">このサイトについて・編集方針</a><a href="/privacy/">プライバシーポリシー・免責事項</a></div><small>Amazonのアソシエイトとして、OCHA NOTEは適格販売により収入を得ています。<br />© {new Date().getFullYear()} OCHA NOTE</small></div></footer>
 </body></html>

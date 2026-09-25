@@ -8,7 +8,7 @@ coverLabel: "CHOOSE."
 cover: "/images/portable-ssd-use-case-3/cover.webp"
 coverAlt: "3種類の外付けSSDを用途別に選ぶことを表したイメージイラスト。実在製品の写真ではない"
 draft: false
-affiliate: false
+affiliate: true
 ---
 
 ノートPCとスマホで写真や資料をやり取りするなら、まずはUSB-CとUSB-Aのケーブルが両方付く**KIOXIA EXCERIA PLUS G2 ポータブルSSD**が候補になる。屋外に持ち出す機会が多ければ**Samsung T7 Shield**、USB-A端子のPCに小さく挿したいなら**BUFFALO SSD-PST1.0U3BA/N**を見たい。いずれも1TBモデルで比較するが、端子や初期フォーマットが違うため、速度の数字だけで選ぶと使い始めに困る。
@@ -47,6 +47,8 @@ affiliate: false
 
 **向く人：** Windows、Mac、USB-Cのスマホを行き来し、軽さと接続のしやすさを優先する人。**見送る人：** 防水・防塵性能を明示した製品が必要な人や、ケーブルを持ち歩きたくない人。
 
+<a class="buy-link" href="https://link.amazon/B0hsjI5Vb" rel="sponsored noopener">AmazonでKIOXIA EXCERIA PLUS G2 1TBを見る</a>
+
 
 ## 屋外へ持ち出す：Samsung T7 Shield
 
@@ -58,6 +60,8 @@ affiliate: false
 
 **向く人：** 屋外へ頻繁に持ち出し、メーカーが明示する防水・防塵条件を重視する人。**見送る人：** 室内でだけ使う人、できるだけ軽いものを探す人。
 
+<a class="buy-link" href="https://link.amazon/B0afXJGmC" rel="sponsored noopener">AmazonでSamsung T7 Shield 1TBを見る</a>
+
 
 ## USB-AのPCに小さく挿す：BUFFALO SSD-PST1.0U3BA/N
 
@@ -68,6 +72,8 @@ affiliate: false
 直挿しは便利だが、移動中に本体や端子へ力がかからない置き方を心がけたい。メーカーの「挿したまま持ち運べる」という説明は、端子の破損が絶対に起きないという保証ではない。保証期間は1年で、上の2製品より短い。
 
 **向く人：** USB-A端子のWindows PCでケーブルを減らしたい人。**見送る人：** USB-C機器が中心の人、MacやiPhoneとの共用を買ってすぐ始めたい人。
+
+<a class="buy-link" href="https://link.amazon/B0fVikVP6" rel="sponsored noopener">AmazonでBUFFALO SSD-PST1.0U3BA/N 1TBを見る</a>
 
 
 ## 買った後に失敗しないための確認
@@ -81,7 +87,7 @@ affiliate: false
 
 **PCとスマホの間を軽く行き来したいならKIOXIA。外へ頻繁に持ち出すならSamsung。USB-AのWindows PCに小さく挿したいならBUFFALO。** この3つが、今回確認できた仕様から出せる結論だ。
 
-価格は時期や販売店で変わるため、この記事では扱っていない。価格差で選ぶ場合は、購入する日に同じ1TB容量の正規品を同じ条件で比較してほしい。既に用途に合うSSDを持っているなら、端子と保存形式を確認して使い続ける選択も十分にある。
+価格は時期や販売店で変わるため、この記事では扱っていない。各製品の項目にあるAmazonのリンク先で、購入前に最新の価格と販売元を確認してほしい。価格差で選ぶ場合は、購入する日に同じ1TB容量の正規品を同じ条件で比較してほしい。既に用途に合うSSDを持っているなら、端子と保存形式を確認して使い続ける選択も十分にある。
 
 ## よくある質問
 
