@@ -66,6 +66,24 @@ iPhoneの写真・動画を保存するためのSSDは、まず「使うiPhone�
 
 特に大きな動画を頻繁に移す場合は、iPhone・SSD・ケーブルが対応する転送速度を確認します。製品に書かれた最高速度だけで決めず、使う機器をひと組として確認すると、買ったあとに認識しない、思ったより遅いといった行き違いを減らせます。
 
+<figure class="flow">
+<figcaption>接続方法の分岐図</figcaption>
+<ol class="flow-steps">
+<li class="flow-step"><p class="flow-q">iPhoneの端子は？</p><ul class="flow-branches">
+<li class="flow-end"><span class="flow-a">Lightning</span>「Lightning - USB 3カメラアダプタ」などで接続する。電源が足りない場合は、アダプタにUSB電源アダプタをつなぐ。</li>
+<li><span class="flow-a">USB-C</span>次の質問へ ↓</li>
+</ul></li>
+<li class="flow-step"><p class="flow-q">大きな動画を頻繁に移す？</p><ul class="flow-branches">
+<li class="flow-end"><span class="flow-a">はい</span>iPhoneがUSB 3に対応するモデルか（技術仕様の「コネクタ」欄）と、USB 3対応のケーブルを確認する。</li>
+<li class="flow-end"><span class="flow-a">いいえ</span>速度より、接続の確実さと容量を優先して選ぶ。</li>
+</ul></li>
+<li class="flow-step"><p class="flow-q">どの場合も：Windowsパソコンとも共有する？</p><ul class="flow-branches">
+<li class="flow-end"><span class="flow-a">はい</span>exFATでフォーマットされたSSDを候補にする。</li>
+<li class="flow-end"><span class="flow-a">いいえ</span>APFSなど、iPhoneが対応するほかの形式も選べる。長い動画を保存するならFAT32は避ける（1ファイル4GBまで）。</li>
+</ul></li>
+</ol>
+</figure>
+
 ## 参照情報
 
 - Apple「[iPhoneに外部ストレージデバイスを接続する](https://support.apple.com/ja-jp/guide/iphone/iph95baac91f/ios)」（確認日：2026-09-25）

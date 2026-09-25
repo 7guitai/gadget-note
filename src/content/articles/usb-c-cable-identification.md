@@ -64,6 +64,23 @@ USB-Cから映像を出すには、PCやタブレットの**該当ポートが�
 
 USB-IFの認証表示がある製品なら、公開製品検索で型番を探す方法もある。ただし掲載条件や日付の絞り込みがあり、見つからないだけで非適合と断定はできない。型番が不明なケーブルは、外観や簡単な転送テストだけで240Wの安全性まで保証できないので、高出力のPC充電には仕様の分かる製品を使いたい。
 
+<figure class="flow">
+<figcaption>手元のケーブルを見分ける分岐図</figcaption>
+<ol class="flow-steps">
+<li class="flow-step"><p class="flow-q">型番や購入履歴がわかる？</p><ul class="flow-branches">
+<li class="flow-end"><span class="flow-a">はい</span>型番と長さが合うメーカーの仕様表で、給電・データ・映像の3項目を確認する。</li>
+<li><span class="flow-a">いいえ</span>次の質問へ ↓</li>
+</ul></li>
+<li class="flow-step"><p class="flow-q">コネクターや被覆に「60W」「240W」「10Gbps」などの印字がある？</p><ul class="flow-branches">
+<li class="flow-end"><span class="flow-a">はい</span>印字されている範囲だけを信じる。書かれていない機能は「対応」と補わない。</li>
+<li><span class="flow-a">いいえ</span>次の質問へ ↓</li>
+</ul></li>
+<li class="flow-step"><p class="flow-q">確かめ方</p><ul class="flow-branches">
+<li class="flow-end"><span class="flow-a">用途ごとに試す</span>対応を確認済みの機器で、充電・転送・映像を一つずつ試し、確かめた用途をラベルにして保管する。高出力のPC充電には仕様のわかるケーブルを使う。</li>
+</ul></li>
+</ol>
+</figure>
+
 ## どんな人に、どのタイプが向く？
 
 **充電が中心**なら、充電器と機器に必要なW数、長さ、端子形状が合うケーブルで十分。スマホの写真をたまに移す程度なら、USB 2.0でも用途に合う場合がある。**外付けSSDを頻繁に使う人**はSSDとPCの速度に合わせて5Gbpsまたは10Gbpsなど、速度が明記されたものを選ぶ。**モニターとドックを1本で使う人**は、映像方式、解像度、データ速度、給電W数を接続する機器一式で照合する。

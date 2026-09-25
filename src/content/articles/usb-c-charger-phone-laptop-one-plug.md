@@ -70,6 +70,24 @@ Appleの35Wデュアルアダプタの案内では、使っていないケーブ
 
 選ぶ順番は「PCの必要電力 → 同時接続時のPC側出力 → ケーブル → スマホ固有の充電条件」。総出力の数字だけを見ず、この4点が合えば、1台にまとめる判断ができます。
 
+<figure class="flow">
+<figcaption>選び方の分岐図</figcaption>
+<ol class="flow-steps">
+<li class="flow-step"><p class="flow-q">PCはUSB-Cからの充電に対応している？</p><ul class="flow-branches">
+<li class="flow-end"><span class="flow-a">いいえ</span>USB-C充電器を買っても解決しない。PC付属の充電器を使う。</li>
+<li><span class="flow-a">はい</span>次の質問へ ↓</li>
+</ul></li>
+<li class="flow-step"><p class="flow-q">2台接続時に、PC側へ推奨W数以上を出せる？</p><ul class="flow-branches">
+<li><span class="flow-a">はい</span>次の質問へ ↓</li>
+<li class="flow-end"><span class="flow-a">いいえ</span>付属アダプタとスマホ用の小型充電器を使い分けるか、順番に充電する。</li>
+</ul></li>
+<li class="flow-step"><p class="flow-q">ケーブルは必要な電力に対応している？</p><ul class="flow-branches">
+<li class="flow-end"><span class="flow-a">はい</span>1台にまとめやすい。使いながら残量の増え方を確認する。</li>
+<li class="flow-end"><span class="flow-a">いいえ・不明</span>60Wを超える給電なら、240Wなど対応電力が表示されたケーブルを使う。</li>
+</ul></li>
+</ol>
+</figure>
+
 ## よくある質問
 
 ### 65Wの充電器をiPhoneにつないでも大丈夫？

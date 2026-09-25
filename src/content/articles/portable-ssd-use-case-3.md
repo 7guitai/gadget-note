@@ -89,6 +89,24 @@ affiliate: true
 
 価格は時期や販売店で変わるため、この記事では扱っていない。各製品の項目にあるAmazonのリンク先で、購入前に最新の価格と販売元を確認してほしい。価格差で選ぶ場合は、購入する日に同じ1TB容量の正規品を同じ条件で比較してほしい。既に用途に合うSSDを持っているなら、端子と保存形式を確認して使い続ける選択も十分にある。
 
+<figure class="flow">
+<figcaption>選び方の分岐図</figcaption>
+<ol class="flow-steps">
+<li class="flow-step"><p class="flow-q">主な接続先に、USB-Cの機器（Mac・iPhoneなど）がある？</p><ul class="flow-branches">
+<li class="flow-end"><span class="flow-a">いいえ（USB-AのWindows PCが中心）</span>BUFFALO SSD-PST1.0U3BA/N。ケーブルなしで直接挿せる。</li>
+<li><span class="flow-a">はい</span>次の質問へ ↓</li>
+</ul></li>
+<li class="flow-step"><p class="flow-q">屋外に持ち出す機会が多く、防水・防塵性能が必要？</p><ul class="flow-branches">
+<li class="flow-end"><span class="flow-a">はい</span>Samsung T7 Shield。IP65準拠で、KIOXIAより重く大きい。</li>
+<li class="flow-end"><span class="flow-a">いいえ</span>KIOXIA EXCERIA PLUS G2。約42gと軽く、C–C／C–Aケーブルが付属する。</li>
+</ul></li>
+<li class="flow-step"><p class="flow-q">どの場合も：WindowsとMac・iPhoneでファイルを共有する？</p><ul class="flow-branches">
+<li class="flow-end"><span class="flow-a">はい</span>使い始める前に保存形式を確認し、必要ならexFATにする（既存データは消えるので先に退避）。</li>
+<li class="flow-end"><span class="flow-a">いいえ</span>使う機器が対応する形式のままでよい。</li>
+</ul></li>
+</ol>
+</figure>
+
 ## よくある質問
 
 ### Q. MacのTime Machineにも使える？

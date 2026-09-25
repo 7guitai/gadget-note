@@ -32,3 +32,25 @@ affiliate: false
 - 机に置くのか、バッグで持ち運ぶのかを決める。
 
 この4点を整理してから候補を探すと、必要以上に大きい充電器や、手持ちの機器に合わないものを選びにくくなる。
+
+## 迷ったときの分岐図
+
+<figure class="flow">
+<figcaption>選び方の分岐図</figcaption>
+<ol class="flow-steps">
+<li class="flow-step"><p class="flow-q">充電したいのはスマホだけ？</p><ul class="flow-branches">
+<li class="flow-end"><span class="flow-a">はい</span>端末の推奨する充電条件を満たす充電器を選ぶ。ポートが多いことが利点になるとは限らない。</li>
+<li><span class="flow-a">いいえ（PCも）</span>次の質問へ ↓</li>
+</ul></li>
+<li class="flow-step"><p class="flow-q">PCとスマホを同時に充電したい？</p><ul class="flow-branches">
+<li class="flow-end"><span class="flow-a">はい</span>合計出力だけでなく、複数ポートを使ったときの出力配分を確認する。</li>
+<li class="flow-end"><span class="flow-a">いいえ</span>PCの推奨する条件を、1つのポートで満たせるかを確認する。</li>
+</ul></li>
+<li class="flow-step"><p class="flow-q">どの場合も：充電器を持ち運ぶ？</p><ul class="flow-branches">
+<li class="flow-end"><span class="flow-a">はい</span>重量、プラグの形、収納しやすさを見る。</li>
+<li class="flow-end"><span class="flow-a">いいえ</span>コンセントの位置と、隣の差込口をふさがないかを見る。</li>
+</ul></li>
+</ol>
+</figure>
+
+PCとスマホを1台の充電器にまとめたい場合は、「[スマホとノートPCを1台で充電するには？](/articles/usb-c-charger-phone-laptop-one-plug/)」で詳しく解説している。

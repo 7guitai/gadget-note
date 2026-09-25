@@ -61,6 +61,27 @@ PCは特に機種差が大きい。メーカーの仕様書で「USB-C充電に�
 
 コンセントのある場所でしか使わず、手持ちの充電器で困っていない人は購入を見送ってよい。手持ちのモバイルバッテリーが必要な容量・出力を満たし、異常やリコールもなければ、新機種への買い替えよりケーブルや充電習慣の見直しが先だ。
 
+## 迷ったときの分岐図
+
+<figure class="flow">
+<figcaption>選び方の分岐図</figcaption>
+<ol class="flow-steps">
+<li class="flow-step"><p class="flow-q">充電したいのはスマホだけ？</p><ul class="flow-branches">
+<li><span class="flow-a">はい</span>次の質問へ ↓</li>
+<li class="flow-end"><span class="flow-a">いいえ（ノートPC）</span>PCのUSB-C充電対応と推奨W数を確認し、単ポート出力が足りる20,000mAh前後から選ぶ。</li>
+<li class="flow-end"><span class="flow-a">いいえ（複数台・タブレット）</span>20,000mAh前後から。同時使用時の出力配分と重さを確認する。</li>
+</ul></li>
+<li class="flow-step"><p class="flow-q">どのくらい充電したい？</p><ul class="flow-branches">
+<li class="flow-end"><span class="flow-a">少し足せればよい</span>5,000mAh前後。小ささ・重さと端子で選ぶ。</li>
+<li class="flow-end"><span class="flow-a">一日使う分</span>10,000mAh前後。USB-C出力20W級と、本体への入力W数を確認する。</li>
+</ul></li>
+<li class="flow-step"><p class="flow-q">どの場合も：飛行機に持っていく？</p><ul class="flow-branches">
+<li class="flow-end"><span class="flow-a">はい</span>本体のWh表示を確認する。日本発着便は160Wh以下・1人2個まで機内持ち込み（預け入れ不可、機内での充電・使用も不可）。</li>
+<li class="flow-end"><span class="flow-a">いいえ</span>上の目安のまま、重さと形で絞り込む。</li>
+</ul></li>
+</ol>
+</figure>
+
 ## よくある疑問
 
 **Q. 10,000mAhなら5,000mAhのスマホを必ず2回充電できる？** できない。電圧や変換損失、スマホを使いながら充電するかで変わる。対象機種を示したメーカーの回数表示を目安として読む。
