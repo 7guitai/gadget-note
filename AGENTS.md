@@ -11,7 +11,7 @@
 ## 記事追加
 - src/content/articles/<小文字英数とハイフン>.md に1記事1ファイル。
 - docs/article-template.md をコピー。未確認の記事は draft: true のままにする。
-- category は gadget / souvenir / furniture / toolbox / life。新カテゴリ追加時は src/lib/content.ts も更新する。カテゴリを廃止・改名する場合は public/_redirects に301転送を追加する。
+- category は gadget / ai / souvenir / furniture / toolbox / life。新カテゴリ追加時は src/lib/content.ts も更新する。カテゴリを廃止・改名する場合は public/_redirects に301転送を追加する。
 - title, description, date, kind, coverLabel は必須。アイキャッチを使う場合は cover（/images/<slug>/cover.webp、1200×630）と coverAlt を指定する。日付は引用符付き YYYY-MM-DD（日本時間）。
 - 公開済みURLの slug は原則変更しない。変更する場合はCloudflare Pagesの_redirectsに301転送を追加する。
 - 未来日付の記事はビルド時に除外される。日付到来だけでは公開されないので、予定時刻に別途ビルドを実行する。
@@ -21,15 +21,13 @@
 - ChatGPTなどで作った記事（zip）は docs/chatgpt-brief.md の形式。取り込み時に【リンク】【要確認】【体験】【画像】の仮置き、リンク、画像、事実関係を確認する。ビルド時にも src/lib/content.ts で自動チェックされる。
 - 本文中の見出しはH2から。実際に読める記事に仕上げ、ダミー価格・ダミーリンクを公開しない。
 
-## AIニュース
-- ガジェット等の記事とは別セクション。src/content/news/<slug>.md、URLは /news/<slug>/。一覧 /news/、RSS /news/rss.xml。
-- docs/news-template.md をコピー。ChatGPTで作る場合は docs/chatgpt-news-brief.md の形式。
-- title, description, date（掲載日）, topic, sources は必須。topic は models / products / business / policy / research（src/lib/news.ts）。
-- 出典は frontmatter の sources（title と https のURL）に書く。本文に「## 出典」は書かない（自動表示）。
-- 一次情報（公式発表・公式ドキュメント・公的機関・論文）を確認してから公開する。取り込み時に出典の内容と発表日、日本での提供状況を確認する。うわさ・リークは扱わない。
-- 「発表」「提供開始」「予定」を区別する。誇張、根拠のない予想、体験談の捏造は禁止。アフィリエイトリンクは入れない。
-- 画像は任意。企業ロゴ・実在の製品画面・実在の人物を生成画像で描かない。画像は public/images/news/<slug>/ に置く。
-- 内容が変わった場合は updated を付けて本文を直す。記事は日付時点の情報である旨がページに自動表示される。
+## AIカテゴリ
+- category: ai。生成AIやAIサービスの仕組み・使い方・動向を扱う。ChatGPTで作る場合は docs/chatgpt-ai-brief.md の形式。
+- 一次情報（公式発表・公式ドキュメント・公的機関・論文）を確認してから公開する。取り込み時に参照先の内容、発表日、対象プラン、日本での提供状況を確認する。うわさ・リークは扱わない。
+- 「発表」「提供開始」「予定」「研究プレビュー」を区別する。発表から時間がたった話題を新しい発表のように書かない。「昨日」など相対的な日付は使わない。
+- 誇張、根拠のない予想、体験談の捏造は禁止。企業ロゴ・実在のサービス画面・実在の人物を生成画像で描かない。
+- AIカテゴリの記事ページには「この記事は〇〇時点の情報です」が自動表示される。内容が変わったら updated を付けて本文を直す。
+- 旧AIニュース欄（/news/）は廃止。public/_redirects で /category/ai/ へ転送している。
 
 ## 更新・公開
 - main が本番。原則、作業ブランチ → 変更確認 → main へ反映する。
@@ -44,4 +42,3 @@
 - サイト名 OCHA NOTE（お茶ノート）。ドメイン ochanote.com は取得済み。商標など名称の権利は未確認。
 - 外部解析、広告配信、問い合わせフォームは未導入。追加時は src/pages/privacy.astro を実際の処理に合わせて更新する。アフィリエイトプログラムに参加したら、プログラム名と各規約で必要な表記（例：Amazonアソシエイトの定型文）を privacy.astro に追記する。
 - 初期記事3本（gadget）は製品価格・具体的製品推薦を含まない一般的な選び方ガイド。
-- AIニュース欄は枠のみ作成済み（記事0件の間は「準備しています」と表示）。

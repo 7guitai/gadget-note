@@ -39,6 +39,7 @@ affiliate: false
 ---
 ```
 - category は次のどれか1つ：gadget（ガジェット）／souvenir（お土産）／furniture（家具・インテリア）／toolbox（道具箱）／life（暮らし・その他）
+- AIに関する記事は、この指示書ではなく AIカテゴリ用の指示書（docs/chatgpt-ai-brief.md）を使う。
 - kind は記事の種類：「実機レビュー」（筆者が実際に使ったもの）／「紹介」（公式情報を調べて紹介）／「選び方」／「比較」など。
 - coverLabel は英単語1語＋ピリオド（例：LISTEN. / KYOTO. / RELAX.）。画像がないときの表紙に使う。
 - draft は必ず true のままにする（公開前に人が確認するため）。

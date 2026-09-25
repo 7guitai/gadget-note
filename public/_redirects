@@ -4,3 +4,5 @@
 /category/audio /category/gadget/ 301
 /category/charging /category/gadget/ 301
 /category/desk /category/gadget/ 301
+/news/* /category/ai/ 301
+/news /category/ai/ 301

@@ -1,7 +1,7 @@
 ---
 title: "Claude Codeのクラウドセッションとは？PCを閉じても進む開発の仕組みと始め方"
 description: "Claude Codeをクラウド上で動かす仕組みを、GitHubとの連携、スマホでの確認方法、ローカル実行との違いまで解説します。"
-category: gadget
+category: ai
 date: "2026-09-25"
 kind: "解説"
 coverLabel: "CLOUD."

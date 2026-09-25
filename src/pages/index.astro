@@ -1,15 +1,12 @@
 ---
 import Base from '../layouts/Base.astro';
 import ArticleCard from '../components/ArticleCard.astro';
-import NewsItem from '../components/NewsItem.astro';
 import { articles } from '../lib/content';
-import { news } from '../lib/news';
 const featured = articles.find(a => a.slug === 'earphones-first') || articles[0];
 const remaining = articles.filter(a => a !== featured);
 ---
 <Base current="home">
-<section class="container intro"><span class="eyebrow">THE EVERYDAY GUIDE</span><h1>毎日使うものを、<br /><span>ひと息ついて選ぶ。</span></h1><p>ガジェットも、お土産も、家具も。<br />使う場面から、ちょうどいいものを選ぼう。</p></section>
+<section class="container intro"><span class="eyebrow">THE EVERYDAY GUIDE</span><h1>毎日使うものを、<br /><span>ひと息ついて選ぶ。</span></h1><p>ガジェットも、AIも、お土産も、家具も。<br />使う場面から、ちょうどいいものを選ぼう。</p></section>
 <section class="container feature-section" aria-label="まず読みたい記事"><div class="section-heading"><span class="eyebrow">START HERE</span><span class="section-note">まず読みたい、選び方の基本</span></div>{featured && <ArticleCard article={featured} featured />}</section>
 <section class="container latest"><div class="section-heading"><h2>選び方のノート</h2><span class="section-note">暮らしの場面から探す</span></div><div class="article-grid">{remaining.map(article => <ArticleCard article={article} />)}</div>{!articles.length && <p>記事を準備しています。</p>}</section>
-{news.length > 0 && <section class="container home-news"><div class="section-heading"><h2>AIニュース</h2><a class="section-note" href="/news/">すべて見る →</a></div><div class="news-list">{news.slice(0, 3).map(item => <NewsItem item={item} />)}</div></section>}
 </Base>

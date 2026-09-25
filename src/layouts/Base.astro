@@ -2,7 +2,7 @@
 import '../styles/global.css';
 import { categories } from '../lib/content';
 interface Props { title?: string; description?: string; current?: string; noindex?: boolean; image?: string; type?: 'website' | 'article'; }
-const { title, description = 'ガジェット、お土産、家具、道具。毎日の暮らしで使うものを、使う場面から選ぶためのガイド。', current, noindex = false, image, type = 'website' } = Astro.props;
+const { title, description = 'ガジェット、AI、お土産、家具、道具。毎日の暮らしで使うものを、使う場面から選ぶためのガイド。', current, noindex = false, image, type = 'website' } = Astro.props;
 const pageTitle = title ? `${title} | OCHA NOTE` : 'OCHA NOTE（お茶ノート）— 毎日使うものを、ゆっくり選ぶ。';
 const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site) : undefined;
 const ogImage = image && Astro.site ? new URL(image, Astro.site) : undefined;
@@ -18,7 +18,6 @@ const isPreview = import.meta.env.CF_PAGES_BRANCH && import.meta.env.CF_PAGES_BR
 <meta property="og:title" content={pageTitle} /><meta property="og:description" content={description} /><meta property="og:type" content={type} /><meta property="og:locale" content="ja_JP" />
 {canonical && <meta property="og:url" content={canonical} />}
 {ogImage && <><meta property="og:image" content={ogImage} /><meta name="twitter:card" content="summary_large_image" /></>}
-<link rel="alternate" type="application/rss+xml" title="OCHA NOTE AIニュース" href="/news/rss.xml" />
 <link rel="icon" href="/favicon.svg" type="image/svg+xml" /><meta name="theme-color" content="#3d6b35" />
 </head>
 <body>
@@ -30,9 +29,8 @@ const isPreview = import.meta.env.CF_PAGES_BRANCH && import.meta.env.CF_PAGES_BR
 </header>
 <div class="nav-wrap"><nav class="container nav" aria-label="メインメニュー">
 <a href="/" aria-current={current === 'home' ? 'page' : undefined}>すべての記事</a>
-{categories.map(c => <a href={`/category/${c.id}/`} aria-current={current === c.id ? 'page' : undefined}>{c.name}</a>)}
-<a class="nav-news" href="/news/" aria-current={current === 'news' ? 'page' : undefined}>AIニュース</a>
+{categories.map(c => <a href={`/category/${c.id}/`} aria-current={current === c.id ? 'page' : undefined}>{c.name.replace('・', '・\u200B')}</a>)}
 </nav></div>
 <main id="main"><slot /></main>
-<footer class="footer"><div class="container footer-inner"><div><a class="footer-brand" href="/">OCHA NOTE<span>.</span></a><p>必要な機能を知って、納得して選ぶ。</p></div><div class="footer-links"><a href="/about/">このサイトについて・編集方針</a><a href="/news/">AIニュース</a><a href="/privacy/">プライバシーポリシー・免責事項</a></div><small>© {new Date().getFullYear()} OCHA NOTE</small></div></footer>
+<footer class="footer"><div class="container footer-inner"><div><a class="footer-brand" href="/">OCHA NOTE<span>.</span></a><p>必要な機能を知って、納得して選ぶ。</p></div><div class="footer-links"><a href="/about/">このサイトについて・編集方針</a><a href="/privacy/">プライバシーポリシー・免責事項</a></div><small>© {new Date().getFullYear()} OCHA NOTE</small></div></footer>
 </body></html>

@@ -50,8 +50,8 @@ CloudflareのWorkers & PagesからPagesのGit連携プロジェクトを作成�
 
 プレビュー用ブランチはnoindexを出力します。本番サイトはmainブランチで運用してください。プレビューはURLを知る人が閲覧できる場合があるため、秘密情報は記事に入れないでください。
 
-## AIニュース
-ガジェット等の記事とは別に /news/ で扱う。docs/news-template.md を src/content/news/<slug>.md にコピーして書くか、docs/chatgpt-news-brief.md の指示書で ChatGPT に zip を作ってもらい Claude Code に渡す。出典は frontmatter の sources に書くと記事末尾に自動表示される。
+## AIカテゴリ
+AIの記事は category: ai。ChatGPTで作る場合は docs/chatgpt-ai-brief.md の指示書を使う。それ以外のカテゴリは docs/chatgpt-brief.md。
 
 ## 日々の記事更新
 ChatGPTで記事を作る場合は docs/chatgpt-brief.md の指示書を使い、zip を Claude Code に渡す。
