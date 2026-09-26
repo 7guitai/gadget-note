@@ -53,4 +53,4 @@ affiliate: false
 </ol>
 </figure>
 
-PCとスマホを1台の充電器にまとめたい場合は、「[スマホとノートPCを1台で充電するには？](/articles/usb-c-charger-phone-laptop-one-plug/)」で詳しく解説している。
+PCとスマホを1台の充電器にまとめたい場合は、「[スマホとノートPCを1台で充電するには？](/articles/usb-c-charger-phone-laptop-one-plug/)」で詳しく解説している。旅行に持っていく充電器・ケーブル・バッテリーの組み合わせは「[旅行の充電セット](/articles/travel-charging-kit-guide/)」へ。
