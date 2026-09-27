@@ -12,6 +12,13 @@
 3. `node design/templates/export-banner.mjs <slug>` で書き出し、`node scripts/image-variants.mjs` で一覧用・シェア用の画像を作る。
 4. 記事の frontmatter に cover と coverAlt（「〇〇」のタイトル画像。写真はAI生成のイメージで、実際の製品写真ではありません）を書く。
 
+## 背景画像の追加（未対応記事用）
+image-prompts.json に ai / audio / desk / wireless のプロンプトを用意済み。生成した画像は design/assets/backgrounds/<名前>.webp として保存する。
+- ai → claude-code-cloud-sessions
+- audio → earphones-first
+- desk → desk-small-start、laptop-stand-height-portability、usb-hub-dock-port-power-guide
+- wireless → qi2-wireless-charging-guide
+
 ## バナー未対応の記事（2026-09-27時点、既存の画像のまま）
 合う背景がまだないため、以下は既存の表紙を使用中。テーマに合う背景（例：AIはノートPC、音楽はイヤホン、家具・デスクは椅子や机）を用意してから差し替える。
 - claude-code-cloud-sessions（AI）
