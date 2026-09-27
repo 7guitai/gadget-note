@@ -13,7 +13,7 @@ export const topics = ['charging', 'cable', 'storage', 'backup', 'desk', 'audio'
 export interface ArticleMeta { title: string; description: string; category: string; date: string; updated?: string; draft?: boolean; kind: string; coverLabel: string; cover?: string; coverAlt?: string; affiliate?: boolean; topics?: string[]; }
 
 // 既知のアフィリエイト・短縮リンクのドメイン。必要に応じて追加する。
-const affiliateHosts = /(amzn\.to|link\.amazon\/|amazon\.co\.jp\/[^"')\s]*[?&]tag=|hb\.afl\.rakuten\.co\.jp|af\.moshimo\.com|px\.a8\.net|ck\.jp\.ap\.valuecommerce\.com|click\.linksynergy\.com|t\.afi-b\.com|ad\.presco\.jp)/;
+const affiliateHosts = /(amzn\.to|amzn\.asia|link\.amazon\/|amazon\.co\.jp\/[^"')\s]*[?&]tag=|hb\.afl\.rakuten\.co\.jp|af\.moshimo\.com|px\.a8\.net|ck\.jp\.ap\.valuecommerce\.com|click\.linksynergy\.com|t\.afi-b\.com|ad\.presco\.jp)/;
 
 // 本文の画像・仮置き・購入リンクのチェック
 function checkBody(raw: string, opts: { draft?: boolean; affiliate?: boolean; cover?: string; coverAlt?: string }) {

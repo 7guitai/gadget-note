@@ -9,7 +9,7 @@ coverLabel: "CHARGE."
 cover: "/images/laptop-phone-charger-power-split/cover.webp"
 coverAlt: "「2台同時の電力配分」のタイトル画像。写真はAI生成のイメージで、実際の製品写真ではありません"
 draft: false
-affiliate: false
+affiliate: true
 ---
 
 大学の講義や外出先で、PCとスマホをコンセント1口から同時に充電したい。そんなときは、充電器に書かれた「最大100W」だけで選ばず、**2台をつないだときにPC側へ何W残るか**を確認してください。MacBook Airなどで軽い作業が中心なら65W級、PCの必要電力が高めか使い方が決まっていないなら100W級、PCに100Wを渡しながらスマホも充電したいなら140W級が候補になります。
@@ -36,7 +36,7 @@ Appleも、機種ごとに推奨するW数以上のアダプタを案内して�
 | Anker Charger (100W, 3 Ports) with USB-C & USB-Cケーブル | 70W＋30W（条件により95W＋5W） | USB-C1/C2最大100W | 約220g | 9,990円 |
 | Anker Charger (140W, 4 Ports) with USB-C & USB-C ケーブル | C1/C2＋C3なら100W＋40W。C1＋C2なら70W＋70W | USB-C1/C2最大140W | 約275g | 12,990円 |
 
-価格は変わることがあるので、購入前に販売ページで確認してください。
+価格は販売元や時期で変わります。Amazonなどほかの販売店では価格が異なるため、購入前に販売ページで確認してください。
 
 100W級の「95W＋5W」は、Ankerの説明によると、もう一方のポートの機器がほとんど電力を使っていない（充電の条件が成立しない）状態が続いたときに切り替わる配分です。つまり、充電が終わりかけたスマホやワイヤレスイヤホンをつないでいるときに、PC側へ多く回す仕組みです。140W級はポートの組み合わせが大事で、PCをC1かC2、スマホをC3につなぐと100W＋40W、C1とC2の2口を使うと70W＋70Wになります。
 
@@ -46,17 +46,23 @@ Appleも、機種ごとに推奨するW数以上のアダプタを案内して�
 
 一方、PCの付属アダプタが65W以上で、負荷の高い作業をしながらスマホも充電したい人には慎重におすすめします。2台つないだときのPC側は最大45Wだからです。対応機種の一覧に載っていても、付属の充電器と同じ速さで充電できるとは限りません。
 
+<a class="buy-link" href="https://link.amazon/B0cGbRUff" rel="sponsored noopener">AmazonでAnker PowerPort III 3-Port 65W Podを見る</a>
+
 ## 使い方の幅が広い100W級
 
 [Anker Charger (100W, 3 Ports)](https://www.ankerjapan.com/products/b121b)は、USB-Cが2口、USB-Aが1口です。PCだけならUSB-C1/C2で最大100W、USB-C 2口を同時に使うと70W＋30Wが基本です。MacBook Airなどとスマホをまとめたい人、将来もう少し電力が必要なPCに替えるかもしれない人の第一候補になります。
 
 ただし、2台同時の基本の配分ではPC側は70Wです。付属アダプタが90W以上のPCを、スマホと一緒に使いながら充電したいなら、次の140W級のほうが条件を読み取りやすくなります。重さは約220gで、65W級より約90g重くなります。
 
+<a class="buy-link" href="https://link.amazon/B05L5ZlbC" rel="sponsored noopener">AmazonでAnker Charger (100W, 3 Ports)を見る</a>
+
 ## PCに100Wを確保したいなら140W級
 
 [Anker Charger (140W, 4 Ports)](https://www.ankerjapan.com/products/b2697)は、USB-Cが3口、USB-Aが1口です。PCをC1かC2、スマホをC3につなぐと、公称100W＋40Wになります。付属アダプタが90〜100W程度のPCとスマホを一緒に使う場面なら、100W級との価格差に意味があります。
 
 その代わり約275gで、65W級より約145g重くなります。「PCだけなら最大140W」という数字も、スマホをつないだままPCに140Wを送れるという意味ではありません。16インチMacBook Proの高速充電など、140Wが目的の場合は、対応機種とケーブルの条件をAppleの案内でも確かめてください。
+
+<a class="buy-link" href="https://amzn.asia/d/0cv3OK8V" rel="sponsored noopener">AmazonでAnker Charger (140W, 4 Ports)を見る</a>
 
 ## 購入前に見落としやすい3点
 
