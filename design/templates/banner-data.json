@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "ipad-for-university-students-2026",
+    "background": "editorial",
+    "eyebrow": "大学生の",
+    "title": "iPadの選び方",
+    "subtitle": "講義ノートから考える",
+    "label": "CAMPUS GUIDE"
+  },
+  {
+    "slug": "mobile-power-bank-buying-guide",
+    "background": "charging",
+    "eyebrow": "外出先でも、安心を。",
+    "title": "バッテリーの選び方",
+    "subtitle": "容量・出力・持ち運びやすさ",
+    "label": "CHARGING GUIDE"
+  },
+  {
+    "slug": "usb-c-cable-identification",
+    "background": "charging",
+    "eyebrow": "そのケーブル、何ができる？",
+    "title": "USB-Cの見分け方",
+    "subtitle": "充電・転送・映像を確認",
+    "label": "CABLE GUIDE"
+  },
+  {
+    "slug": "photo-backup-cloud-ssd-computer",
+    "background": "storage",
+    "eyebrow": "大切な写真を、残す。",
+    "title": "写真のバックアップ",
+    "subtitle": "クラウド・SSD・PCを比較",
+    "label": "STORAGE GUIDE"
+  },
+  {
+    "slug": "external-ssd-hdd-differences",
+    "background": "storage",
+    "eyebrow": "用途から選ぶ、保存先。",
+    "title": "SSDとHDDの違い",
+    "subtitle": "持ち運びと据え置きで考える",
+    "label": "STORAGE GUIDE"
+  },
+  {
+    "slug": "usb-c-charger-phone-laptop-one-plug",
+    "background": "charging",
+    "eyebrow": "スマホも、ノートPCも。",
+    "title": "充電器をひとつに",
+    "subtitle": "出力とポートの配分を確認",
+    "label": "CHARGING GUIDE"
+  },
+  {
+    "slug": "usb-pd-explained",
+    "background": "charging",
+    "eyebrow": "65Wの数字、どう読む？",
+    "title": "USB PDとは？",
+    "subtitle": "端末・充電器・ケーブルの確認順",
+    "label": "CHARGING GUIDE"
+  },
+  {
+    "slug": "travel-charging-kit-guide",
+    "background": "charging",
+    "eyebrow": "旅の荷物を、軽く。",
+    "title": "旅行の充電セット",
+    "subtitle": "充電器・ケーブル・バッテリー",
+    "label": "TRAVEL GUIDE"
+  },
+  {
+    "slug": "charging-checklist",
+    "background": "charging",
+    "eyebrow": "買う前に、ひと呼吸。",
+    "title": "充電器のチェック",
+    "subtitle": "端末・ケーブル・持ち運び方",
+    "label": "CHARGING GUIDE"
+  },
+  {
+    "slug": "ssd-exfat-format-windows-mac",
+    "background": "storage",
+    "eyebrow": "MacとWindowsで使う。",
+    "title": "SSDをexFATに",
+    "subtitle": "消去前の確認とOS別の手順",
+    "label": "STORAGE GUIDE"
+  },
+  {
+    "slug": "portable-ssd-use-case-3",
+    "background": "storage",
+    "eyebrow": "1TBを3機種で比べる。",
+    "title": "外付けSSDの比較",
+    "subtitle": "端子・重さ・防水・初期形式",
+    "label": "STORAGE GUIDE"
+  },
+  {
+    "slug": "iphone-photo-ssd",
+    "background": "storage",
+    "eyebrow": "iPhoneの写真を、SSDへ。",
+    "title": "写真を外付けSSDへ",
+    "subtitle": "フォーマット・端子・給電",
+    "label": "STORAGE GUIDE"
+  }
+]

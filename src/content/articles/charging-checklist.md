@@ -5,6 +5,8 @@ category: gadget
 date: "2026-09-23"
 kind: "購入前チェック"
 coverLabel: "CHARGE."
+cover: "/images/charging-checklist/cover.webp"
+coverAlt: "「充電器のチェック」のタイトル画像。写真はAI生成のイメージで、実際の製品写真ではありません"
 draft: false
 affiliate: false
 ---

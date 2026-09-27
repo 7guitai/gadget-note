@@ -1,12 +1,12 @@
 import type { MarkdownInstance } from 'astro';
 import { existsSync } from 'node:fs';
 export const categories = [
-  { id: 'gadget', name: 'ガジェット', short: 'GADGET', color: '#e8eef9' },
-  { id: 'ai', name: 'AI', short: 'AI', color: '#e3eef1' },
-  { id: 'souvenir', name: 'お土産', short: 'SOUVENIR', color: '#f6e7e1' },
-  { id: 'furniture', name: '家具・インテリア', short: 'FURNITURE', color: '#f2eadd' },
-  { id: 'toolbox', name: '道具箱', short: 'TOOLBOX', color: '#e7f0ec' },
-  { id: 'life', name: '暮らし・その他', short: 'LIFE', color: '#eeeaf4' },
+  { id: 'gadget', name: 'ガジェット', short: 'GADGET', desc: '毎日の道具を選ぶ', color: '#E3E8DD' },
+  { id: 'ai', name: 'AI', short: 'AI', desc: '新しい使い方を知る', color: '#DDE6E4' },
+  { id: 'souvenir', name: 'お土産', short: 'SOUVENIR', desc: '贈る気持ちをかたちに', color: '#EFE4D8' },
+  { id: 'furniture', name: '家具・インテリア', short: 'FURNITURE', desc: '心地よい部屋をつくる', color: '#ECE5D7' },
+  { id: 'toolbox', name: '道具箱', short: 'TOOLBOX', desc: '困ったときの手がかり', color: '#E1E7DC' },
+  { id: 'life', name: '暮らし・その他', short: 'LIFE', desc: '日常を少し整える', color: '#E8E4E6' },
 ];
 export interface ArticleMeta { title: string; description: string; category: string; date: string; updated?: string; draft?: boolean; kind: string; coverLabel: string; cover?: string; coverAlt?: string; affiliate?: boolean; }
 
@@ -54,3 +54,12 @@ export const articles = Object.entries(files).map(([path, article]) => {
 }).filter(a => !a.meta.draft && a.meta.date <= todayJst())
 .sort((a,b) => b.meta.date.localeCompare(a.meta.date) || a.slug.localeCompare(b.slug));
 export const displayDate = (date: string) => date.replaceAll('-', '.');
+export const PER_PAGE = 12;
+// カバー画像の派生（scripts/image-variants.mjs で作る一覧用600px・シェア用JPEG）
+export function coverVariants(cover?: string) {
+  if (!cover) return undefined;
+  const base = cover.replace(/\.webp$/, '');
+  const small = existsSync(`public${base}-600.webp`) ? `${base}-600.webp` : undefined;
+  const og = existsSync(`public${base}.jpg`) ? `${base}.jpg` : cover;
+  return { src: cover, small, og };
+}

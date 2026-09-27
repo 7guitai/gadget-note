@@ -21,6 +21,13 @@
 - ChatGPTなどで作った記事（zip）は docs/chatgpt-brief.md の形式。取り込み時に【リンク】【要確認】【体験】【画像】の仮置き、リンク、画像、事実関係を確認する。ビルド時にも src/lib/content.ts で自動チェックされる。
 - 本文中の見出しはH2から。実際に読める記事に仕上げ、ダミー価格・ダミーリンクを公開しない。
 
+## デザイン
+- 配色・余白・文字・バナー規格は design/DESIGN_SYSTEM.md（アイボリー #F6F2EA × 深緑 #173D38）。実装は src/styles/global.css。フォントはシステムの日本語ゴシック（Noto Sans JPのファイルはサイトで配信しない）。
+- 記事の表紙は1200×630のバナー（左に文字、右に写真、左上に OCHA NOTE のピル）。design/templates から書き出す。手順と未対応記事は design/README.md。
+- 主題が違う記事に別テーマの写真を流用しない。合う背景がない記事は既存の表紙のままにして design/README.md の未対応リストに残す。
+- cover.webp を置いたら node scripts/image-variants.mjs を実行し、一覧用（cover-600.webp）とシェア用（cover.jpg）を作る。
+- トップ：ヒーロー → テーマ別6カテゴリ → 新着6件 → すべての記事（/articles/、12件ごとのページ送り）。
+
 ## AIカテゴリ
 - category: ai。生成AIやAIサービスの仕組み・使い方・動向を扱う。ChatGPTで作る場合は docs/chatgpt-ai-brief.md の形式。
 - 一次情報（公式発表・公式ドキュメント・公的機関・論文）を確認してから公開する。取り込み時に参照先の内容、発表日、対象プラン、日本での提供状況を確認する。うわさ・リークは扱わない。

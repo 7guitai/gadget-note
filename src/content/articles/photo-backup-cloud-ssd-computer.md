@@ -6,7 +6,7 @@ date: "2026-09-26"
 kind: "比較"
 coverLabel: "BACKUP."
 cover: "/images/photo-backup-cloud-ssd-computer/cover.webp"
-coverAlt: "写真のバックアップクラウド・SSD・PC比較の要点を示すイラスト"
+coverAlt: "「写真のバックアップ」のタイトル画像。写真はAI生成のイメージで、実際の製品写真ではありません"
 draft: false
 affiliate: false
 ---

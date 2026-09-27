@@ -1,0 +1,16 @@
+---
+import ArticleCard from './ArticleCard.astro';
+import Pager from './Pager.astro';
+import { articles, PER_PAGE } from '../lib/content';
+const { page } = Astro.props;
+const pages = Math.max(1, Math.ceil(articles.length / PER_PAGE));
+const posts = articles.slice((page - 1) * PER_PAGE, page * PER_PAGE);
+---
+<div class="wrap listing">
+<nav class="crumb" aria-label="パンくず"><a href="/">ホーム</a> / すべての記事</nav>
+<p class="kicker">ALL NOTES</p>
+<h1 class="page-title">すべての記事</h1>
+<p class="listing-lead">{articles.length}件の記事{pages > 1 && `（${page} / ${pages}ページ）`}。新しい順に並んでいます。</p>
+<div class="grid">{posts.map(article => <ArticleCard article={article} level={2} />)}</div>
+<Pager page={page} pages={pages} />
+</div>

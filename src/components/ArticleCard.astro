@@ -1,11 +1,16 @@
 ---
-import { displayDate } from '../lib/content';
-const { article, featured = false } = Astro.props;
+import { coverVariants } from '../lib/content';
+const { article, level = 3 } = Astro.props;
+const H = level === 2 ? 'h2' : 'h3';
+const v = coverVariants(article.meta.cover);
+const href = `/articles/${article.slug}/`;
 ---
-<article class:list={['article-card', { featured }]}>
-<a class:list={['card-cover', { 'has-image': article.meta.cover }]} href={`/articles/${article.slug}/`} style={`--cover:${article.category.color}`} tabindex="-1" aria-hidden="true">
-{article.meta.cover ? <img src={article.meta.cover} alt="" width="1200" height="630" loading={featured ? 'eager' : 'lazy'} /> : <><span class="cover-category">{article.category.short} / GUIDE</span><span class="cover-word">{article.meta.coverLabel}</span><span class="cover-bottom">OCHA NOTE <span>読む →</span></span></>}
+<article class="card">
+<a class="card-media" href={href} tabindex="-1" aria-hidden="true">
+{v ? <img src={v.small ?? v.src} srcset={v.small ? `${v.small} 600w, ${v.src} 1200w` : undefined} sizes="(max-width: 760px) calc(100vw - 40px), (max-width: 1023px) 46vw, 360px" width="1200" height="630" alt="" loading="lazy" decoding="async" />
+ : <span class="text-cover" style={`--cover:${article.category.color}`}><span class="text-cover-cat">{article.category.short} / GUIDE</span><span class="text-cover-word">{article.meta.coverLabel}</span><span class="text-cover-brand">OCHA NOTE</span></span>}
 </a>
-<div class="card-body"><div class="meta"><span class="category-label">{article.category.name}</span><span>{article.meta.kind}</span>{article.meta.affiliate && <span class="pr-label">PR</span>}</div>
-<h2><a href={`/articles/${article.slug}/`}>{article.meta.title}</a></h2><p>{article.meta.description}</p><time datetime={article.meta.date}>{displayDate(article.meta.date)}</time></div>
+<p class="meta"><span>{article.category.name}</span><span aria-hidden="true">/</span><span>{article.meta.kind}</span>{article.meta.affiliate && <span class="pr-label">PR</span>}</p>
+<H class="card-title"><a href={href}>{article.meta.title}</a></H>
+<p class="card-desc">{article.meta.description}</p>
 </article>

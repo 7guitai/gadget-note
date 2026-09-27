@@ -6,7 +6,7 @@ date: "2026-09-26"
 kind: "選び方"
 coverLabel: "TRAVEL."
 cover: "/images/travel-charging-kit-guide/cover.webp"
-coverAlt: "旅行の充電セット必要なものを最小限にの要点を示すイラスト"
+coverAlt: "「旅行の充電セット」のタイトル画像。写真はAI生成のイメージで、実際の製品写真ではありません"
 draft: false
 affiliate: false
 ---

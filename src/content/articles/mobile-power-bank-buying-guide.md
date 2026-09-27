@@ -6,7 +6,7 @@ date: "2026-09-26"
 kind: "選び方"
 coverLabel: "CHOOSE."
 cover: "/images/mobile-power-bank-buying-guide/cover.webp"
-coverAlt: "スマホとノートPC、バッテリーの容量と出力を図で示したイメージ"
+coverAlt: "「バッテリーの選び方」のタイトル画像。写真はAI生成のイメージで、実際の製品写真ではありません"
 draft: false
 affiliate: false
 ---

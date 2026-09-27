@@ -6,7 +6,7 @@ date: "2026-09-26"
 kind: "使い方"
 coverLabel: "FORMAT."
 cover: "/images/ssd-exfat-format-windows-mac/cover.webp"
-coverAlt: "外付けSSDをexFATへWindows・Macの手順の要点を示すイラスト"
+coverAlt: "「SSDをexFATに」のタイトル画像。写真はAI生成のイメージで、実際の製品写真ではありません"
 draft: false
 affiliate: false
 ---

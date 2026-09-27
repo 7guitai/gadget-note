@@ -6,7 +6,7 @@ date: "2026-09-26"
 kind: "解説"
 coverLabel: "STORE."
 cover: "/images/external-ssd-hdd-differences/cover.webp"
-coverAlt: "外付けSSDとHDD違いと選び分けの要点を示すイラスト"
+coverAlt: "「SSDとHDDの違い」のタイトル画像。写真はAI生成のイメージで、実際の製品写真ではありません"
 draft: false
 affiliate: false
 ---

@@ -6,7 +6,7 @@ date: "2026-09-26"
 kind: "選び方"
 coverLabel: "CHECK."
 cover: "/images/usb-c-cable-identification/cover.webp"
-coverAlt: "USB-Cケーブルと給電・転送・映像の3項目を示すイメージ図"
+coverAlt: "「USB-Cの見分け方」のタイトル画像。写真はAI生成のイメージで、実際の製品写真ではありません"
 draft: false
 affiliate: false
 ---

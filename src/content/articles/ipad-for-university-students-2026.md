@@ -6,7 +6,7 @@ date: "2026-09-27"
 kind: "選び方"
 coverLabel: "CHOOSE."
 cover: "/images/ipad-for-university-students-2026/cover.webp"
-coverAlt: "机に置いたタブレットとペンのイメージ画像（実際の製品写真ではありません）"
+coverAlt: "「iPadの選び方」のタイトル画像。写真はAI生成のイメージで、実際の製品写真ではありません"
 draft: false
 affiliate: false
 ---

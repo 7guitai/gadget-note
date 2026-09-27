@@ -6,7 +6,7 @@ date: "2026-09-25"
 kind: "比較"
 coverLabel: "CHOOSE."
 cover: "/images/portable-ssd-use-case-3/cover.webp"
-coverAlt: "3種類の外付けSSDを用途別に選ぶことを表したイメージイラスト。実在製品の写真ではない"
+coverAlt: "「外付けSSDの比較」のタイトル画像。写真はAI生成のイメージで、実際の製品写真ではありません"
 draft: false
 affiliate: true
 ---

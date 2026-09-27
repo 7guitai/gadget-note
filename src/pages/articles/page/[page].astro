@@ -1,0 +1,11 @@
+---
+import Base from '../../../layouts/Base.astro';
+import ArticleList from '../../../components/ArticleList.astro';
+import { articles, PER_PAGE } from '../../../lib/content';
+export function getStaticPaths() {
+  const pages = Math.ceil(articles.length / PER_PAGE);
+  return Array.from({ length: Math.max(0, pages - 1) }, (_, i) => ({ params: { page: String(i + 2) }, props: { page: i + 2 } }));
+}
+const { page } = Astro.props;
+---
+<Base title={`すべての記事（${page}ページ目）`} current="all"><ArticleList page={page} /></Base>

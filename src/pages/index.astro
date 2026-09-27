@@ -1,12 +1,33 @@
 ---
 import Base from '../layouts/Base.astro';
 import ArticleCard from '../components/ArticleCard.astro';
-import { articles } from '../lib/content';
-const featured = articles.find(a => a.slug === 'earphones-first') || articles[0];
-const remaining = articles.filter(a => a !== featured);
+import { articles, categories } from '../lib/content';
+const latest = articles.slice(0, 6);
+const count = (id: string) => articles.filter(a => a.meta.category === id).length;
 ---
 <Base current="home">
-<section class="container hero"><h1 class="sr-only">毎日使うものを、ひと息ついて選ぶ。OCHA NOTE</h1><img class="hero-img" src="/hero-1734.webp" srcset="/hero-900.webp 900w, /hero-1734.webp 1734w" sizes="(max-width: 1184px) calc(100vw - 36px), 1120px" width="1734" height="907" alt="" fetchpriority="high" /><p class="hero-lead">ガジェットも、AIも、お土産も、家具も。使う場面から、ちょうどいいものを選ぼう。</p></section>
-<section class="container feature-section" aria-label="まず読みたい記事"><div class="section-heading"><span class="eyebrow">START HERE</span><span class="section-note">まず読みたい、選び方の基本</span></div>{featured && <ArticleCard article={featured} featured />}</section>
-<section class="container latest"><div class="section-heading"><h2>選び方のノート</h2><span class="section-note">暮らしの場面から探す</span></div><div class="article-grid">{remaining.map(article => <ArticleCard article={article} />)}</div>{!articles.length && <p>記事を準備しています。</p>}</section>
+<link slot="head" rel="preload" as="image" href="/hero-editorial-1600.webp" media="(min-width: 761px)" fetchpriority="high" />
+<div class="wrap">
+<section class="hero">
+<picture><source media="(max-width: 760px)" srcset="/hero-editorial-900.webp" width="900" height="473" /><img class="hero-photo" src="/hero-editorial-1600.webp" width="1600" height="841" alt="" fetchpriority="high" /></picture>
+<div class="hero-copy">
+<p class="kicker">A LITTLE NOTE FOR YOUR EVERYDAY</p>
+<h1>毎日使うものを、<br />ひと息ついて選ぶ。</h1>
+<p>ガジェットも、AIも、暮らしの道具も。<br />使う場面から、ちょうどいいものを。</p>
+<a class="button" href="#latest">選び方のノートを読む <span aria-hidden="true">→</span></a>
+</div>
+</section>
+
+<section class="section" aria-labelledby="explore">
+<div class="section-title"><div><p class="kicker">EXPLORE</p><h2 id="explore">気になるテーマから</h2></div></div>
+<ul class="topics">{categories.map(c => <li><a class="topic" href={`/category/${c.id}/`}><strong>{c.name} <span aria-hidden="true">↗</span></strong><span>{c.desc}</span><span class="topic-count">{count(c.id) ? `${count(c.id)}件の記事` : '記事を準備中'}</span></a></li>)}</ul>
+</section>
+
+<section class="section" id="latest" aria-labelledby="latest-title">
+<div class="section-title"><div><p class="kicker">LATEST NOTES</p><h2 id="latest-title">新しい、選び方のノート</h2></div><a class="small-link" href="/articles/">すべて読む <span aria-hidden="true">↗</span></a></div>
+<div class="grid">{latest.map(article => <ArticleCard article={article} />)}</div>
+{!articles.length && <p>記事を準備しています。</p>}
+<p class="more"><a class="button button-line" href="/articles/">すべての記事を見る <span aria-hidden="true">→</span></a></p>
+</section>
+</div>
 </Base>

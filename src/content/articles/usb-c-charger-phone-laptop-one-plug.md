@@ -6,7 +6,7 @@ date: "2026-09-25"
 kind: "選び方"
 coverLabel: "CHOOSE."
 cover: "/images/usb-c-charger-phone-laptop-one-plug/cover.webp"
-coverAlt: "ノートPCとスマートフォンを1台のUSB-C充電器につなぐ模式図。製品の実物写真ではないイメージ"
+coverAlt: "「充電器をひとつに」のタイトル画像。写真はAI生成のイメージで、実際の製品写真ではありません"
 draft: false
 affiliate: false
 ---

@@ -6,7 +6,7 @@ date: "2026-09-26"
 kind: "解説"
 coverLabel: "CHARGE."
 cover: "/images/usb-pd-explained/cover.webp"
-coverAlt: "USB PDとは？急速充電のしくみの要点を示すイラスト"
+coverAlt: "「USB PDとは？」のタイトル画像。写真はAI生成のイメージで、実際の製品写真ではありません"
 draft: false
 affiliate: false
 ---

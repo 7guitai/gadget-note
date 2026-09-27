@@ -6,7 +6,7 @@ date: "2026-09-25"
 kind: "選び方"
 coverLabel: "STORE."
 cover: "/images/iphone-photo-ssd/cover.webp"
-coverAlt: "iPhoneと小型外付けSSDを並べた、実在製品ではないイメージイラスト"
+coverAlt: "「写真を外付けSSDへ」のタイトル画像。写真はAI生成のイメージで、実際の製品写真ではありません"
 draft: false
 affiliate: false
 ---
