@@ -94,5 +94,13 @@
     "title": "写真を外付けSSDへ",
     "subtitle": "フォーマット・端子・給電",
     "label": "STORAGE GUIDE"
+  },
+  {
+    "slug": "laptop-phone-charger-power-split",
+    "background": "charging",
+    "eyebrow": "65W・100W・140Wを比較",
+    "title": "2台同時の電力配分",
+    "subtitle": "PCに何W残るかで選ぶ",
+    "label": "CHARGING GUIDE"
   }
 ]

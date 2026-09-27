@@ -71,6 +71,8 @@ Appleの35Wデュアルアダプタの案内では、使っていないケーブ
 
 選ぶ順番は「PCの必要電力 → 同時接続時のPC側出力 → ケーブル → スマホ固有の充電条件」。総出力の数字だけを見ず、この4点が合えば、1台にまとめる判断ができます。
 
+65W・100W・140Wの具体的な製品で、2台同時のときの配分を比べたい人は「[PCとスマホを同時充電する充電器の選び方](/articles/laptop-phone-charger-power-split/)」をご覧ください。
+
 <figure class="flow">
 <figcaption>選び方の分岐図</figcaption>
 <ol class="flow-steps">
