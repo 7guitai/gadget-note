@@ -4,6 +4,7 @@ description: "Claude Codeをクラウド上で動かす仕組みを、GitHubと�
 category: ai
 date: "2026-09-25"
 kind: "解説"
+topics: [ai-tools]
 coverLabel: "CLOUD."
 cover: "/images/claude-code-cloud-sessions/cover.webp"
 coverAlt: "ノートPCからクラウド上の開発環境へ光がつながるイメージイラスト"

@@ -4,6 +4,7 @@ description: "1TBの外付けSSDを3機種比較。端子、重さ、防水・�
 category: gadget
 date: "2026-09-25"
 kind: "比較"
+topics: [storage]
 coverLabel: "CHOOSE."
 cover: "/images/portable-ssd-use-case-3/cover.webp"
 coverAlt: "「外付けSSDの比較」のタイトル画像。写真はAI生成のイメージで、実際の製品写真ではありません"

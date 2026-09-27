@@ -1,12 +1,11 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { articles, displayDate, coverVariants } from '../../lib/content';
+import { articles, displayDate, coverVariants, relatedArticles } from '../../lib/content';
 export function getStaticPaths() { return articles.map(article => ({ params: { slug: article.slug }, props: { article } })); }
 const { article } = Astro.props;
 const Content = article.Content;
 const headings = (await article.getHeadings()).filter(h => h.depth === 2);
-const others = articles.filter(a => a.slug !== article.slug);
-const related = [...others.filter(a => a.meta.category === article.meta.category), ...others.filter(a => a.meta.category !== article.meta.category)].slice(0,3);
+const related = relatedArticles(article);
 const v = coverVariants(article.meta.cover);
 ---
 <Base title={article.meta.title} description={article.meta.description} current={article.category.id} image={v?.og} type="article">

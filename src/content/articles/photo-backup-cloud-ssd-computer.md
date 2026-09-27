@@ -4,6 +4,7 @@ description: "スマホの写真を失わないために、クラウド同期と
 category: gadget
 date: "2026-09-26"
 kind: "比較"
+topics: [backup, storage]
 coverLabel: "BACKUP."
 cover: "/images/photo-backup-cloud-ssd-computer/cover.webp"
 coverAlt: "「写真のバックアップ」のタイトル画像。写真はAI生成のイメージで、実際の製品写真ではありません"

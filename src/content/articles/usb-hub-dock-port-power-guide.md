@@ -4,6 +4,7 @@ description: "ポート数だけで選ぶと映像が出ない、PCを充電で�
 category: gadget
 date: "2026-09-26"
 kind: "選び方"
+topics: [desk, cable, charging]
 coverLabel: "CONNECT."
 cover: "/images/usb-hub-dock-port-power-guide/cover.webp"
 coverAlt: "USBハブとドックポートと給電の選び方の要点を示すイラスト"

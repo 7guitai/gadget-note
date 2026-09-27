@@ -4,6 +4,7 @@ description: "毎日のスマホ充電と外出先でのPC充電では、必要�
 category: gadget
 date: "2026-09-26"
 kind: "選び方"
+topics: [charging]
 coverLabel: "CHOOSE."
 cover: "/images/mobile-power-bank-buying-guide/cover.webp"
 coverAlt: "「バッテリーの選び方」のタイトル画像。写真はAI生成のイメージで、実際の製品写真ではありません"

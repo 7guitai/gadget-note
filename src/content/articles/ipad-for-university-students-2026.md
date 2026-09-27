@@ -4,6 +4,7 @@ description: "講義資料への書き込み、持ち運び、制作作業から
 category: gadget
 date: "2026-09-27"
 kind: "選び方"
+topics: [tablet]
 coverLabel: "CHOOSE."
 cover: "/images/ipad-for-university-students-2026/cover.webp"
 coverAlt: "「iPadの選び方」のタイトル画像。写真はAI生成のイメージで、実際の製品写真ではありません"

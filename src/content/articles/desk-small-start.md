@@ -4,6 +4,7 @@ description: "スタンド、ハブ、ケーブル収納。買い足す前に、
 category: gadget
 date: "2026-09-23"
 kind: "選び方"
+topics: [desk]
 coverLabel: "FOCUS."
 draft: false
 affiliate: false

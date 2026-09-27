@@ -1,6 +1,6 @@
 ---
 import '../styles/global.css';
-import { categories } from '../lib/content';
+import { activeCategories } from '../lib/content';
 interface Props { title?: string; description?: string; current?: string; noindex?: boolean; image?: string; type?: 'website' | 'article'; }
 const { title, description = 'ガジェット、AI、お土産、家具、道具。毎日の暮らしで使うものを、使う場面から選ぶためのガイド。', current, noindex = false, image, type = 'website' } = Astro.props;
 const pageTitle = title ? `${title} | OCHA NOTE` : 'OCHA NOTE（お茶ノート）— 毎日使うものを、ゆっくり選ぶ。';
@@ -33,7 +33,7 @@ const isPreview = import.meta.env.CF_PAGES_BRANCH && import.meta.env.CF_PAGES_BR
 </header>
 <nav class="nav" aria-label="メインメニュー">
 <a href="/articles/" aria-current={current === 'all' ? 'page' : undefined}>すべての記事</a>
-{categories.map(c => <a href={`/category/${c.id}/`} aria-current={current === c.id ? 'page' : undefined}>{c.name}</a>)}
+{activeCategories.map(c => <a href={`/category/${c.id}/`} aria-current={current === c.id ? 'page' : undefined}>{c.name}</a>)}
 </nav>
 </div>
 <main id="main"><slot /></main>

@@ -4,6 +4,7 @@ description: "画面を上げる前にキーボードと目線の位置を確認
 category: gadget
 date: "2026-09-26"
 kind: "選び方"
+topics: [desk]
 coverLabel: "RAISE."
 cover: "/images/laptop-stand-height-portability/cover.webp"
 coverAlt: "ノートPCスタンド高さ・角度・携帯性の要点を示すイラスト"

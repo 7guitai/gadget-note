@@ -4,6 +4,7 @@ description: "同じ形でも機能は異なるUSB-Cケーブル。印字と仕�
 category: gadget
 date: "2026-09-26"
 kind: "選び方"
+topics: [cable, charging]
 coverLabel: "CHECK."
 cover: "/images/usb-c-cable-identification/cover.webp"
 coverAlt: "「USB-Cの見分け方」のタイトル画像。写真はAI生成のイメージで、実際の製品写真ではありません"

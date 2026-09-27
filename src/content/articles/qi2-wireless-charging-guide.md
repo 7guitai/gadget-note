@@ -4,6 +4,7 @@ description: "Qi2とMagSafeの違い、スマホと充電器の対応条件、�
 category: gadget
 date: "2026-09-26"
 kind: "選び方"
+topics: [charging]
 coverLabel: "ALIGN."
 cover: "/images/qi2-wireless-charging-guide/cover.webp"
 coverAlt: "Qi2・MagSafeワイヤレス充電の選び方の要点を示すイラスト"

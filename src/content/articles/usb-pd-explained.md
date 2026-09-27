@@ -4,6 +4,7 @@ description: "USB-Cの形だけでは急速充電は決まりません。USB PD�
 category: gadget
 date: "2026-09-26"
 kind: "解説"
+topics: [charging, cable]
 coverLabel: "CHARGE."
 cover: "/images/usb-pd-explained/cover.webp"
 coverAlt: "「USB PDとは？」のタイトル画像。写真はAI生成のイメージで、実際の製品写真ではありません"

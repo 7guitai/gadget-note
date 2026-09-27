@@ -13,6 +13,8 @@
 - docs/article-template.md をコピー。未確認の記事は draft: true のままにする。
 - category は gadget / ai / souvenir / furniture / toolbox / life。新カテゴリ追加時は src/lib/content.ts も更新する。カテゴリを廃止・改名する場合は public/_redirects に301転送を追加する。
 - title, description, date, kind, coverLabel は必須。アイキャッチを使う場合は cover（/images/<slug>/cover.webp、1200×630）と coverAlt を指定する。日付は引用符付き YYYY-MM-DD（日本時間）。
+- topics（例 [charging, cable]）を1〜3個付ける。「あわせて読みたい」は共通の話題が多い記事から選ばれる。選べる値は src/lib/content.ts の topics。新しい話題はそこに追加する。
+- 記事が0件のカテゴリはメニューに出ず、カテゴリページは noindex になる（トップのテーマ一覧には「記事を準備中」で表示）。
 - 公開済みURLの slug は原則変更しない。変更する場合はCloudflare Pagesの_redirectsに301転送を追加する。
 - 未来日付の記事はビルド時に除外される。日付到来だけでは公開されないので、予定時刻に別途ビルドを実行する。
 - 画像は public/images/<slug>/ 以下へ置き、本文では <img src alt width height> で参照する。

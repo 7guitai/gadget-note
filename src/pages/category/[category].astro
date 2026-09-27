@@ -6,7 +6,7 @@ export function getStaticPaths() { return categories.map(category => ({ params: 
 const { category } = Astro.props;
 const posts = articles.filter(a => a.meta.category === category.id);
 ---
-<Base title={category.name} current={category.id} description={`${category.name}の選び方と、購入前に確認したいポイント。`}>
+<Base title={category.name} current={category.id} noindex={posts.length === 0} description={`${category.name}の選び方と、購入前に確認したいポイント。`}>
 <div class="wrap listing">
 <nav class="crumb" aria-label="パンくず"><a href="/">ホーム</a> / {category.name}</nav>
 <p class="kicker">{category.short}</p>

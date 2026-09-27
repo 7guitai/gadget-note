@@ -4,6 +4,7 @@ description: "通学、家での作業、オンライン通話。同じイヤホ
 category: gadget
 date: "2026-09-23"
 kind: "選び方"
+topics: [audio]
 coverLabel: "LISTEN."
 draft: false
 affiliate: false

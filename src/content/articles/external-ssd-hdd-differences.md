@@ -4,6 +4,7 @@ description: "持ち歩く作業用ならSSD、大容量の据え置き保存な
 category: gadget
 date: "2026-09-26"
 kind: "解説"
+topics: [storage, backup]
 coverLabel: "STORE."
 cover: "/images/external-ssd-hdd-differences/cover.webp"
 coverAlt: "「SSDとHDDの違い」のタイトル画像。写真はAI生成のイメージで、実際の製品写真ではありません"

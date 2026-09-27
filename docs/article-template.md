@@ -4,6 +4,7 @@ description: "記事の要点を1〜2文で"
 category: gadget
 date: "2026-09-24"
 kind: "選び方"
+topics: [charging]
 coverLabel: "LISTEN."
 cover: "/images/article-slug/cover.webp"
 coverAlt: "アイキャッチ画像の説明"

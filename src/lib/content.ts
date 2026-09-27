@@ -8,7 +8,9 @@ export const categories = [
   { id: 'toolbox', name: '道具箱', short: 'TOOLBOX', desc: '困ったときの手がかり', color: '#E1E7DC' },
   { id: 'life', name: '暮らし・その他', short: 'LIFE', desc: '日常を少し整える', color: '#E8E4E6' },
 ];
-export interface ArticleMeta { title: string; description: string; category: string; date: string; updated?: string; draft?: boolean; kind: string; coverLabel: string; cover?: string; coverAlt?: string; affiliate?: boolean; }
+// 関連記事をつなぐための話題。記事の topics に1〜3個指定する。増やすときはここに追加する。
+export const topics = ['charging', 'cable', 'storage', 'backup', 'desk', 'audio', 'tablet', 'ai-tools'];
+export interface ArticleMeta { title: string; description: string; category: string; date: string; updated?: string; draft?: boolean; kind: string; coverLabel: string; cover?: string; coverAlt?: string; affiliate?: boolean; topics?: string[]; }
 
 // 既知のアフィリエイト・短縮リンクのドメイン。必要に応じて追加する。
 const affiliateHosts = /(amzn\.to|link\.amazon\/|amazon\.co\.jp\/[^"')\s]*[?&]tag=|hb\.afl\.rakuten\.co\.jp|af\.moshimo\.com|px\.a8\.net|ck\.jp\.ap\.valuecommerce\.com|click\.linksynergy\.com|t\.afi-b\.com|ad\.presco\.jp)/;
@@ -41,6 +43,7 @@ function check(slug: string, meta: ArticleMeta, raw: string) {
   const problems: string[] = [];
   if (!meta.title || !meta.description || !meta.date || !meta.kind || !meta.coverLabel) problems.push('title, description, date, kind, coverLabel は必須です');
   if (!categories.some(c => c.id === meta.category)) problems.push(`category は ${categories.map(c => c.id).join(' / ')} のいずれかにしてください`);
+  for (const t of meta.topics ?? []) if (!topics.includes(t)) problems.push(`topics は ${topics.join(' / ')} から選んでください（未登録: ${t}）`);
   if (!isDate(meta.date)) problems.push('date は引用符付きの "YYYY-MM-DD" にしてください');
   fail(`記事 ${slug}`, [...problems, ...checkBody(raw, meta)]);
 }
@@ -53,6 +56,18 @@ export const articles = Object.entries(files).map(([path, article]) => {
   return { ...article, slug, meta, category: categories.find(c => c.id === meta.category)! };
 }).filter(a => !a.meta.draft && a.meta.date <= todayJst())
 .sort((a,b) => b.meta.date.localeCompare(a.meta.date) || a.slug.localeCompare(b.slug));
+// 記事のあるカテゴリだけ（メニュー用）。空のカテゴリはメニューに出さない
+export const activeCategories = categories.filter(c => articles.some(a => a.meta.category === c.id));
+type Article = (typeof articles)[number];
+// 共通の話題が多い順 → 同じカテゴリ → 新しい順で関連記事を選ぶ
+export function relatedArticles(article: Article, limit = 3) {
+  const mine = new Set(article.meta.topics ?? []);
+  const score = (a: Article) => (a.meta.topics ?? []).filter(t => mine.has(t)).length * 10 + (a.meta.category === article.meta.category ? 1 : 0);
+  return articles.filter(a => a.slug !== article.slug)
+    .map(a => ({ a, s: score(a) }))
+    .sort((x, y) => y.s - x.s || y.a.meta.date.localeCompare(x.a.meta.date))
+    .slice(0, limit).map(x => x.a);
+}
 export const displayDate = (date: string) => date.replaceAll('-', '.');
 export const PER_PAGE = 12;
 // カバー画像の派生（scripts/image-variants.mjs で作る一覧用600px・シェア用JPEG）

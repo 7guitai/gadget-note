@@ -38,6 +38,7 @@ description: "記事の要点を1〜2文で"
 category: ai
 date: "YYYY-MM-DD"
 kind: "解説"
+topics: [ai-tools]
 coverLabel: "CLOUD."
 cover: "/images/<slug>/cover.webp"
 coverAlt: "〇〇をイメージしたイラスト"
@@ -47,6 +48,7 @@ affiliate: false
 ```
 - category は必ず ai。
 - date は掲載予定日（日本時間）。
+- topics は関連記事をつなぐ話題（1〜3個）。charging / cable / storage / backup / desk / audio / tablet / ai-tools から選ぶ。合うものがなければ空欄でよい。
 - kind は記事の種類：「解説」（仕組みや機能の説明）／「使い方」（手順）／「動向」（発表や業界の動きのまとめ）／「比較」など。
 - coverLabel は英単語1語＋ピリオド（例：CLOUD. / AGENT. / PROMPT.）。画像がないときの表紙に使う。
 - draft は必ず true のままにする。

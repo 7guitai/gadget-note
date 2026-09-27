@@ -4,6 +4,7 @@ description: "MacとWindowsで外付けSSDを共用するためのexFAT初期化
 category: gadget
 date: "2026-09-26"
 kind: "使い方"
+topics: [storage]
 coverLabel: "FORMAT."
 cover: "/images/ssd-exfat-format-windows-mac/cover.webp"
 coverAlt: "「SSDをexFATに」のタイトル画像。写真はAI生成のイメージで、実際の製品写真ではありません"

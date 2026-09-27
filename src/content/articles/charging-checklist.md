@@ -4,6 +4,7 @@ description: "数字の大きさだけで決めない。自分の機器を、い
 category: gadget
 date: "2026-09-23"
 kind: "購入前チェック"
+topics: [charging]
 coverLabel: "CHARGE."
 cover: "/images/charging-checklist/cover.webp"
 coverAlt: "「充電器のチェック」のタイトル画像。写真はAI生成のイメージで、実際の製品写真ではありません"

@@ -4,6 +4,7 @@ description: "iPhoneの写真や動画を外付けSSDへ書き出す手順と、
 category: gadget
 date: "2026-09-25"
 kind: "選び方"
+topics: [storage, backup]
 coverLabel: "STORE."
 cover: "/images/iphone-photo-ssd/cover.webp"
 coverAlt: "「写真を外付けSSDへ」のタイトル画像。写真はAI生成のイメージで、実際の製品写真ではありません"
