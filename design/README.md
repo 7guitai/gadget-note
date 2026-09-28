@@ -16,12 +16,12 @@
 image-prompts.json に ai / audio / desk / wireless のプロンプトを用意済み。生成した画像は design/assets/backgrounds/<名前>.webp として保存する。
 - ai → claude-code-cloud-sessions
 - audio → earphones-first
-- desk → desk-small-start、laptop-stand-height-portability、usb-hub-dock-port-power-guide
+- desk → desk-small-start、laptop-stand-height-portability、usb-hub-dock-port-power-guide、nipogi-e1-ryzen-3250u
 - wireless → qi2-wireless-charging-guide
 
 ## バナー未対応の記事（2026-09-27時点、既存の画像のまま）
 合う背景がまだないため、以下は既存の表紙を使用中。テーマに合う背景（例：AIはノートPC、音楽はイヤホン、家具・デスクは椅子や机）を用意してから差し替える。
 - claude-code-cloud-sessions（AI）
 - earphones-first（イヤホン）
-- desk-small-start、laptop-stand-height-portability、usb-hub-dock-port-power-guide（デスク周り）
+- desk-small-start、laptop-stand-height-portability、usb-hub-dock-port-power-guide、nipogi-e1-ryzen-3250u（デスク周り）
 - qi2-wireless-charging-guide（ワイヤレス充電。charging の背景は有線の充電器のため流用しない）
