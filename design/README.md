@@ -25,3 +25,11 @@ image-prompts.json に ai / audio / desk / wireless のプロンプトを用意�
 - earphones-first（イヤホン）
 - desk-small-start、laptop-stand-height-portability、usb-hub-dock-port-power-guide、nipogi-e1-ryzen-3250u（デスク周り）
 - qi2-wireless-charging-guide（ワイヤレス充電。charging の背景は有線の充電器のため流用しない）
+
+## イラストのサムネを自分で作る（SVG、画像生成なし）
+写真の背景を使わず、SVGの図形とNoto Sans JPで表紙を作る方法。依頼文は docs/thumbnail-prompt.md。
+1. 既存の `design/thumbnails/<slug>.svg`（1200×630）をコピーし、文字・イラストを書き換える。文字は `font-family: Noto`。
+2. `node scripts/export-thumbnail.mjs <slug>` を実行。`design/thumbnails/<slug>.png` と `public/images/<slug>/cover.webp` ができる（フォントが読み込めない、サイズが違う場合はエラーで止まる）。
+3. PNGを開いて、文字の欠け・重なり・余白を確認する。
+4. `node scripts/image-variants.mjs` で一覧用・シェア用の画像を作り、記事の cover と coverAlt（「イメージイラスト」を含める）を書く。
+例：meta-muse-wonder
