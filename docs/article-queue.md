@@ -6,7 +6,6 @@
 ## 候補
 | カテゴリ | タイトル案 | 狙う検索キーワード | 種類 | 関連記事 |
 |---|---|---|---|---|
-| gadget | 充電器の「GaN（窒化ガリウム）」とは？小型化の理由と選ぶときの注意 | GaN 充電器 とは | 解説 | usb-pd-explained、usb-c-charger-phone-laptop-one-plug |
 | ai | Claude Codeとは？できること・料金プラン・始め方 | Claude Code とは | 解説 | claude-code-cloud-sessions、student-generative-ai-comparison |
 | furniture | モニターアームの選び方｜机の厚さ・モニターの重さ・VESA規格 | モニターアーム 選び方 | 選び方 | laptop-stand-height-portability、desk-small-start |
 | gadget | ノイズキャンセリングとは？外音取り込みとの違いと向く場面 | ノイズキャンセリング とは | 解説 | earphones-first |
@@ -40,3 +39,4 @@
 ## 公開済み
 | 日付 | slug | タイトル |
 |---|---|---|
+| 2026-10-13 | gan-charger-explained | 充電器の「GaN（窒化ガリウム）」とは？小型化の理由と選ぶときの注意 |
