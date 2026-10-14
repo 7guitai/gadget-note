@@ -6,3 +6,4 @@
 |---|---|---|---|---|
 | 2026-10-13 | 夕 | 公開 | gan-charger-explained | 候補の先頭（直前がAIのためgadget）。TIのアプリケーションノート、QST講演要旨、e-Govの電気用品安全法・施行令で確認。経産省・ROHMのサイトは403で開けず |
 | 2026-10-14 | 朝 | 公開 | what-is-claude-code | 候補の先頭（直前がgadgetのためai）。Claude Code Docs（Overview・Advanced setup・permission modes・costs）、claude.com/pricing、Anthropicの提供国一覧で確認。価格の数字は載せず料金ページへ誘導 |
+| 2026-10-14 | 夕 | 公開 | monitor-arm-buying-guide | 候補の先頭（直前がaiのためfurniture。furniture初の記事）。VESA FDMI Overview、サンワサプライの製品仕様（例示のみ）、厚労省の情報機器作業ガイドラインで確認。エルゴトロン・EIZOのサイトは開けず |

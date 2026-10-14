@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：モニターアームの選び方（天板に固定したアームとモニター） -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 72px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .tag { font-size: 18px; font-weight: 700; fill: #5E7B49; letter-spacing: .02em; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+      .arm { stroke: #7C9A5E; stroke-width: 18; stroke-linecap: round; fill: none; }
+      .joint { fill: #5E7B49; }
+    </style>
+  </defs>
+
+  <!-- 背景 -->
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="300" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <!-- 左：文字 -->
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">家具 ／ デスクまわりの選び方</text>
+  <text class="h1" x="68" y="268">モニター</text>
+  <text class="h1" x="68" y="356">アームの選び方</text>
+  <rect x="72" y="398" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="458">ネジ穴・重さ・天板の厚さ</text>
+  <text class="sub" x="72" y="500">3つを先に確かめる</text>
+
+  <!-- 机の天板 -->
+  <rect x="660" y="470" width="420" height="30" rx="8" fill="#D9C7A8"/>
+  <rect x="680" y="500" width="22" height="80" rx="6" fill="#C9B593"/>
+  <!-- クランプ -->
+  <path d="M1040 454 h60 v64 h-60 v-16 h42 v-32 h-42z" fill="#173D38"/>
+  <!-- 支柱とアーム -->
+  <rect x="1060" y="300" width="20" height="156" rx="8" fill="#5E7B49"/>
+  <path class="arm" d="M1070 310 L 980 250 L 900 290"/>
+  <circle class="joint" cx="1070" cy="310" r="14"/>
+  <circle class="joint" cx="980" cy="250" r="14"/>
+  <circle class="joint" cx="900" cy="290" r="14"/>
+
+  <!-- モニター（横から見た板と正面） -->
+  <rect x="700" y="160" width="200" height="140" rx="14" fill="#173D38" transform="rotate(-2 800 230)"/>
+  <rect x="714" y="174" width="172" height="112" rx="8" fill="#FFFFFF" transform="rotate(-2 800 230)"/>
+  <line x1="740" y1="210" x2="840" y2="206" stroke="#D8DDD3" stroke-width="7" stroke-linecap="round"/>
+  <line x1="740" y1="234" x2="820" y2="231" stroke="#D8DDD3" stroke-width="7" stroke-linecap="round"/>
+  <rect x="738" y="250" width="70" height="18" rx="6" fill="#C9D8B4" transform="rotate(-2 800 230)"/>
+
+  <!-- 天板の厚さを示す寸法 -->
+  <path d="M1124 470 v30" stroke="#5E7B49" stroke-width="3"/>
+  <path d="M1116 470 h16 M1116 500 h16" stroke="#5E7B49" stroke-width="3"/>
+  <text class="tag" x="1000" y="545">天板の厚さ</text>
+
+  <!-- VESAのネジ穴 -->
+  <g transform="translate(1000 110)">
+    <rect width="110" height="110" rx="16" fill="#FFFFFF" stroke="#D8DDD3" stroke-width="2"/>
+    <circle cx="30" cy="30" r="8" fill="#7C9A5E"/>
+    <circle cx="80" cy="30" r="8" fill="#7C9A5E"/>
+    <circle cx="30" cy="80" r="8" fill="#7C9A5E"/>
+    <circle cx="80" cy="80" r="8" fill="#7C9A5E"/>
+  </g>
+  <text class="tag" x="1010" y="248">ネジ穴</text>
+
+  <text class="cap" x="760" y="604">※ イメージ。実際の製品の形ではありません</text>
+</svg>
