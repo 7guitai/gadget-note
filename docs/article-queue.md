@@ -6,7 +6,6 @@
 ## 候補
 | カテゴリ | タイトル案 | 狙う検索キーワード | 種類 | 関連記事 |
 |---|---|---|---|---|
-| gadget | ノイズキャンセリングとは？外音取り込みとの違いと向く場面 | ノイズキャンセリング とは | 解説 | earphones-first |
 | toolbox | 電動ドライバーとドリルドライバーの違い｜家具の組み立てならどっち？ | 電動ドライバー ドリルドライバー 違い | 解説 | − |
 | gadget | USBメモリと外付けSSDはどちらを選ぶ？容量・速さ・用途で比較 | USBメモリ SSD どっち | 比較 | external-ssd-hdd-differences、portable-ssd-use-case-3 |
 | ai | 生成AIの画像はブログに使える？利用規約と注意点の確認方法 | AI画像 ブログ 使っていい | 解説 | student-generative-ai-comparison |
@@ -40,3 +39,4 @@
 | 2026-10-13 | gan-charger-explained | 充電器の「GaN（窒化ガリウム）」とは？小型化の理由と選ぶときの注意 |
 | 2026-10-14 | what-is-claude-code | Claude Codeとは？できること・必要なプラン・始め方 |
 | 2026-10-14 | monitor-arm-buying-guide | モニターアームの選び方｜机の厚さ・モニターの重さ・VESA規格 |
+| 2026-10-15 | noise-cancelling-explained | ノイズキャンセリングとは？外音取り込みとの違いと向く場面 |

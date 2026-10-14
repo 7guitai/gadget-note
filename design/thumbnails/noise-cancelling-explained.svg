@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：ノイズキャンセリングとは（騒音の波＋逆位相の波＝平らな線） -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 72px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .tag { font-size: 18px; font-weight: 700; fill: #5E7B49; letter-spacing: .02em; }
+      .op { font-size: 34px; font-weight: 800; fill: #5E7B49; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+      .card { fill: #FFFFFF; stroke: #D8DDD3; stroke-width: 2; }
+      .wave { fill: none; stroke-width: 6; stroke-linecap: round; }
+    </style>
+  </defs>
+
+  <!-- 背景 -->
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="320" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <!-- 左：文字 -->
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">ガジェット ／ 機能の基本</text>
+  <text class="h1" x="68" y="268">ノイズキャン</text>
+  <text class="h1" x="68" y="356">セリングとは？</text>
+  <rect x="72" y="398" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="458">外音取り込みとの違いと</text>
+  <text class="sub" x="72" y="500">向いている場面</text>
+
+  <!-- 波のカード：騒音 -->
+  <g transform="translate(690 110)">
+    <rect class="card" width="300" height="90" rx="18"/>
+    <path class="wave" stroke="#173D38" d="M24 45 q 21 -36 42 0 t 42 0 t 42 0 t 42 0 t 42 0 t 42 0"/>
+  </g>
+  <text class="tag" x="1004" y="162">騒音</text>
+  <text class="op" x="830" y="236" text-anchor="middle">＋</text>
+
+  <!-- 波のカード：逆位相 -->
+  <g transform="translate(690 252)">
+    <rect class="card" width="300" height="90" rx="18"/>
+    <path class="wave" stroke="#7C9A5E" d="M24 45 q 21 36 42 0 t 42 0 t 42 0 t 42 0 t 42 0 t 42 0"/>
+  </g>
+  <text class="tag" x="1004" y="304">逆の波</text>
+  <text class="op" x="830" y="378" text-anchor="middle">＝</text>
+
+  <!-- 波のカード：静か -->
+  <g transform="translate(690 394)">
+    <rect class="card" width="300" height="90" rx="18"/>
+    <path class="wave" stroke="#9DB383" d="M24 45 H 276"/>
+  </g>
+  <text class="tag" x="1004" y="446">静かに</text>
+
+
+  <text class="cap" x="760" y="604">※ イメージ。実際の製品の形ではありません</text>
+</svg>
