@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：USBメモリと外付けSSD（一般的な形の2つを並べて比較） -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 68px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .tag { font-size: 20px; font-weight: 700; fill: #5E7B49; letter-spacing: .02em; text-anchor: middle; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+      .vs { font-size: 30px; font-weight: 800; fill: #9DB383; text-anchor: middle; }
+    </style>
+  </defs>
+
+  <!-- 背景 -->
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="320" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <!-- 左：文字 -->
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">ガジェット ／ 保存先を比較</text>
+  <text class="h1" x="68" y="264">USBメモリと</text>
+  <text class="h1" x="68" y="350">外付けSSD</text>
+  <rect x="72" y="394" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="454">容量・速さ・用途で</text>
+  <text class="sub" x="72" y="496">どちらを選ぶ？</text>
+
+  <!-- USBメモリ（一般的な形） -->
+  <g transform="translate(730 230)">
+    <rect x="18" y="0" width="44" height="34" rx="4" fill="#B9C2B3"/>
+    <rect x="28" y="10" width="8" height="8" fill="#F6F2EA"/>
+    <rect x="44" y="10" width="8" height="8" fill="#F6F2EA"/>
+    <rect x="0" y="32" width="80" height="150" rx="18" fill="#7C9A5E"/>
+    <circle cx="40" cy="160" r="8" fill="#C9D8B4"/>
+  </g>
+  <text class="tag" x="770" y="460">USBメモリ</text>
+
+  <text class="vs" x="880" y="330">vs</text>
+
+  <!-- 外付けSSD（一般的な形）とケーブル -->
+  <g transform="translate(940 200)">
+    <rect x="0" y="0" width="150" height="220" rx="26" fill="#173D38"/>
+    <rect x="22" y="24" width="106" height="16" rx="8" fill="#5E7B49"/>
+    <rect x="146" y="150" width="14" height="30" rx="4" fill="#B9C2B3"/>
+    <path d="M160 165 C 200 165, 200 230, 175 250" fill="none" stroke="#5E7B49" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <text class="tag" x="1015" y="460">外付けSSD</text>
+
+  <text class="cap" x="760" y="604">※ イメージ。実際の製品の形ではありません</text>
+</svg>
