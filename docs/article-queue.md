@@ -6,7 +6,6 @@
 ## 候補
 | カテゴリ | タイトル案 | 狙う検索キーワード | 種類 | 関連記事 |
 |---|---|---|---|---|
-| toolbox | 電動ドライバーとドリルドライバーの違い｜家具の組み立てならどっち？ | 電動ドライバー ドリルドライバー 違い | 解説 | − |
 | gadget | USBメモリと外付けSSDはどちらを選ぶ？容量・速さ・用途で比較 | USBメモリ SSD どっち | 比較 | external-ssd-hdd-differences、portable-ssd-use-case-3 |
 | ai | 生成AIの画像はブログに使える？利用規約と注意点の確認方法 | AI画像 ブログ 使っていい | 解説 | student-generative-ai-comparison |
 | souvenir | 日持ちするお土産の選び方｜賞味期限・個包装・持ち運び | お土産 日持ち 選び方 | 選び方 | travel-charging-kit-guide |
@@ -40,3 +39,4 @@
 | 2026-10-14 | what-is-claude-code | Claude Codeとは？できること・必要なプラン・始め方 |
 | 2026-10-14 | monitor-arm-buying-guide | モニターアームの選び方｜机の厚さ・モニターの重さ・VESA規格 |
 | 2026-10-15 | noise-cancelling-explained | ノイズキャンセリングとは？外音取り込みとの違いと向く場面 |
+| 2026-10-15 | electric-screwdriver-vs-drill-driver | 電動ドライバーとドリルドライバーの違い｜家具の組み立てならどっち？ |

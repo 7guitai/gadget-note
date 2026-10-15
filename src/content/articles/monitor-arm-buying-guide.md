@@ -4,7 +4,7 @@ description: "モニターアームは、モニターのネジ穴（VESA規格�
 category: furniture
 date: "2026-10-14"
 kind: "選び方"
-topics: [desk]
+topics: [desk, diy]
 coverLabel: "ARM."
 cover: "/images/monitor-arm-buying-guide/cover.webp"
 coverAlt: "「モニターアームの選び方」のタイトル画像。机の天板に固定したアームがモニターを支える様子のイメージイラスト"
