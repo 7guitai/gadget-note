@@ -11,3 +11,4 @@
 | 2026-10-15 | 夕 | 公開 | electric-screwdriver-vs-drill-driver | 候補の先頭（直前がgadgetのためtoolbox。toolbox初の記事）。ボッシュのIXO 7プレスリリース、Bosch ProfessionalのGSR 18V-65・GDR 18V-215仕様で確認。マキタ・アイリスオーヤマ・京セラのサイトは開けず。話題 diy を追加し、モニターアーム記事にも付与 |
 | 2026-10-16 | 朝 | 公開 | usb-flash-drive-vs-portable-ssd | 候補の先頭（直前がtoolboxのためgadget）。キオクシアのTransMemory U366・EXCERIA PLUS G2ポータブルの公式仕様、USB-IFのUSB 3.2仕様・名称ガイドラインで確認。Samsungの日本ページは代理店サイトへ転送され使わず |
 | 2026-10-16 | 夕 | 公開 | ai-images-for-blogs | 候補の先頭（直前がgadgetのためai）。文化審議会「AIと著作権に関する考え方について」（2024-03-15）原文、Google利用規約・生成AI使用禁止ポリシーで確認。OpenAI・Adobeの規約ページは403で開けず、例はGoogleのみ。法的助言ではない旨を明記 |
+| 2026-10-17 | 朝 | 公開 | long-lasting-souvenir-guide | 候補の先頭（直前がaiのためsouvenir。souvenir初の記事）。消費者庁「食品期限表示の設定のためのガイドライン」（2025年3月）の定義・消費者向けQ&Aで確認。農水省のページは403。話題 travel を追加し、旅行の充電セット記事にも付与 |
