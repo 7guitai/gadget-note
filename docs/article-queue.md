@@ -6,7 +6,6 @@
 ## 候補
 | カテゴリ | タイトル案 | 狙う検索キーワード | 種類 | 関連記事 |
 |---|---|---|---|---|
-| ai | 生成AIの画像はブログに使える？利用規約と注意点の確認方法 | AI画像 ブログ 使っていい | 解説 | student-generative-ai-comparison |
 | souvenir | 日持ちするお土産の選び方｜賞味期限・個包装・持ち運び | お土産 日持ち 選び方 | 選び方 | travel-charging-kit-guide |
 | gadget | 海外旅行で充電器は使える？電圧・プラグ形状の確認方法 | 海外 充電器 変圧器 いらない | 解説 | travel-charging-kit-guide、mobile-power-bank-buying-guide |
 | life | サブスクを見直す方法｜使っていないサービスを探す手順 | サブスク 見直し 方法 | 使い方 | student-generative-ai-comparison |
@@ -40,3 +39,4 @@
 | 2026-10-15 | noise-cancelling-explained | ノイズキャンセリングとは？外音取り込みとの違いと向く場面 |
 | 2026-10-15 | electric-screwdriver-vs-drill-driver | 電動ドライバーとドリルドライバーの違い｜家具の組み立てならどっち？ |
 | 2026-10-16 | usb-flash-drive-vs-portable-ssd | USBメモリと外付けSSDはどちらを選ぶ？容量・速さ・用途で比較 |
+| 2026-10-16 | ai-images-for-blogs | 生成AIの画像はブログに使える？利用規約と注意点の確認方法 |
