@@ -4,7 +4,7 @@ description: "ChatGPT Plus・Google AI Pro・Claude Proを、大学生の勉強�
 category: ai
 date: "2026-10-07"
 kind: "比較"
-topics: [ai-tools]
+topics: [ai-tools, subscription]
 coverLabel: "COMPARE."
 cover: "/images/student-generative-ai-comparison/cover.webp"
 coverAlt: "机の上のノートPCと3つの吹き出しで、大学生が生成AIを選ぶ様子を表したイメージイラスト"

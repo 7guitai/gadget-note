@@ -13,3 +13,4 @@
 | 2026-10-16 | 夕 | 公開 | ai-images-for-blogs | 候補の先頭（直前がgadgetのためai）。文化審議会「AIと著作権に関する考え方について」（2024-03-15）原文、Google利用規約・生成AI使用禁止ポリシーで確認。OpenAI・Adobeの規約ページは403で開けず、例はGoogleのみ。法的助言ではない旨を明記 |
 | 2026-10-17 | 朝 | 公開 | long-lasting-souvenir-guide | 候補の先頭（直前がaiのためsouvenir。souvenir初の記事）。消費者庁「食品期限表示の設定のためのガイドライン」（2025年3月）の定義・消費者向けQ&Aで確認。農水省のページは403。話題 travel を追加し、旅行の充電セット記事にも付与 |
 | 2026-10-17 | 夕 | 公開 | charger-abroad-voltage-plug | 候補の先頭（直前がsouvenirのためgadget）。Appleサポート（ワールドトラベルアダプタキット・電力品質の注意）、KEK（日本の電圧・周波数）、サンワサプライFAQ（100-240V対応でも海外は保証外）で確認。IECのプラグ一覧は403で開けず、国別の電圧は載せず各自確認とした |
+| 2026-10-18 | 朝 | 公開 | subscription-review-steps | 候補の先頭（直前がgadgetのためlife。life初の記事）。国民生活センター（2021-10-07公表）、Appleサポート、Google Playヘルプ、消費者庁「消費者ホットライン」で確認。話題 subscription を追加し、生成AI比較記事にも付与 |
