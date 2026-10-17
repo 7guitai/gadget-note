@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：海外旅行で充電器は使える？（入力表示のラベルと形の違うプラグ） -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 68px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .lbl { font-size: 19px; font-weight: 800; fill: #173D38; }
+      .tag { font-size: 18px; font-weight: 700; fill: #5E7B49; text-anchor: middle; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+    </style>
+  </defs>
+
+  <!-- 背景 -->
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="320" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <!-- 左：文字 -->
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">ガジェット ／ 旅行前の確認</text>
+  <text class="h1" x="68" y="264">海外旅行で</text>
+  <text class="h1" x="68" y="350">充電器は使える？</text>
+  <rect x="72" y="394" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="454">入力の表示と</text>
+  <text class="sub" x="72" y="496">プラグの形を確認</text>
+
+  <!-- 充電器と入力表示のラベル -->
+  <g transform="translate(720 140)">
+    <rect x="44" y="-30" width="14" height="36" rx="4" fill="#B9C2B3"/>
+    <rect x="90" y="-30" width="14" height="36" rx="4" fill="#B9C2B3"/>
+    <rect x="0" y="0" width="150" height="170" rx="28" fill="#FFFFFF" stroke="#D8DDD3" stroke-width="3"/>
+    <rect x="22" y="70" width="200" height="56" rx="12" fill="#173D38"/>
+    <text x="38" y="106" style="font-size:22px;font-weight:800;fill:#FFFFFF">INPUT 100-240V</text>
+  </g>
+
+  <!-- いろいろなプラグ（一般的な形） -->
+  <!-- 平ピン2本 -->
+  <g transform="translate(730 400)">
+    <rect x="0" y="30" width="90" height="70" rx="16" fill="#7C9A5E"/>
+    <rect x="24" y="0" width="12" height="34" rx="3" fill="#B9C2B3"/>
+    <rect x="54" y="0" width="12" height="34" rx="3" fill="#B9C2B3"/>
+  </g>
+  <!-- 丸ピン2本 -->
+  <g transform="translate(870 400)">
+    <rect x="0" y="30" width="90" height="70" rx="35" fill="#5E7B49"/>
+    <rect x="24" y="0" width="12" height="34" rx="6" fill="#B9C2B3"/>
+    <rect x="54" y="0" width="12" height="34" rx="6" fill="#B9C2B3"/>
+  </g>
+  <!-- 平ピン3本 -->
+  <g transform="translate(1010 400)">
+    <rect x="0" y="30" width="90" height="70" rx="12" fill="#173D38"/>
+    <rect x="39" y="0" width="12" height="34" rx="3" fill="#B9C2B3"/>
+    <rect x="18" y="10" width="10" height="24" rx="3" fill="#B9C2B3"/>
+    <rect x="62" y="10" width="10" height="24" rx="3" fill="#B9C2B3"/>
+  </g>
+  <text class="tag" x="915" y="540">国によってプラグの形が違う</text>
+
+  <text class="cap" x="760" y="604">※ イメージ。実際の製品の形ではありません</text>
+</svg>
