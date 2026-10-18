@@ -6,7 +6,6 @@
 ## 候補
 | カテゴリ | タイトル案 | 狙う検索キーワード | 種類 | 関連記事 |
 |---|---|---|---|---|
-| gadget | Bluetoothイヤホンの音の遅れを減らすには｜コーデック・ゲームモード | Bluetooth イヤホン 遅延 | 解説 | earphones-first |
 | furniture | デスクライトの選び方｜明るさ・色・置き場所 | デスクライト 選び方 | 選び方 | desk-small-start |
 | ai | AIに頼むときの指示の書き方｜伝わる依頼文の基本 | AI 指示 書き方 | 使い方 | student-generative-ai-comparison |
 | gadget | 外付けSSDが認識しないときの確認順｜ケーブル・電源・フォーマット | 外付けSSD 認識しない | 使い方 | ssd-exfat-format-windows-mac、usb-c-cable-identification |
@@ -40,3 +39,4 @@
 | 2026-10-17 | long-lasting-souvenir-guide | 日持ちするお土産の選び方｜賞味期限・個包装・持ち運び |
 | 2026-10-17 | charger-abroad-voltage-plug | 海外旅行で充電器は使える？電圧・プラグ形状の確認方法 |
 | 2026-10-18 | subscription-review-steps | サブスクを見直す方法｜使っていないサービスを探す手順 |
+| 2026-10-18 | bluetooth-earphone-latency | Bluetoothイヤホンの音の遅れを減らすには｜コーデック・ゲームモード |

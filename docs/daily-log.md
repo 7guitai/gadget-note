@@ -14,3 +14,4 @@
 | 2026-10-17 | 朝 | 公開 | long-lasting-souvenir-guide | 候補の先頭（直前がaiのためsouvenir。souvenir初の記事）。消費者庁「食品期限表示の設定のためのガイドライン」（2025年3月）の定義・消費者向けQ&Aで確認。農水省のページは403。話題 travel を追加し、旅行の充電セット記事にも付与 |
 | 2026-10-17 | 夕 | 公開 | charger-abroad-voltage-plug | 候補の先頭（直前がsouvenirのためgadget）。Appleサポート（ワールドトラベルアダプタキット・電力品質の注意）、KEK（日本の電圧・周波数）、サンワサプライFAQ（100-240V対応でも海外は保証外）で確認。IECのプラグ一覧は403で開けず、国別の電圧は載せず各自確認とした |
 | 2026-10-18 | 朝 | 公開 | subscription-review-steps | 候補の先頭（直前がgadgetのためlife。life初の記事）。国民生活センター（2021-10-07公表）、Appleサポート、Google Playヘルプ、消費者庁「消費者ホットライン」で確認。話題 subscription を追加し、生成AI比較記事にも付与 |
+| 2026-10-18 | 夕 | 公開 | bluetooth-earphone-latency | 候補の先頭（直前がlifeのためgadget）。ソニー（テレビのA/V同期、ウォークマンの再生品質設定）、オーディオテクニカATH-SQ1TWの低遅延モード、任天堂の遅延対処、Bluetooth SIGのLC3解説で確認。コーデック別の遅延の数値は公式で確認できず載せていない |
