@@ -15,3 +15,4 @@
 | 2026-10-17 | 夕 | 公開 | charger-abroad-voltage-plug | 候補の先頭（直前がsouvenirのためgadget）。Appleサポート（ワールドトラベルアダプタキット・電力品質の注意）、KEK（日本の電圧・周波数）、サンワサプライFAQ（100-240V対応でも海外は保証外）で確認。IECのプラグ一覧は403で開けず、国別の電圧は載せず各自確認とした |
 | 2026-10-18 | 朝 | 公開 | subscription-review-steps | 候補の先頭（直前がgadgetのためlife。life初の記事）。国民生活センター（2021-10-07公表）、Appleサポート、Google Playヘルプ、消費者庁「消費者ホットライン」で確認。話題 subscription を追加し、生成AI比較記事にも付与 |
 | 2026-10-18 | 夕 | 公開 | bluetooth-earphone-latency | 候補の先頭（直前がlifeのためgadget）。ソニー（テレビのA/V同期、ウォークマンの再生品質設定）、オーディオテクニカATH-SQ1TWの低遅延モード、任天堂の遅延対処、Bluetooth SIGのLC3解説で確認。コーデック別の遅延の数値は公式で確認できず載せていない |
+| 2026-10-19 | 朝 | 公開 | desk-light-buying-guide | 候補の先頭（直前がgadgetのためfurniture）。厚労省「情報機器作業における労働衛生管理のためのガイドライン」（300lx以上・グレア）、パナソニックSQ-LC470・SQ-LD330の公式ページ（JIS AA形/A形の照度区分、色温度、Ra）で確認。JIS規格本文は未確認のためパナソニックの説明として記載 |
