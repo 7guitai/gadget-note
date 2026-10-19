@@ -6,7 +6,6 @@
 ## 候補
 | カテゴリ | タイトル案 | 狙う検索キーワード | 種類 | 関連記事 |
 |---|---|---|---|---|
-| ai | AIに頼むときの指示の書き方｜伝わる依頼文の基本 | AI 指示 書き方 | 使い方 | student-generative-ai-comparison |
 | gadget | 外付けSSDが認識しないときの確認順｜ケーブル・電源・フォーマット | 外付けSSD 認識しない | 使い方 | ssd-exfat-format-windows-mac、usb-c-cable-identification |
 | toolbox | 精密ドライバーの選び方｜メガネ・ガジェットの小さなねじ | 精密ドライバー 選び方 | 選び方 | − |
 | gadget | スマホのバッテリーを長持ちさせる充電の設定｜iPhone・Android | スマホ バッテリー 長持ち 設定 | 使い方 | charging-checklist、mobile-power-bank-buying-guide |
@@ -40,3 +39,4 @@
 | 2026-10-18 | subscription-review-steps | サブスクを見直す方法｜使っていないサービスを探す手順 |
 | 2026-10-18 | bluetooth-earphone-latency | Bluetoothイヤホンの音の遅れを減らすには｜コーデック・ゲームモード |
 | 2026-10-19 | desk-light-buying-guide | デスクライトの選び方｜明るさ・色・置き場所 |
+| 2026-10-19 | how-to-write-ai-prompts | AIに頼むときの指示の書き方｜伝わる依頼文の基本 |

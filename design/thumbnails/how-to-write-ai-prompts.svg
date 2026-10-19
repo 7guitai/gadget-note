@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：AIに頼むときの指示の書き方（依頼文のメモと吹き出し） -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 68px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .item { font-size: 20px; font-weight: 700; fill: #173D38; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+      .card { fill: #FFFFFF; stroke: #D8DDD3; stroke-width: 2; }
+      .line { stroke: #D8DDD3; stroke-width: 7; stroke-linecap: round; }
+    </style>
+  </defs>
+
+  <!-- 背景 -->
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="320" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <!-- 左：文字 -->
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">AI ／ 使い方の基本</text>
+  <text class="h1" x="68" y="264">AIに頼むときの</text>
+  <text class="h1" x="68" y="350">指示の書き方</text>
+  <rect x="72" y="394" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="454">目的・背景・ほしい形を</text>
+  <text class="sub" x="72" y="496">具体的に伝える</text>
+
+  <!-- 依頼文のメモ -->
+  <g transform="translate(700 120) rotate(-3)">
+    <rect class="card" width="300" height="250" rx="18"/>
+    <rect x="22" y="26" width="64" height="30" rx="15" fill="#7C9A5E"/>
+    <text x="54" y="47" text-anchor="middle" style="font-size:17px;font-weight:800;fill:#FFFFFF">目的</text>
+    <line class="line" x1="100" y1="41" x2="270" y2="41"/>
+    <rect x="22" y="80" width="64" height="30" rx="15" fill="#9DB383"/>
+    <text x="54" y="101" text-anchor="middle" style="font-size:17px;font-weight:800;fill:#FFFFFF">背景</text>
+    <line class="line" x1="100" y1="95" x2="250" y2="95"/>
+    <rect x="22" y="134" width="64" height="30" rx="15" fill="#5E7B49"/>
+    <text x="54" y="155" text-anchor="middle" style="font-size:17px;font-weight:800;fill:#FFFFFF">形</text>
+    <line class="line" x1="100" y1="149" x2="262" y2="149"/>
+    <rect x="22" y="188" width="64" height="30" rx="15" fill="#173D38"/>
+    <text x="54" y="209" text-anchor="middle" style="font-size:17px;font-weight:800;fill:#FFFFFF">例</text>
+    <line class="line" x1="100" y1="203" x2="230" y2="203"/>
+  </g>
+
+  <!-- AIの吹き出し -->
+  <g transform="translate(900 380)">
+    <path d="M0 30 a30 30 0 0 1 30 -30 h170 a30 30 0 0 1 30 30 v60 a30 30 0 0 1 -30 30 h-120 l-30 26 v-26 h-20 a30 30 0 0 1 -30 -30z" fill="#7C9A5E"/>
+    <circle cx="70" cy="60" r="9" fill="#FFFFFF"/>
+    <circle cx="115" cy="60" r="9" fill="#FFFFFF"/>
+    <circle cx="160" cy="60" r="9" fill="#FFFFFF"/>
+  </g>
+
+  <text class="cap" x="760" y="604">※ イメージ。実際の画面やロゴではありません</text>
+</svg>
