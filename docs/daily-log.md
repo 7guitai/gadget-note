@@ -18,3 +18,4 @@
 | 2026-10-19 | 朝 | 公開 | desk-light-buying-guide | 候補の先頭（直前がgadgetのためfurniture）。厚労省「情報機器作業における労働衛生管理のためのガイドライン」（300lx以上・グレア）、パナソニックSQ-LC470・SQ-LD330の公式ページ（JIS AA形/A形の照度区分、色温度、Ra）で確認。JIS規格本文は未確認のためパナソニックの説明として記載 |
 | 2026-10-19 | 夕 | 公開 | how-to-write-ai-prompts | 候補の先頭（直前がfurnitureのためai）。AnthropicのPrompting best practices、GoogleのPrompt design strategies、Geminiアプリヘルプ（Gem作成のヒント）で確認。OpenAIのヘルプは403で開けず。本文の依頼文の例は自作と明記 |
 | 2026-10-20 | 朝 | 公開 | external-ssd-not-recognized | 候補の先頭（直前がaiのためgadget）。バッファロー（データ復旧サービスの対処法・FAQ）、Microsoft「Windowsでのディスク管理」、Apple（ディスクユーティリティのFirst Aid・外付けドライブに保存できない場合）で確認。キオクシアのFAQは見つからず |
+| 2026-10-20 | 夕 | 公開 | souvenir-airplane-liquids | 候補先頭の「精密ドライバーの選び方」はメーカー公式でサイズ・ねじ頭の柱となる事実を確認できず見送り（候補に残す）。次の候補（直前がgadgetのためsouvenir）を執筆。国土交通省の液体物持込制限ページ・対象リスト・よくある質問（2015年10月1日現在の版）で確認 |
