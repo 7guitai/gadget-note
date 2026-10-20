@@ -7,7 +7,6 @@
 | カテゴリ | タイトル案 | 狙う検索キーワード | 種類 | 関連記事 |
 |---|---|---|---|---|
 | toolbox | 精密ドライバーの選び方｜メガネ・ガジェットの小さなねじ | 精密ドライバー 選び方 | 選び方 | − |
-| gadget | スマホのバッテリーを長持ちさせる充電の設定｜iPhone・Android | スマホ バッテリー 長持ち 設定 | 使い方 | charging-checklist、mobile-power-bank-buying-guide |
 | gadget | microSDカードの選び方｜スマホ・カメラ・Switch向けの表記の読み方 | microSD 選び方 表記 | 選び方 | external-ssd-hdd-differences |
 | ai | GitHubとは？AIでコードを扱う前に知っておきたい基本 | GitHub とは 初心者 | 解説 | claude-code-cloud-sessions |
 | furniture | ワークチェアを選ぶ前に確認したいこと｜座面の高さ・調整機能 | ワークチェア 選び方 | 選び方 | desk-small-start |
@@ -40,3 +39,4 @@
 | 2026-10-19 | how-to-write-ai-prompts | AIに頼むときの指示の書き方｜伝わる依頼文の基本 |
 | 2026-10-20 | external-ssd-not-recognized | 外付けSSDが認識しないときの確認順｜ケーブル・電源・フォーマット |
 | 2026-10-20 | souvenir-airplane-liquids | 飛行機でお土産を持ち帰るときの注意｜液体・手荷物の確認 |
+| 2026-10-21 | smartphone-battery-charging-settings | スマホのバッテリーを長持ちさせる充電の設定｜iPhone・Android |
