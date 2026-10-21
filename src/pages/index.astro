@@ -4,8 +4,10 @@ import ArticleCard from '../components/ArticleCard.astro';
 import { articles, categories } from '../lib/content';
 const latest = articles.slice(0, 6);
 const count = (id: string) => articles.filter(a => a.meta.category === id).length;
+// 構造化データ：サイト名（検索結果のサイト名表示に使われる）
+const jsonLd = Astro.site ? { '@context': 'https://schema.org', '@type': 'WebSite', name: 'OCHA NOTE', alternateName: 'お茶ノート', url: new URL('/', Astro.site).href, inLanguage: 'ja' } : undefined;
 ---
-<Base current="home">
+<Base current="home" jsonLd={jsonLd}>
 <link slot="head" rel="preload" as="image" href="/hero-editorial-1600.webp" media="(min-width: 761px)" fetchpriority="high" />
 <div class="wrap">
 <section class="hero">
