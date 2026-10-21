@@ -20,3 +20,4 @@
 | 2026-10-20 | 朝 | 公開 | external-ssd-not-recognized | 候補の先頭（直前がaiのためgadget）。バッファロー（データ復旧サービスの対処法・FAQ）、Microsoft「Windowsでのディスク管理」、Apple（ディスクユーティリティのFirst Aid・外付けドライブに保存できない場合）で確認。キオクシアのFAQは見つからず |
 | 2026-10-20 | 夕 | 公開 | souvenir-airplane-liquids | 候補先頭の「精密ドライバーの選び方」はメーカー公式でサイズ・ねじ頭の柱となる事実を確認できず見送り（候補に残す）。次の候補（直前がgadgetのためsouvenir）を執筆。国土交通省の液体物持込制限ページ・対象リスト・よくある質問（2015年10月1日現在の版）で確認 |
 | 2026-10-21 | 朝 | 公開 | smartphone-battery-charging-settings | 精密ドライバーは引き続き見送り。直前がsouvenirのためgadget。Appleサポート（充電上限・最適化）、Apple「バッテリー」ページ（温度・保管）、android.comのアダプティブ充電の記事で確認。Pixelの「充電の上限80%」は公式ヘルプを確認できず記載せず |
+| 2026-10-21 | 夕 | 公開 | what-is-github | 精密ドライバーは引き続き見送り、直前がgadgetのためmicroSDも飛ばしてai。GitHub Docs日本語版（GitHubとは・Gitについて・リポジトリ・Pull Request・プラン・プッシュ保護・Copilotについて）で確認。料金・Actions分数などの数値は変わりうるため記載せず |
