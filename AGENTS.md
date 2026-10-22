@@ -54,5 +54,5 @@
 ## 現状
 - サイト名 OCHA NOTE（お茶ノート）。ドメイン ochanote.com は取得済み。商標など名称の権利は未確認。
 - 外部解析、広告配信、問い合わせフォームは未導入。追加時は src/pages/privacy.astro を実際の処理に合わせて更新する。アフィリエイトプログラムに参加したら、プログラム名と各規約で必要な表記を privacy.astro に追記する。
-- Amazonアソシエイト参加済み。定型文は privacy.astro とフッターに表示。購入リンクはユーザーが SiteStripe で取得したリンク（link.amazon / amzn.to / amzn.asia）を使い、<a class="buy-link" href="..." rel="sponsored noopener">Amazonで〇〇を見る</a> の形で置く。取得したリンクは docs/amazon-links.md にためておき、記事に合う商品だけに使う。
+- Amazonアソシエイト参加済み。定型文は privacy.astro とフッターに表示。購入リンクはユーザーが SiteStripe で取得したリンク（link.amazon / amzn.to / amzn.asia）を使い、<a class="buy-link" href="..." rel="sponsored noopener">Amazonで〇〇を見る</a> の形で置く。記事で紹介した商品とリンクは claude.ai の「購入リンク表」（docs/daily-article-routine.md）で管理し、記事に合う商品だけに使う。楽天アフィリエイトのリンク（hb.afl.rakuten.co.jp）も同じ形で使える。
 - 初期記事3本（gadget）は製品価格・具体的製品推薦を含まない一般的な選び方ガイド。

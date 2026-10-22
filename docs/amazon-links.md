@@ -1,19 +1,9 @@
-# Amazonリンクの置き場所（ユーザーが SiteStripe で取得したリンク）
+# 購入リンク（記録）
 
-ここに貼られたリンクだけを記事に使う。Claude はリンクを作らない・推測しない。
-「ストック」に行を足すだけでよい（商品名・リンク・使いたい記事は空欄でも可）。
+ユーザーがリンクを貼る場所は claude.ai の「購入リンク表」：https://claude.ai/artifact/EE2FVc9oF6HNBtMqSssdJv
+手順は docs/daily-article-routine.md の「購入リンク表」。このファイルは、記事に入れたリンクの記録（リンク表が使えないときの控え）。
 
-## 使い方（ユーザー）
-1. Amazonの商品ページで SiteStripe の「テキスト」→ 短縮URL（link.amazon / amzn.to / amzn.asia）をコピー。
-2. 下の「ストック」に1行追加する。チャットに貼るだけでもよい（Claude がここに転記する）。
-
-## 記事に入れるときのルール（Claude）
-- 商品の仕様はメーカー公式で確認し、記事の内容（対応規格・条件）に合う商品にだけ置く。合わなければ置かない。
-- 書き方は `<a class="buy-link" href="..." rel="sponsored noopener">Amazonで〇〇を見る</a>`。記事の frontmatter を `affiliate: true` にする。
-- 価格・セール・「おすすめ1位」などは書かない。リンクの近くに「選んだ条件」（公式仕様）を1〜2文で書く。
-- 置いたら「ストック」の「使った記事」に slug を書く。リンクが切れていたら「状態」を「切れ」にして記事から外す。
-
-## ストック
+## 使用中のリンク
 | 商品名（型番） | リンク | 使いたい記事（任意） | 使った記事 | 状態 |
 |---|---|---|---|---|
 | KIOXIA EXCERIA PLUS G2 1TB | https://link.amazon/B0hsjI5Vb | − | portable-ssd-use-case-3 | 使用中 |
