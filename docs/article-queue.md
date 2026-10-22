@@ -7,7 +7,6 @@
 | カテゴリ | タイトル案 | 狙う検索キーワード | 種類 | 関連記事 |
 |---|---|---|---|---|
 | toolbox | 精密ドライバーの選び方｜メガネ・ガジェットの小さなねじ | 精密ドライバー 選び方 | 選び方 | − |
-| furniture | ワークチェアを選ぶ前に確認したいこと｜座面の高さ・調整機能 | ワークチェア 選び方 | 選び方 | desk-small-start |
 | gadget | Macの容量不足を外付けSSDで解消する方法｜できること・できないこと | Mac 容量不足 外付けSSD | 使い方 | portable-ssd-use-case-3、ssd-exfat-format-windows-mac |
 | toolbox | 防災用に備えておきたい道具｜ライト・ラジオ・電源 | 防災 道具 リスト | 選び方 | mobile-power-bank-buying-guide |
 | gadget | オンライン会議用のマイク・ヘッドセットの選び方 | 会議 マイク 選び方 | 選び方 | earphones-first |
@@ -51,3 +50,4 @@
 | 2026-10-21 | smartphone-battery-charging-settings | スマホのバッテリーを長持ちさせる充電の設定｜iPhone・Android |
 | 2026-10-21 | what-is-github | GitHubとは？AIでコードを扱う前に知っておきたい基本 |
 | 2026-10-22 | microsd-card-buying-guide | microSDカードの選び方｜スマホ・カメラ・Switch向けの表記の読み方 |
+| 2026-10-22 | work-chair-buying-guide | ワークチェアを選ぶ前に確認したいこと｜座面の高さ・調整機能 |
