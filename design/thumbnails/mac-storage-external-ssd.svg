@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：Macの容量不足を外付けSSDで（ノートPC、容量バー、外付けSSD） -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 58px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .tag { font-size: 18px; font-weight: 700; fill: #5E7B49; text-anchor: middle; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+    </style>
+  </defs>
+
+  <!-- 背景 -->
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="320" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <!-- 左：文字 -->
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">ガジェット ／ 使い方</text>
+  <text class="h1" x="68" y="256">Macの容量不足を</text>
+  <text class="h1" x="68" y="332">外付けSSDで</text>
+  <rect x="72" y="378" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="438">移せるもの・移せないもの</text>
+  <text class="sub" x="72" y="480">写真ライブラリの移し方</text>
+
+  <!-- ノートPC（一般的な形） -->
+  <g transform="translate(700 150)">
+    <rect x="20" y="0" width="260" height="170" rx="14" fill="#173D38"/>
+    <rect x="34" y="14" width="232" height="142" rx="6" fill="#FFFFFF"/>
+    <!-- 容量バー -->
+    <rect x="56" y="70" width="188" height="26" rx="13" fill="#E6EBE1"/>
+    <rect x="56" y="70" width="172" height="26" rx="13" fill="#E9C9B8"/>
+    <rect x="56" y="70" width="110" height="26" rx="13" fill="#7C9A5E"/>
+    <rect x="56" y="110" width="120" height="10" rx="5" fill="#D8DDD3"/>
+    <path d="M0 176 h300 l-14 18 h-272z" fill="#5E7B49"/>
+  </g>
+  <text class="tag" x="850" y="380">容量を確認</text>
+
+  <!-- 矢印 -->
+  <path d="M960 270 C 1020 270, 1040 300, 1040 340" stroke="#9DB383" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M1024 330 l16 22 l16 -22" stroke="#9DB383" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- 外付けSSD -->
+  <g transform="translate(990 380)">
+    <rect width="110" height="150" rx="18" fill="#173D38"/>
+    <rect x="18" y="20" width="74" height="10" rx="5" fill="#7C9A5E"/>
+    <rect x="44" y="150" width="22" height="14" rx="4" fill="#5E7B49"/>
+  </g>
+  <text class="tag" x="1045" y="570">写真・動画を移す</text>
+
+  <text class="cap" x="640" y="604">※ イメージ。実際の画面や製品の形ではありません</text>
+</svg>
