@@ -13,6 +13,7 @@
 | Anker Charger (100W, 3 Ports) | https://link.amazon/B05L5ZlbC | − | laptop-phone-charger-power-split | 使用中 |
 | Anker Charger (140W, 4 Ports) | https://amzn.asia/d/0cv3OK8V | − | laptop-phone-charger-power-split | 使用中 |
 | NiPoGi ミニPC（Ryzen 3 3250U） | https://link.amazon/B04fM8tge | − | nipogi-e1-ryzen-3250u | 使用中 |
+| Anker Power Bank (10000mAh, 30W)（A1256） | https://link.amazon/B09qHAymg | − | power-bank-10000mah-comparison | 使用中 |
 
 ## リンクがあると入れやすい記事（候補）
 商品を選ぶときの条件。この条件に合う商品のリンクがあれば、その記事に追加できる。

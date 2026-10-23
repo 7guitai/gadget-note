@@ -7,7 +7,6 @@
 | カテゴリ | タイトル案 | 狙う検索キーワード | 種類 | 関連記事 |
 |---|---|---|---|---|
 | toolbox | 精密ドライバーの選び方｜メガネ・ガジェットの小さなねじ | 精密ドライバー 選び方 | 選び方 | − |
-| toolbox | 防災用に備えておきたい道具｜ライト・ラジオ・電源 | 防災 道具 リスト | 選び方 | mobile-power-bank-buying-guide |
 | gadget | オンライン会議用のマイク・ヘッドセットの選び方 | 会議 マイク 選び方 | 選び方 | earphones-first |
 | life | 家電の取扱説明書をなくしたときの探し方 | 取扱説明書 なくした | 使い方 | − |
 | gadget | ミニPCの選び方｜CPU・メモリ・端子・置き場所 | ミニPC 選び方 | 選び方 | nipogi-e1-ryzen-3250u、usb-hub-dock-port-power-guide |
@@ -51,3 +50,4 @@
 | 2026-10-22 | work-chair-buying-guide | ワークチェアを選ぶ前に確認したいこと｜座面の高さ・調整機能 |
 | 2026-10-23 | mac-storage-external-ssd | Macの容量不足を外付けSSDで解消する方法｜できること・できないこと |
 | 2026-10-23 | power-bank-10000mah-comparison | 10000mAhクラスのモバイルバッテリーを比較｜3台同時・ケーブル一体型・マグネット式 |
+| 2026-10-24 | disaster-preparedness-tools | 防災用に備えておきたい道具｜ライト・ラジオ・電源 |

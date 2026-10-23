@@ -9,7 +9,7 @@ coverLabel: "COMPARE."
 cover: "/images/power-bank-10000mah-comparison/cover.webp"
 coverAlt: "「10000mAhクラスのモバイルバッテリーを比較」のタイトル画像。形の違う3つのモバイルバッテリーを描いたイメージイラスト"
 draft: false
-affiliate: false
+affiliate: true
 ---
 
 10000mAhのモバイルバッテリーは、容量と最大出力（30Wなど）が同じでも、**何台を同時に充電できるか**、**ケーブルが本体に付いているか**、**iPhoneの背面にくっつけてワイヤレスで充電できるか**で使い勝手が大きく変わります。
@@ -53,6 +53,8 @@ USB-Cが2つ、USB-Aが1つの3ポートです。Ankerは、3ポートを同時�
 3機種の中では、ケーブルが一体になっていないぶん、**手持ちのケーブルの長さや端子を自由に選べます**。反対に、ケーブルを忘れると使えません。
 
 公式ページでは、本体のボタンを2回押すと、イヤホンなど小さな機器向けの低電流モードに切り替えられると説明しています。発売は2023年6月です。
+
+<a class="buy-link" href="https://link.amazon/B09qHAymg" rel="sponsored noopener">AmazonでAnker Power Bank (10000mAh, 30W)を見る</a>
 
 ## ケーブルを忘れたくない：Anker Zolo Power Bank (Built-In USB-Cケーブル)
 
