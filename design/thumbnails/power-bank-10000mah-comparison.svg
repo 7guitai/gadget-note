@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：10000mAhモバイルバッテリー比較（3ポート型、ケーブル一体型、マグネット式） -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 56px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .tag { font-size: 18px; font-weight: 700; fill: #5E7B49; text-anchor: middle; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+    </style>
+  </defs>
+
+  <!-- 背景 -->
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="320" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <!-- 左：文字 -->
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">ガジェット ／ 3機種比較</text>
+  <text class="h1" x="68" y="254">10000mAhの</text>
+  <text class="h1" x="68" y="330">モバイルバッテリー</text>
+  <rect x="72" y="376" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="436">3台同時・ケーブル一体型・</text>
+  <text class="sub" x="72" y="478">マグネット式の違い</text>
+
+  <!-- 1：3ポート型 -->
+  <g transform="translate(690 190)">
+    <rect width="110" height="200" rx="18" fill="#173D38"/>
+    <rect x="22" y="-6" width="18" height="10" rx="3" fill="#C9B593"/>
+    <rect x="46" y="-6" width="18" height="10" rx="3" fill="#C9B593"/>
+    <rect x="70" y="-6" width="24" height="10" rx="3" fill="#C9B593"/>
+    <rect x="30" y="80" width="50" height="28" rx="6" fill="#5E7B49"/>
+  </g>
+  <text class="tag" x="745" y="510">3台同時</text>
+
+  <!-- 2：ケーブル一体型 -->
+  <g transform="translate(850 190)">
+    <rect width="110" height="200" rx="18" fill="#5E7B49"/>
+    <path d="M90 200 C 90 240, 40 240, 40 268" stroke="#173D38" stroke-width="10" fill="none" stroke-linecap="round"/>
+    <rect x="30" y="262" width="20" height="26" rx="5" fill="#173D38"/>
+    <rect x="30" y="80" width="50" height="28" rx="6" fill="#9DB383"/>
+  </g>
+  <text class="tag" x="905" y="510">ケーブル一体型</text>
+
+  <!-- 3：マグネット式 -->
+  <g transform="translate(1010 190)">
+    <rect width="110" height="200" rx="18" fill="#7C9A5E"/>
+    <circle cx="55" cy="100" r="36" fill="none" stroke="#F6F2EA" stroke-width="6"/>
+    <circle cx="55" cy="100" r="10" fill="#F6F2EA"/>
+  </g>
+  <text class="tag" x="1065" y="510">マグネット式</text>
+
+  <text class="cap" x="640" y="604">※ イメージ。実際の製品の形ではありません</text>
+</svg>

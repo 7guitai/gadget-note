@@ -20,8 +20,7 @@
 ## 商品紹介の候補（火曜・金曜の夕に1本）
 | カテゴリ | タイトル案 | 狙う検索キーワード | 比べる項目の例 | 関連記事 |
 |---|---|---|---|---|
-| gadget | Switch 2用のmicroSD Expressカードを比較｜容量・速度・ライセンス | Switch2 microSD Express 比較 | 容量、公表速度、任天堂ライセンスの有無、保証 | microsd-card-buying-guide |
-| gadget | 10000mAhクラスのモバイルバッテリーを比較｜重さ・出力・ケーブル | モバイルバッテリー 10000mAh 比較 | 容量（mAh・Wh）、最大出力、重さ、PSE、ケーブル内蔵 | mobile-power-bank-buying-guide |
+| gadget | Switch 2用のmicroSD Expressカードを比較｜容量・速度・ライセンス | Switch2 microSD Express 比較 | 容量、公表速度、任天堂ライセンスの有無、保証 | microsd-card-buying-guide （2026-10-23見送り：Samsungのライセンス品の仕様と日本向け型番を公式で確認できず。再挑戦時は任天堂の日本ページと各社日本語ページを確認） |
 | gadget | Qi2対応のワイヤレス充電器を比較｜スタンド型・2in1・3in1 | Qi2 充電器 比較 | Qi2認証、最大W数、同時に充電できる台数、付属アダプタ | qi2-wireless-charging-guide |
 | furniture | モニターアームを比較｜対応重量・天板の厚さ・VESA | モニターアーム 比較 | 対応重量・サイズ、VESA、天板厚、クランプ／グロメット | monitor-arm-buying-guide |
 | gadget | 240W対応のUSB-Cケーブルを比較｜長さ・転送速度・映像出力 | USB-C ケーブル 240W 比較 | 最大W数、転送速度、映像出力、長さ、認証 | usb-c-cable-identification |
@@ -51,3 +50,4 @@
 | 2026-10-22 | microsd-card-buying-guide | microSDカードの選び方｜スマホ・カメラ・Switch向けの表記の読み方 |
 | 2026-10-22 | work-chair-buying-guide | ワークチェアを選ぶ前に確認したいこと｜座面の高さ・調整機能 |
 | 2026-10-23 | mac-storage-external-ssd | Macの容量不足を外付けSSDで解消する方法｜できること・できないこと |
+| 2026-10-23 | power-bank-10000mah-comparison | 10000mAhクラスのモバイルバッテリーを比較｜3台同時・ケーブル一体型・マグネット式 |
