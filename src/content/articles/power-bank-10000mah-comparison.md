@@ -64,6 +64,8 @@ USB-Cケーブルが本体に付いているタイプです。Ankerによると�
 
 サイズは3機種の中で最も長い約109mmです。一体型のケーブルは端子がUSB-Cに決まっているので、Lightning端子の機器には使えません（Ankerは、Lightningケーブル一体型の別モデルも販売しています）。発売は2025年4月です。
 
+<a class="buy-link" href="https://link.amazon/B0bwJBCAS" rel="sponsored noopener">AmazonでAnker Zolo Power Bank (10000mAh, 30W, Built-In USB-Cケーブル)を見る</a>
+
 ## iPhoneにくっつけて充電：Anker Zolo Power Bank (MagGo)
 
 MagSafe対応のiPhoneの背面に、磁石でくっつけてワイヤレスで充電するタイプです。ケーブルをつながずに、充電しながら手に持って使えます。
@@ -75,6 +77,8 @@ MagSafe対応のiPhoneの背面に、磁石でくっつけてワイヤレスで�
 - 磁石を使っているので、ペースメーカーなどの医療機器や、磁気カードに近づけない
 
 ワイヤレスでの出力は最大7.5Wで、USB-Cポート（最大30W）より小さくなります。急いで充電したいときは、USB-Cポートとケーブルを使います。ワイヤレス充電の規格の違いは<a href="/articles/qi2-wireless-charging-guide/">ワイヤレス充電の選び方｜Qi2・MagSafeと有線</a>で紹介しています。発売は2025年5月です。
+
+<a class="buy-link" href="https://link.amazon/B09q5sVHO" rel="sponsored noopener">AmazonでAnker Zolo Power Bank (10000mAh, 30W, MagGo)を見る</a>
 
 ## 選ぶ順番
 

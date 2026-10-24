@@ -14,6 +14,10 @@
 | Anker Charger (140W, 4 Ports) | https://amzn.asia/d/0cv3OK8V | − | laptop-phone-charger-power-split | 使用中 |
 | NiPoGi ミニPC（Ryzen 3 3250U） | https://link.amazon/B04fM8tge | − | nipogi-e1-ryzen-3250u | 使用中 |
 | Anker Power Bank (10000mAh, 30W)（A1256） | https://link.amazon/B09qHAymg | − | power-bank-10000mah-comparison | 使用中 |
+| Anker Zolo Power Bank (10000mAh, 30W, Built-In USB-Cケーブル)（A1688） | https://link.amazon/B0bwJBCAS | − | power-bank-10000mah-comparison | 使用中 |
+| Anker Zolo Power Bank (10000mAh, 30W, MagGo)（A1684） | https://link.amazon/B09q5sVHO | − | power-bank-10000mah-comparison | 使用中 |
+| SanDisk microSD Express Card for Nintendo Switch 2 256GB | https://link.amazon/B0e2sXpBz | − | microsd-card-buying-guide | 使用中 |
+| Samsung P9 Express 256GB（MB-MK256T） | https://link.amazon/B0iw07QHQ | − | microsd-card-buying-guide | 使用中 |
 
 ## リンクがあると入れやすい記事（候補）
 商品を選ぶときの条件。この条件に合う商品のリンクがあれば、その記事に追加できる。

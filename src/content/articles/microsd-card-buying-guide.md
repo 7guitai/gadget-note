@@ -3,13 +3,14 @@ title: "microSDカードの選び方｜スマホ・カメラ・Switch向けの�
 description: "microSDカードのパッケージにある「SDXC」「U3」「V30」「A2」などの表記の意味を、SDアソシエーションの公式情報をもとに整理します。Nintendo Switch 2で必要な「microSD Express」についても説明します。"
 category: gadget
 date: "2026-10-22"
+updated: "2026-10-25"
 kind: "選び方"
 topics: [storage]
 coverLabel: "microSD."
 cover: "/images/microsd-card-buying-guide/cover.webp"
 coverAlt: "「microSDカードの選び方」のタイトル画像。microSDカードと、容量・速度の表記を描いたイメージイラスト"
 draft: false
-affiliate: false
+affiliate: true
 ---
 
 microSDカードを選ぶときは、**①使う機器が対応している種類（SDHC・SDXC・microSD Expressなど）→ ②機器が求める速度の表記（U3・V30など）→ ③必要な容量**の順に確認すると迷いにくくなります。いちばん大事なのは、**カードの性能より先に、使う機器の取扱説明書で「対応カード」を確認する**ことです。対応していないカードは、性能が高くても使えないことがあります。
@@ -74,6 +75,18 @@ microSDカードは、容量によって呼び方とファイルの形式（フ�
 
 任天堂は、**Nintendo Switch 2はmicroSD Expressカードにだけ対応している**と説明しています。また、microSD Expressカードを初めて使うときは、インターネットにつないで本体の更新をする必要があるとしています。Switchで使っていたmicroSDカードを、そのままSwitch 2で使うことはできないので注意しましょう。
 
+### Switch 2で使えるmicroSD Expressカードの例
+
+ここでは、メーカーがSwitch 2での使用をうたっているカードを2つ例に挙げます。おすすめの順番ではありません。速度はメーカーの公表値で、機器や使い方によって変わります。
+
+- **SanDisk microSD Express Card for Nintendo Switch 2（256GB）**：任天堂の日本のページで、Switch 2用のライセンス商品として紹介されているカードです。SanDiskの公式ページでは、読み込み最大880MB/秒、書き込み最大650MB/秒としています
+
+<a class="buy-link" href="https://link.amazon/B0e2sXpBz" rel="sponsored noopener">AmazonでSanDisk microSD Express Card for Nintendo Switch 2（256GB）を見る</a>
+
+- **Samsung P9 Express（256GB、MB-MK256T）**：Samsungの公式ページで、Nintendo Switch 2で使えるとしているmicroSD Expressカードです。任天堂のライセンス商品の一覧には載っていません。Samsungの公表値では、読み込み最大800MB/秒です。UHS-Iのスロットでも使えるとしていて、表記はU3・V30・A1です
+
+<a class="buy-link" href="https://link.amazon/B0iw07QHQ" rel="sponsored noopener">AmazonでSamsung P9 Express（256GB）を見る</a>
+
 ## スマホ・カメラで使う場合
 
 - **スマホ**：microSDカードを入れられるのは一部のAndroidスマホなどです（iPhoneにはカードを入れる場所がありません）。取扱説明書で、対応する種類と最大の容量を確認します。アプリを入れるならA1・A2の表記も目安になります
@@ -107,11 +120,14 @@ microSDカードは小さくて便利ですが、なくしたり、読み込め�
 
 ## 参照情報
 
-以下はいずれも2026年10月22日確認。この記事では特定の商品はおすすめしていません。購入前に、使う機器の取扱説明書と、カードのメーカーの公式仕様を確認してください。
+以下は、確認日の記載がないものは2026年10月22日確認。商品の例は順位ではありません。購入前に、使う機器の取扱説明書と、カードのメーカーの公式仕様を確認してください。
 
 - SDアソシエーション「[容量（SD/SDHC/SDXC/SDUC）](https://www.sdcard.org/ja/developers-2/sd-standard-overview/capacity-sd-sdhc-sdxc-sduc/)」
 - SDアソシエーション「[スピードクラス](https://www.sdcard.org/ja/developers-2/sd-standard-overview/speed-class/)」
 - SDアソシエーション「[アプリケーションパフォーマンスクラス](https://www.sdcard.org/ja/developers-2/sd-standard-overview/application-performance-class/)」
 - SD Association「[Bus Speed](https://www.sdcard.org/developers/sd-standard-overview/bus-speed-default-speed-high-speed-uhs-sd-express/)」（英語）
 - SD Association「[FAQ](https://www.sdcard.org/consumers/faq/)」（英語）
+- 任天堂「[microSD Expressカードについて](https://www.nintendo.com/jp/games/microsd-express/index.html)」（2026年10月25日確認）
+- SanDisk「[SANDISK microSD Express Card for Nintendo Switch 2](https://www.sandisk.com/products/memory-cards/microsd-cards/sandisk-microsd-express-card-for-nintendo-switch-2?sku=SDSQXFN-256G-GR6ZZ)」（英語、2026年10月25日確認）
+- Samsung「[P9 Express microSD Express Card 256GB](https://www.samsung.com/uk/memory-storage/memory-card/p9-express-microsd-express-card-256gb-mb-mk256t-ww/)」（英語、2026年10月25日確認）
 - 任天堂（オーストラリア）サポート「[microSD Card and microSD Express Card Compatibility with Nintendo Switch 2 and Nintendo Switch](https://www.nintendo.com/au/support/articles/microsd-card-and-microsd-express-card-compatibility-with-nintendo-switch-2/)」（英語）

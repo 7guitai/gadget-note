@@ -9,7 +9,7 @@ export const categories = [
   { id: 'life', name: '暮らし・その他', short: 'LIFE', desc: '日常を少し整える', color: '#E8E4E6' },
 ];
 // 関連記事をつなぐための話題。記事の topics に1〜3個指定する。増やすときはここに追加する。
-export const topics = ['charging', 'cable', 'storage', 'backup', 'desk', 'audio', 'tablet', 'ai-tools', 'diy', 'travel', 'subscription'];
+export const topics = ['charging', 'cable', 'storage', 'backup', 'desk', 'audio', 'tablet', 'ai-tools', 'diy', 'travel', 'subscription', 'appliance'];
 export interface ArticleMeta { title: string; description: string; category: string; date: string; updated?: string; draft?: boolean; kind: string; coverLabel: string; cover?: string; coverAlt?: string; affiliate?: boolean; topics?: string[]; }
 
 // 既知のアフィリエイト・短縮リンクのドメイン。必要に応じて追加する。
