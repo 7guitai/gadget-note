@@ -10,7 +10,6 @@
 | gadget | オンライン会議用のマイク・ヘッドセットの選び方 | 会議 マイク 選び方 | 選び方 | earphones-first |
 | life | 家電の取扱説明書をなくしたときの探し方 | 取扱説明書 なくした | 使い方 | − |
 | gadget | ミニPCの選び方｜CPU・メモリ・端子・置き場所 | ミニPC 選び方 | 選び方 | nipogi-e1-ryzen-3250u、usb-hub-dock-port-power-guide |
-| ai | 仕事や授業でAIを使う前に確認したいこと｜入力する情報・ルール | AI 使う 注意 | 解説 | student-generative-ai-comparison |
 | gadget | PS5の容量を増やす方法｜外付けSSD・内蔵SSDの違い | PS5 容量 増やす | 解説 | external-ssd-hdd-differences |
 | souvenir | 職場に配るお土産の選び方｜個数・個包装・価格帯の考え方 | 職場 お土産 選び方 | 選び方 | − |
 | gadget | モバイルバッテリーの捨て方と、膨らんだときの対処 | モバイルバッテリー 捨て方 | 解説 | mobile-power-bank-buying-guide |
@@ -51,3 +50,4 @@
 | 2026-10-23 | mac-storage-external-ssd | Macの容量不足を外付けSSDで解消する方法｜できること・できないこと |
 | 2026-10-23 | power-bank-10000mah-comparison | 10000mAhクラスのモバイルバッテリーを比較｜3台同時・ケーブル一体型・マグネット式 |
 | 2026-10-24 | disaster-preparedness-tools | 防災用に備えておきたい道具｜ライト・ラジオ・電源 |
+| 2026-10-24 | ai-use-checklist-work-school | 仕事や授業でAIを使う前に確認したいこと｜入力する情報・ルール |
