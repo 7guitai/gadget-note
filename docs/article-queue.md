@@ -10,7 +10,6 @@
 | gadget | オンライン会議用のマイク・ヘッドセットの選び方 | 会議 マイク 選び方 | 選び方 | earphones-first |
 | gadget | ミニPCの選び方｜CPU・メモリ・端子・置き場所 | ミニPC 選び方 | 選び方 | nipogi-e1-ryzen-3250u、usb-hub-dock-port-power-guide |
 | gadget | Androidスマホの写真をパソコンや外付けSSDに移す方法 | Android 写真 移す | 使い方 | iphone-photo-ssd、photo-backup-cloud-ssd-computer |
-| furniture | 昇降デスクを選ぶ前に確認したいこと｜高さの範囲・耐荷重・天板 | 昇降デスク 選び方 | 選び方 | work-chair-buying-guide（厚労省ガイドラインの机の高さ60〜72cm） |
 | ai | 生成AIの答えが正しいか確かめる方法｜出典・日付・数字の確認 | AI 答え 確認 方法 | 使い方 | ai-use-checklist-work-school（公的資料・各社ヘルプ） |
 | life | スマホの迷惑SMS・偽の通知に気をつけること｜開く前の確認 | 迷惑SMS 対処 | 解説 | −（総務省・警察庁・国民生活センターなど） |
 | souvenir | 海外からお土産の食品を持ち帰るときの注意｜肉製品・果物の検疫 | 海外 お土産 肉 持ち込み | 解説 | souvenir-airplane-liquids（農林水産省 動物検疫所・植物防疫所） |
@@ -60,3 +59,4 @@
 | 2026-10-26 | office-souvenir-guide | 職場に配るお土産の選び方｜個包装・アレルギー表示・日持ち |
 | 2026-10-26 | power-bank-disposal-swelling | モバイルバッテリーの捨て方と、膨らんだときの対処 |
 | 2026-10-27 | save-phone-photos-to-cloud | スマホの写真をクラウドに保存する方法｜iCloud写真・Googleフォトの設定 |
+| 2026-10-27 | standing-desk-buying-guide | 昇降デスクを選ぶ前に確認したいこと｜高さの範囲・耐荷重・天板 |
