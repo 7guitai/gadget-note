@@ -10,6 +10,14 @@
 | gadget | オンライン会議用のマイク・ヘッドセットの選び方 | 会議 マイク 選び方 | 選び方 | earphones-first |
 | gadget | ミニPCの選び方｜CPU・メモリ・端子・置き場所 | ミニPC 選び方 | 選び方 | nipogi-e1-ryzen-3250u、usb-hub-dock-port-power-guide |
 | gadget | Androidスマホの写真をパソコンや外付けSSDに移す方法 | Android 写真 移す | 使い方 | iphone-photo-ssd、photo-backup-cloud-ssd-computer |
+| furniture | 昇降デスクを選ぶ前に確認したいこと｜高さの範囲・耐荷重・天板 | 昇降デスク 選び方 | 選び方 | work-chair-buying-guide（厚労省ガイドラインの机の高さ60〜72cm） |
+| ai | 生成AIの答えが正しいか確かめる方法｜出典・日付・数字の確認 | AI 答え 確認 方法 | 使い方 | ai-use-checklist-work-school（公的資料・各社ヘルプ） |
+| life | スマホの迷惑SMS・偽の通知に気をつけること｜開く前の確認 | 迷惑SMS 対処 | 解説 | −（総務省・警察庁・国民生活センターなど） |
+| souvenir | 海外からお土産の食品を持ち帰るときの注意｜肉製品・果物の検疫 | 海外 お土産 肉 持ち込み | 解説 | souvenir-airplane-liquids（農林水産省 動物検疫所・植物防疫所） |
+| toolbox | 家具の転倒防止グッズの選び方｜L字金具・突っ張り棒・ストッパー | 家具 転倒防止 選び方 | 選び方 | disaster-preparedness-tools（東京消防庁・消防庁） |
+| ai | 画像生成AIで作った画像の著作権は？文化庁の考え方を整理 | AI 画像 著作権 | 解説 | ai-images-for-blogs（文化庁「AIと著作権」） |
+| life | 家電の延長保証は必要？メーカー保証との違いと確認すること | 延長保証 必要 | 解説 | lost-appliance-manual（メーカー・販売店の公式案内） |
+| furniture | モニターの高さと距離の決め方｜目線・40cm以上の視距離 | モニター 高さ 距離 | 使い方 | monitor-arm-buying-guide（厚労省ガイドライン） |
 
 ## 商品紹介の候補（火曜・金曜の夕に1本）
 | カテゴリ | タイトル案 | 狙う検索キーワード | 比べる項目の例 | 関連記事 |
