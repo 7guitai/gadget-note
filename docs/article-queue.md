@@ -9,7 +9,6 @@
 | toolbox | 精密ドライバーの選び方｜メガネ・ガジェットの小さなねじ | 精密ドライバー 選び方 | 選び方 | − |
 | gadget | オンライン会議用のマイク・ヘッドセットの選び方 | 会議 マイク 選び方 | 選び方 | earphones-first |
 | gadget | ミニPCの選び方｜CPU・メモリ・端子・置き場所 | ミニPC 選び方 | 選び方 | nipogi-e1-ryzen-3250u、usb-hub-dock-port-power-guide |
-| gadget | モバイルバッテリーの捨て方と、膨らんだときの対処 | モバイルバッテリー 捨て方 | 解説 | mobile-power-bank-buying-guide |
 | gadget | Androidスマホの写真をパソコンや外付けSSDに移す方法 | Android 写真 移す | 使い方 | iphone-photo-ssd、photo-backup-cloud-ssd-computer |
 
 ## 商品紹介の候補（火曜・金曜の夕に1本）
@@ -51,3 +50,4 @@
 | 2026-10-25 | lost-appliance-manual | 家電の取扱説明書をなくしたときの探し方｜品番の確認とメーカーのサイト |
 | 2026-10-25 | ps5-storage-expansion | PS5の容量を増やす方法｜外付けSSD・内蔵SSD（M.2）の違い |
 | 2026-10-26 | office-souvenir-guide | 職場に配るお土産の選び方｜個包装・アレルギー表示・日持ち |
+| 2026-10-26 | power-bank-disposal-swelling | モバイルバッテリーの捨て方と、膨らんだときの対処 |
