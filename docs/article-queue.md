@@ -59,3 +59,4 @@
 | 2026-10-25 | ps5-storage-expansion | PS5の容量を増やす方法｜外付けSSD・内蔵SSD（M.2）の違い |
 | 2026-10-26 | office-souvenir-guide | 職場に配るお土産の選び方｜個包装・アレルギー表示・日持ち |
 | 2026-10-26 | power-bank-disposal-swelling | モバイルバッテリーの捨て方と、膨らんだときの対処 |
+| 2026-10-27 | save-phone-photos-to-cloud | スマホの写真をクラウドに保存する方法｜iCloud写真・Googleフォトの設定 |

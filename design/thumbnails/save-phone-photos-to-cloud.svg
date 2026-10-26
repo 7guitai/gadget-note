@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：スマホの写真をクラウドに保存（スマホ、雲、写真） -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 58px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .tag { font-size: 18px; font-weight: 700; fill: #5E7B49; text-anchor: middle; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+    </style>
+  </defs>
+
+  <!-- 背景 -->
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="320" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <!-- 左：文字 -->
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">ガジェット ／ 使い方</text>
+  <text class="h1" x="68" y="256">スマホの写真を</text>
+  <text class="h1" x="68" y="332">クラウドに保存</text>
+  <rect x="72" y="378" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="438">iCloud写真・Googleフォトの</text>
+  <text class="sub" x="72" y="480">設定と注意点</text>
+
+  <!-- 雲 -->
+  <g transform="translate(860 110)">
+    <path d="M60 140 a50 50 0 0 1 10 -98 a70 70 0 0 1 132 10 a52 52 0 0 1 18 88z" fill="#FFFFFF" stroke="#D8DDD3" stroke-width="4"/>
+    <!-- 写真 -->
+    <rect x="80" y="62" width="70" height="54" rx="6" fill="#C9D8B4"/>
+    <path d="M86 108 l20 -22 l14 14 l10 -10 l16 18z" fill="#7C9A5E"/>
+    <circle cx="134" cy="76" r="6" fill="#F3E3B0"/>
+  </g>
+  <text class="tag" x="1030" y="285">クラウド</text>
+
+  <!-- スマホ -->
+  <g transform="translate(720 260)">
+    <rect width="130" height="240" rx="22" fill="#173D38"/>
+    <rect x="12" y="18" width="106" height="204" rx="12" fill="#FFFFFF"/>
+    <g fill="#C9D8B4">
+      <rect x="22" y="30" width="40" height="40" rx="4"/>
+      <rect x="68" y="30" width="40" height="40" rx="4"/>
+      <rect x="22" y="76" width="40" height="40" rx="4"/>
+      <rect x="68" y="76" width="40" height="40" rx="4"/>
+    </g>
+  </g>
+  <!-- 矢印 -->
+  <path d="M860 330 C 900 330, 930 300, 950 270" stroke="#9DB383" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M930 268 l22 -2 l-2 22" stroke="#9DB383" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text class="tag" x="785" y="535">自動で保存</text>
+
+  <!-- 注意 -->
+  <g transform="translate(990 360)">
+    <rect width="150" height="110" rx="14" fill="#FFFFFF" stroke="#D8DDD3" stroke-width="3"/>
+    <rect x="20" y="22" width="110" height="12" rx="6" fill="#E9C9B8"/>
+    <rect x="20" y="48" width="90" height="10" rx="5" fill="#D8DDD3"/>
+    <rect x="20" y="70" width="100" height="10" rx="5" fill="#D8DDD3"/>
+  </g>
+  <text class="tag" x="1065" y="500">容量と削除に注意</text>
+
+  <text class="cap" x="640" y="604">※ イメージ。実際の画面ではありません</text>
+</svg>

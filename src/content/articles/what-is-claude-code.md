@@ -51,7 +51,7 @@ Claude Codeは、いくつかの場所から使えます。公式ドキュメン
 | デスクトップアプリ | ターミナルを使わずに操作できる。差分を見ながら確認できる | 画面で確かめながら使いたい人 |
 | Web・スマホ（claude.ai/code） | パソコンに何も入れずにブラウザーから使う。クラウド上で作業が進む | 自分のPCを閉じても作業を進めたい人 |
 
-Web版のしくみは<a href="/articles/claude-code-cloud-sessions/">Claude Codeのクラウドセッションとは？PCを閉じても進む開発の仕組みと始め方</a>で詳しく説明しています。
+Web版のしくみは<a href="/articles/claude-code-cloud-sessions/">Claude Codeのクラウドセッションとは？仕組み・できること・始め方</a>で詳しく説明しています。
 
 ## 始めるのに必要なもの
 

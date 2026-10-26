@@ -40,7 +40,7 @@ affiliate: false
 
 原因としては、ケーブルの緩み・抜け・断線や、パソコン・USBハブからの電力不足などが挙げられています。バッファローのよくある質問でも、USBから給電するポータブルタイプは電力不足の可能性があるため、パソコン本体の別のUSBポートに直接つなぐよう案内しています。
 
-USB-Cケーブルには、充電だけに対応したものなど、できることが違う種類があります。見分け方は<a href="/articles/usb-c-cable-identification/">USB-Cケーブルの見分け方｜充電・転送・映像を確認</a>、ハブやドックの給電の考え方は<a href="/articles/usb-hub-dock-port-power-guide/">USBハブとドックの選び方｜端子・映像・給電</a>で紹介しています。
+USB-Cケーブルには、充電だけに対応したものなど、できることが違う種類があります。見分け方は<a href="/articles/usb-c-cable-identification/">充電専用ケーブルの見分け方｜USB-Cの転送速度・映像対応も確認</a>、ハブやドックの給電の考え方は<a href="/articles/usb-hub-dock-port-power-guide/">USBハブとドックの選び方｜端子・映像・給電</a>で紹介しています。
 
 ## 確認2：パソコン側の状態
 

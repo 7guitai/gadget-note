@@ -68,7 +68,7 @@ GitHubには無料と有料のプランがあります。公式ドキュメン�
 
 最近は、AIがコードを書いたり直したりするツールが、GitHubと連携して動くことが増えています。GitHubの公式ドキュメントでは、GitHub自身のAIアシスタント「GitHub Copilot」について、Issueとして始まった変更をエージェント（AI）が引き受け、プルリクエストとして返す、という流れを紹介しています。また、AIが作業した結果について、**レビューと承認の責任は利用者にある**としています。
 
-Anthropicの「Claude Code」も、GitHubのリポジトリを読み込んで作業し、結果をブランチやプルリクエストとして返す使い方ができます。詳しくは<a href="/articles/what-is-claude-code/">Claude Codeとは？できること・必要なプラン・始め方</a>と<a href="/articles/claude-code-cloud-sessions/">Claude Codeのクラウドセッションとは？PCを閉じても進む開発の仕組みと始め方</a>で紹介しています。
+Anthropicの「Claude Code」も、GitHubのリポジトリを読み込んで作業し、結果をブランチやプルリクエストとして返す使い方ができます。詳しくは<a href="/articles/what-is-claude-code/">Claude Codeとは？できること・必要なプラン・始め方</a>と<a href="/articles/claude-code-cloud-sessions/">Claude Codeのクラウドセッションとは？仕組み・できること・始め方</a>で紹介しています。
 
 AIが出したプルリクエストも、人が出したものと同じように、**中身を確認してからマージする**のが大切です。プルリクエストのしくみを知っていれば、「AIが何をどう変えたのか」を差分で確かめられます。
 
