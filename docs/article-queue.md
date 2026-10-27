@@ -22,7 +22,6 @@
 | カテゴリ | タイトル案 | 狙う検索キーワード | 比べる項目の例 | 関連記事 |
 |---|---|---|---|---|
 | gadget | Switch 2用のmicroSD Expressカードを比較｜容量・速度・ライセンス | Switch2 microSD Express 比較 | 容量、公表速度、任天堂ライセンスの有無、保証 | microsd-card-buying-guide （2026-10-23見送り：Samsungのライセンス品の仕様と日本向け型番を公式で確認できず。再挑戦時は任天堂の日本ページと各社日本語ページを確認） |
-| gadget | Qi2対応のワイヤレス充電器を比較｜スタンド型・2in1・3in1 | Qi2 充電器 比較 | Qi2認証、最大W数、同時に充電できる台数、付属アダプタ | qi2-wireless-charging-guide |
 | furniture | モニターアームを比較｜対応重量・天板の厚さ・VESA | モニターアーム 比較 | 対応重量・サイズ、VESA、天板厚、クランプ／グロメット | monitor-arm-buying-guide |
 | gadget | 240W対応のUSB-Cケーブルを比較｜長さ・転送速度・映像出力 | USB-C ケーブル 240W 比較 | 最大W数、転送速度、映像出力、長さ、認証 | usb-c-cable-identification |
 | furniture | デスクライトを比較｜JISの照度区分・色温度・置き方 | デスクライト 比較 | JIS照度区分、色温度の調整、Ra、クランプ／台座 | desk-light-buying-guide |
@@ -61,3 +60,4 @@
 | 2026-10-27 | save-phone-photos-to-cloud | スマホの写真をクラウドに保存する方法｜iCloud写真・Googleフォトの設定 |
 | 2026-10-27 | standing-desk-buying-guide | 昇降デスクを選ぶ前に確認したいこと｜高さの範囲・耐荷重・天板 |
 | 2026-10-27 | meta-muse-agent-guide | MetaのAIエージェント「Muse」とは？できること・安全性・招待コードの仕組み |
+| 2026-10-27 | qi2-3in1-charger-comparison | Qi2対応の3-in-1ワイヤレス充電器を比較｜持ち運び・据え置き・25W |
