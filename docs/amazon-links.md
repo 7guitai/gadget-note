@@ -18,6 +18,9 @@
 | Anker Zolo Power Bank (10000mAh, 30W, MagGo)（A1684） | https://link.amazon/B09q5sVHO | − | power-bank-10000mah-comparison | 使用中 |
 | SanDisk microSD Express Card for Nintendo Switch 2 256GB | https://link.amazon/B0e2sXpBz | − | microsd-card-buying-guide | 使用中 |
 | Samsung P9 Express 256GB（MB-MK256T） | https://link.amazon/B0iw07QHQ | − | microsd-card-buying-guide | 使用中 |
+| Anker MagGo Wireless Charging Station (3-in-1, Foldable Pad)（B25M8） | https://link.amazon/B0h6iDRKp | − | qi2-3in1-charger-comparison | 使用中 |
+| Anker MagGo Wireless Charging Station (3-in-1, Dock Stand)（B25M4） | https://link.amazon/B0h1pExcs | − | qi2-3in1-charger-comparison | 使用中 |
+| Anker Prime Wireless Charging Station (3-in-1, MagGo, AirCool, Dock Stand)（B25X7） | https://link.amazon/B03fdZvim | − | qi2-3in1-charger-comparison | 使用中 |
 
 ## リンクがあると入れやすい記事（候補）
 商品を選ぶときの条件。この条件に合う商品のリンクがあれば、その記事に追加できる。

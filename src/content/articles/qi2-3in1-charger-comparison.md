@@ -9,7 +9,7 @@ coverLabel: "COMPARE."
 cover: "/images/qi2-3in1-charger-comparison/cover.webp"
 coverAlt: "「Qi2対応の3-in-1ワイヤレス充電器を比較」のタイトル画像。折りたたみのパッド、スタンド型、冷却ファン付きのスタンドの3つの充電器を描いたイメージイラスト"
 draft: false
-affiliate: false
+affiliate: true
 ---
 
 iPhone・Apple Watch・ワイヤレスイヤホンを1台でまとめて充電できる「3-in-1」のワイヤレス充電器は、**持ち運ぶか、机に置いたままにするか**と、**iPhoneを最大何Wで充電したいか（15Wか25Wか）**で選ぶと分かりやすくなります。
@@ -49,11 +49,15 @@ Qi2やMagSafeのしくみ、「Qi2」と「Qi2 25W」の違いは<a href="/artic
 
 モバイルバッテリーの機能はないので、コンセントにつないで使います。発売は2024年11月です。旅行の充電セットの考え方は<a href="/articles/travel-charging-kit-guide/">旅行の充電セット｜充電器・ケーブルを減らす順番</a>で紹介しています。
 
+<a class="buy-link" href="https://link.amazon/B0h6iDRKp" rel="sponsored noopener">AmazonでAnker MagGo Wireless Charging Station (3-in-1, Foldable Pad)を見る</a>
+
 ## 机に置いて使う：Dock Stand
 
 iPhoneを立てて置くスタンド型です。充電しながら画面を見られるので、机やベッドの横に置いて使うのに向きます。サイズは約125×88×88mm、重さは約300gです。
 
 40WのUSB PD充電器とケーブルが付属しています。Ankerは、付属の充電器か、**40W以上の充電器**を使うよう案内しています。また、iPhoneは本体のQi2マークの位置に合わせて置く必要があるとしています。発売は2025年2月です。
+
+<a class="buy-link" href="https://link.amazon/B0h1pExcs" rel="sponsored noopener">AmazonでAnker MagGo Wireless Charging Station (3-in-1, Dock Stand)を見る</a>
 
 ## 速く充電したい：Prime（AirCool）
 
@@ -62,6 +66,8 @@ Ankerの公式ページで**「Qi2 25W認証取得済」**と書かれている�
 Ankerによると、**冷却ファンとペルチェ素子を使った自動冷却機能**を搭載しています。最大25Wで充電し、適切に冷やすために、付属の充電器か**65W以上のUSB急速充電器**を使うよう案内しています。サイズは3機種の中でいちばん大きく、約169×138×125mmです。発売は2025年11月です。
 
 25Wで充電できるのは、**iPhoneの側も25Wの充電に対応している場合**です。たとえばAppleのiPhone 17の技術仕様には、最大25WのMagSafeワイヤレス充電と、最大25WのQi2ワイヤレス充電が書かれています。自分のiPhoneが最大15Wまでなら、Primeを選んでも15Wの充電器と大きくは変わりません。
+
+<a class="buy-link" href="https://link.amazon/B03fdZvim" rel="sponsored noopener">AmazonでAnker Prime Wireless Charging Station (3-in-1, MagGo, AirCool, Dock Stand)を見る</a>
 
 ## 選ぶ順番
 
