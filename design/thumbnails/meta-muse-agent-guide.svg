@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：MetaのAIエージェントMuse（吹き出しから予定・メール・買い物のカードへ） -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 58px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .tag { font-size: 17px; font-weight: 700; fill: #5E7B49; text-anchor: middle; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+    </style>
+  </defs>
+
+  <!-- 背景 -->
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="320" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <!-- 左：文字 -->
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">AI ／ 解説</text>
+  <text class="h1" x="68" y="256">AIエージェント</text>
+  <text class="h1" x="68" y="332">「Muse」とは？</text>
+  <rect x="72" y="378" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="438">できること・安全性・</text>
+  <text class="sub" x="72" y="480">招待コードの仕組み</text>
+
+  <!-- 吹き出し -->
+  <g transform="translate(690 230)">
+    <rect width="200" height="110" rx="22" fill="#173D38"/>
+    <path d="M40 108 l-6 30 l34 -30z" fill="#173D38"/>
+    <rect x="26" y="32" width="148" height="12" rx="6" fill="#9DB383"/>
+    <rect x="26" y="62" width="100" height="12" rx="6" fill="#7C9A5E"/>
+  </g>
+
+  <!-- 線 -->
+  <g stroke="#9DB383" stroke-width="5" fill="none" stroke-linecap="round">
+    <path d="M890 260 C 930 260, 940 170, 980 170"/>
+    <path d="M890 285 C 940 285, 950 300, 980 300"/>
+    <path d="M890 310 C 930 310, 940 430, 980 430"/>
+  </g>
+
+  <!-- カード：予定 -->
+  <g transform="translate(980 130)">
+    <rect width="150" height="80" rx="14" fill="#FFFFFF" stroke="#D8DDD3" stroke-width="3"/>
+    <rect x="18" y="18" width="40" height="44" rx="6" fill="#C9D8B4"/>
+    <rect x="18" y="18" width="40" height="12" rx="4" fill="#7C9A5E"/>
+    <rect x="70" y="26" width="62" height="10" rx="5" fill="#D8DDD3"/>
+    <rect x="70" y="46" width="46" height="10" rx="5" fill="#D8DDD3"/>
+  </g>
+  <text class="tag" x="1055" y="232">予定</text>
+  <!-- カード：メール -->
+  <g transform="translate(980 260)">
+    <rect width="150" height="80" rx="14" fill="#FFFFFF" stroke="#D8DDD3" stroke-width="3"/>
+    <rect x="18" y="20" width="52" height="38" rx="5" fill="#E6EBE1" stroke="#7C9A5E" stroke-width="3"/>
+    <path d="M18 22 l26 20 l26 -20" stroke="#7C9A5E" stroke-width="3" fill="none"/>
+    <rect x="82" y="26" width="50" height="10" rx="5" fill="#D8DDD3"/>
+    <rect x="82" y="46" width="38" height="10" rx="5" fill="#D8DDD3"/>
+  </g>
+  <text class="tag" x="1055" y="362">メール</text>
+  <!-- カード：買い物 -->
+  <g transform="translate(980 390)">
+    <rect width="150" height="80" rx="14" fill="#FFFFFF" stroke="#D8DDD3" stroke-width="3"/>
+    <path d="M22 24 h10 l8 28 h30 l6 -20 h-40" stroke="#7C9A5E" stroke-width="4" fill="none" stroke-linejoin="round"/>
+    <circle cx="44" cy="60" r="4" fill="#7C9A5E"/>
+    <circle cx="66" cy="60" r="4" fill="#7C9A5E"/>
+    <rect x="88" y="30" width="44" height="10" rx="5" fill="#D8DDD3"/>
+  </g>
+  <text class="tag" x="1055" y="492">買い物・予約</text>
+
+  <text class="cap" x="640" y="604">※ イメージ。実際のアプリの画面ではありません</text>
+</svg>

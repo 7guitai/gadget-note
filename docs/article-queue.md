@@ -60,3 +60,4 @@
 | 2026-10-26 | power-bank-disposal-swelling | モバイルバッテリーの捨て方と、膨らんだときの対処 |
 | 2026-10-27 | save-phone-photos-to-cloud | スマホの写真をクラウドに保存する方法｜iCloud写真・Googleフォトの設定 |
 | 2026-10-27 | standing-desk-buying-guide | 昇降デスクを選ぶ前に確認したいこと｜高さの範囲・耐荷重・天板 |
+| 2026-10-27 | meta-muse-agent-guide | MetaのAIエージェント「Muse」とは？できること・安全性・招待コードの仕組み |
