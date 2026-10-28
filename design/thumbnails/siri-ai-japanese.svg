@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：Siri AIが日本語に対応（スマホ、会話の吹き出し、メール・予定のカード） -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 58px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .tag { font-size: 18px; font-weight: 700; fill: #5E7B49; text-anchor: middle; }
+      .ja { font-size: 30px; font-weight: 800; fill: #173D38; text-anchor: middle; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+    </style>
+  </defs>
+
+  <!-- 背景 -->
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="320" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <!-- 左：文字 -->
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">AI ／ 解説</text>
+  <text class="h1" x="68" y="256">Siri AIが</text>
+  <text class="h1" x="68" y="332">日本語に対応</text>
+  <rect x="72" y="378" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="438">できること・対応機種・</text>
+  <text class="sub" x="72" y="480">オンにする方法</text>
+
+  <!-- スマホ（一般的な形） -->
+  <g transform="translate(720 110)">
+    <rect width="190" height="380" rx="30" fill="#173D38"/>
+    <rect x="14" y="22" width="162" height="336" rx="18" fill="#FFFFFF"/>
+    <!-- 会話 -->
+    <rect x="30" y="50" width="110" height="34" rx="14" fill="#E6EBE1"/>
+    <rect x="50" y="98" width="110" height="34" rx="14" fill="#C9D8B4"/>
+    <rect x="30" y="146" width="120" height="50" rx="14" fill="#E6EBE1"/>
+    <!-- 光る輪（一般的な表現） -->
+    <circle cx="95" cy="290" r="34" fill="none" stroke="#9DB383" stroke-width="10"/>
+    <circle cx="95" cy="290" r="18" fill="#7C9A5E"/>
+  </g>
+
+  <!-- 吹き出し：日本語 -->
+  <g transform="translate(950 130)">
+    <rect width="170" height="90" rx="20" fill="#FFFFFF" stroke="#D8DDD3" stroke-width="3"/>
+    <path d="M30 88 l-8 26 l32 -26z" fill="#FFFFFF" stroke="#D8DDD3" stroke-width="3" stroke-linejoin="round"/>
+    <rect x="28" y="84" width="30" height="8" fill="#FFFFFF"/>
+    <text class="ja" x="85" y="56">日本語</text>
+  </g>
+
+  <!-- カード：メール・予定 -->
+  <g transform="translate(960 290)">
+    <rect width="150" height="70" rx="12" fill="#FFFFFF" stroke="#D8DDD3" stroke-width="3"/>
+    <rect x="16" y="18" width="44" height="34" rx="5" fill="#E6EBE1" stroke="#7C9A5E" stroke-width="3"/>
+    <path d="M16 20 l22 16 l22 -16" stroke="#7C9A5E" stroke-width="3" fill="none"/>
+    <rect x="72" y="24" width="60" height="9" rx="4" fill="#D8DDD3"/>
+    <rect x="72" y="40" width="44" height="9" rx="4" fill="#D8DDD3"/>
+  </g>
+  <g transform="translate(960 380)">
+    <rect width="150" height="70" rx="12" fill="#FFFFFF" stroke="#D8DDD3" stroke-width="3"/>
+    <rect x="16" y="14" width="40" height="42" rx="6" fill="#C9D8B4"/>
+    <rect x="16" y="14" width="40" height="12" rx="4" fill="#7C9A5E"/>
+    <rect x="68" y="24" width="64" height="9" rx="4" fill="#D8DDD3"/>
+    <rect x="68" y="40" width="46" height="9" rx="4" fill="#D8DDD3"/>
+  </g>
+  <text class="tag" x="1035" y="490">メール・予定も</text>
+
+  <text class="cap" x="640" y="604">※ イメージ。実際の画面やロゴではありません</text>
+</svg>
