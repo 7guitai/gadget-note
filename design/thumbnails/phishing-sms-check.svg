@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：迷惑SMS・フィッシング（スマホのメッセージ、釣り針、注意マーク） -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 58px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .tag { font-size: 18px; font-weight: 700; fill: #5E7B49; text-anchor: middle; }
+      .warn { font-size: 40px; font-weight: 800; fill: #FFFFFF; text-anchor: middle; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+    </style>
+  </defs>
+
+  <!-- 背景 -->
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="320" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <!-- 左：文字 -->
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">暮らし ／ 安全</text>
+  <text class="h1" x="68" y="256">迷惑SMS・</text>
+  <text class="h1" x="68" y="332">フィッシング</text>
+  <rect x="72" y="378" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="438">リンクを開く前の確認と</text>
+  <text class="sub" x="72" y="480">入力してしまったとき</text>
+
+  <!-- スマホ -->
+  <g transform="translate(720 120)">
+    <rect width="190" height="370" rx="28" fill="#173D38"/>
+    <rect x="14" y="22" width="162" height="326" rx="16" fill="#FFFFFF"/>
+    <!-- メッセージの吹き出し -->
+    <rect x="28" y="60" width="134" height="110" rx="14" fill="#E6EBE1"/>
+    <rect x="42" y="78" width="100" height="10" rx="5" fill="#9DB383"/>
+    <rect x="42" y="98" width="80" height="10" rx="5" fill="#9DB383"/>
+    <rect x="42" y="126" width="90" height="16" rx="5" fill="#E9C9B8"/>
+  </g>
+
+  <!-- 釣り針 -->
+  <g transform="translate(860 230)" stroke="#173D38" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="80" y1="-110" x2="80" y2="10"/>
+    <path d="M80 10 v40 a32 32 0 0 1 -64 0 v-10"/>
+    <path d="M16 40 l-12 14"/>
+  </g>
+
+  <!-- 注意マーク -->
+  <g transform="translate(1000 300)">
+    <path d="M70 0 L140 124 H0 Z" fill="#C97B5A"/>
+    <text class="warn" x="70" y="108">!</text>
+  </g>
+  <text class="tag" x="1070" y="460">リンクは開かない</text>
+
+  <text class="cap" x="640" y="604">※ イメージ。実際のメッセージや画面ではありません</text>
+</svg>
