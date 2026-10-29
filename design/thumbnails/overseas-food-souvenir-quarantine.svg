@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：海外のお土産と検疫（スーツケース、ソーセージ、果物、注意マーク） -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 54px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .tag { font-size: 18px; font-weight: 700; fill: #5E7B49; text-anchor: middle; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="320" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">お土産 ／ 解説</text>
+  <text class="h1" x="68" y="252">海外のお土産で</text>
+  <text class="h1" x="68" y="326">肉や果物は持ち込める？</text>
+  <rect x="72" y="376" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="436">ソーセージ・ジャーキー・</text>
+  <text class="sub" x="72" y="478">果物の検疫ルール</text>
+
+  <!-- スーツケース -->
+  <g transform="translate(760 230)">
+    <rect x="60" y="-40" width="80" height="50" rx="14" fill="none" stroke="#173D38" stroke-width="12"/>
+    <rect width="200" height="250" rx="22" fill="#173D38"/>
+    <rect x="44" y="20" width="12" height="210" rx="6" fill="#2E5149"/>
+    <rect x="144" y="20" width="12" height="210" rx="6" fill="#2E5149"/>
+    <circle cx="30" cy="262" r="12" fill="#5E7B49"/>
+    <circle cx="170" cy="262" r="12" fill="#5E7B49"/>
+  </g>
+
+  <!-- ソーセージ -->
+  <g transform="translate(990 180)">
+    <rect x="0" y="0" width="120" height="40" rx="20" fill="#C9A27A"/>
+    <rect x="10" y="50" width="120" height="40" rx="20" fill="#B88E66"/>
+    <circle cx="140" cy="-6" r="24" fill="#FFFFFF" stroke="#C25B4A" stroke-width="6"/>
+    <rect x="137" y="-20" width="6" height="18" rx="3" fill="#C25B4A"/>
+    <circle cx="140" cy="7" r="3.5" fill="#C25B4A"/>
+  </g>
+
+  <!-- 果物 -->
+  <g transform="translate(1000 360)">
+    <circle cx="40" cy="50" r="40" fill="#E8B04B"/>
+    <circle cx="100" cy="60" r="32" fill="#9DB383"/>
+    <path d="M40 10 q8 -18 22 -16" stroke="#5E7B49" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <circle cx="140" cy="0" r="24" fill="#FFFFFF" stroke="#C25B4A" stroke-width="6"/>
+    <rect x="137" y="-14" width="6" height="18" rx="3" fill="#C25B4A"/>
+    <circle cx="140" cy="13" r="3.5" fill="#C25B4A"/>
+  </g>
+  <text class="tag" x="1060" y="490">買う前に確認</text>
+
+  <text class="cap" x="640" y="604">※ イメージ。実際の商品ではありません</text>
+</svg>
