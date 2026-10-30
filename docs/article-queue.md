@@ -20,7 +20,6 @@
 |---|---|---|---|---|
 | gadget | Switch 2用のmicroSD Expressカードを比較｜容量・速度・ライセンス | Switch2 microSD Express 比較 | 容量、公表速度、任天堂ライセンスの有無、保証 | microsd-card-buying-guide （2026-10-23見送り：Samsungのライセンス品の仕様と日本向け型番を公式で確認できず。再挑戦時は任天堂の日本ページと各社日本語ページを確認） |
 | furniture | モニターアームを比較｜対応重量・天板の厚さ・VESA | モニターアーム 比較 | 対応重量・サイズ、VESA、天板厚、クランプ／グロメット | monitor-arm-buying-guide |
-| gadget | 240W対応のUSB-Cケーブルを比較｜長さ・転送速度・映像出力 | USB-C ケーブル 240W 比較 | 最大W数、転送速度、映像出力、長さ、認証 | usb-c-cable-identification |
 | furniture | デスクライトを比較｜JISの照度区分・色温度・置き方 | デスクライト 比較 | JIS照度区分、色温度の調整、Ra、クランプ／台座 | desk-light-buying-guide |
 | gadget | USBメモリを比較｜USB 3.2・容量・形 | USBメモリ 比較 | 規格、公表速度、端子（A／C）、容量、キャップの有無 | usb-flash-drive-vs-portable-ssd |
 
@@ -63,3 +62,4 @@
 | 2026-10-29 | siri-ai-japanese | Siri AIが日本語に対応｜できること・対応機種・オンにする方法 |
 | 2026-10-29 | alexa-plus-japan | Alexa+が日本で提供開始｜できること・料金・使い始める方法 |
 | 2026-10-30 | overseas-food-souvenir-quarantine | 海外のお土産で肉や果物は持ち込める？ソーセージ・ジャーキー・果物の検疫ルール |
+| 2026-10-30 | usb-c-cable-240w-comparison | 240W対応のUSB-Cケーブルを比較｜充電だけ・高耐久・映像出力も |
