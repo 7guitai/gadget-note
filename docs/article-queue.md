@@ -9,8 +9,7 @@
 | toolbox | 精密ドライバーの選び方｜メガネ・ガジェットの小さなねじ | 精密ドライバー 選び方 | 選び方 | − |
 | gadget | オンライン会議用のマイク・ヘッドセットの選び方 | 会議 マイク 選び方 | 選び方 | earphones-first |
 | gadget | ミニPCの選び方｜CPU・メモリ・端子・置き場所 | ミニPC 選び方 | 選び方 | nipogi-e1-ryzen-3250u、usb-hub-dock-port-power-guide |
-| gadget | Androidスマホの写真をパソコンや外付けSSDに移す方法 | Android 写真 移す | 使い方 | iphone-photo-ssd、photo-backup-cloud-ssd-computer |
-| ai | 画像生成AIで作った画像の著作権は？文化庁の考え方を整理 | AI 画像 著作権 | 解説 | ai-images-for-blogs（文化庁「AIと著作権」） |
+| ai | 画像生成AIで作った画像の著作権は？文化庁の考え方を整理 | AI 画像 著作権 | 解説 | ai-images-for-blogs（文化庁「AIと著作権」）（2026-11-01見送り：ai-images-for-blogs が文化庁の考え方を詳しく扱っており重複。別の切り口が見つかるまで保留） |
 | life | 家電の延長保証は必要？メーカー保証との違いと確認すること | 延長保証 必要 | 解説 | lost-appliance-manual（メーカー・販売店の公式案内） |
 
 ## 商品紹介の候補（火曜・金曜の夕に1本）
@@ -63,3 +62,4 @@
 | 2026-10-30 | usb-c-cable-240w-comparison | 240W対応のUSB-Cケーブルを比較｜充電だけ・高耐久・映像出力も |
 | 2026-10-31 | monitor-height-distance | モニターの高さと距離の決め方｜画面の上端は目の高さまで・40cm以上離す |
 | 2026-10-31 | furniture-anti-tip-guide | 家具の転倒防止グッズの選び方｜L型金具・突っ張り棒・ストッパーの効果と組み合わせ |
+| 2026-11-01 | android-photos-to-pc | Androidスマホの写真をパソコンに移す方法｜USBケーブル・Googleフォト・クイック共有 |

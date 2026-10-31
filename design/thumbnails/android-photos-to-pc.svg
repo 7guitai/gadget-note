@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：Androidの写真をパソコンへ（スマホ、ケーブル、ノートPC、写真） -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 56px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="320" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">ガジェット ／ 使い方</text>
+  <text class="h1" x="68" y="254">Androidの写真を</text>
+  <text class="h1" x="68" y="328">パソコンに移す</text>
+  <rect x="72" y="376" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="436">USBケーブル・Googleフォト・</text>
+  <text class="sub" x="72" y="478">クイック共有</text>
+
+  <!-- スマホ -->
+  <g transform="translate(720 200)">
+    <rect width="120" height="230" rx="18" fill="#173D38"/>
+    <rect x="10" y="22" width="100" height="186" rx="6" fill="#F6F2EA"/>
+    <g fill="#9DB383"><rect x="18" y="32" width="40" height="40" rx="4"/><rect x="62" y="32" width="40" height="40" rx="4"/><rect x="18" y="78" width="40" height="40" rx="4"/></g>
+    <g fill="#7C9A5E"><rect x="62" y="78" width="40" height="40" rx="4"/><rect x="18" y="124" width="40" height="40" rx="4"/></g>
+  </g>
+  <!-- ケーブル -->
+  <path d="M780 430 C 780 500, 900 500, 900 440 S 1000 380, 1010 400" stroke="#5E7B49" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <!-- ノートPC -->
+  <g transform="translate(900 250)">
+    <rect width="220" height="140" rx="10" fill="#173D38"/>
+    <rect x="12" y="12" width="196" height="116" rx="4" fill="#F6F2EA"/>
+    <rect x="-20" y="140" width="260" height="16" rx="6" fill="#5E7B49"/>
+    <g fill="#C9D8B4"><rect x="26" y="26" width="52" height="40" rx="4"/><rect x="84" y="26" width="52" height="40" rx="4"/><rect x="142" y="26" width="52" height="40" rx="4"/><rect x="26" y="74" width="52" height="40" rx="4"/></g>
+  </g>
+  <!-- 矢印 -->
+  <path d="M860 230 h60 l-14 -12 M920 230 l-14 12" stroke="#E8B04B" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text class="cap" x="640" y="604">※ イメージ。実際の画面ではありません</text>
+</svg>
