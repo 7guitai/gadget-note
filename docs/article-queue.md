@@ -10,7 +10,6 @@
 | gadget | オンライン会議用のマイク・ヘッドセットの選び方 | 会議 マイク 選び方 | 選び方 | earphones-first |
 | gadget | ミニPCの選び方｜CPU・メモリ・端子・置き場所 | ミニPC 選び方 | 選び方 | nipogi-e1-ryzen-3250u、usb-hub-dock-port-power-guide |
 | gadget | Androidスマホの写真をパソコンや外付けSSDに移す方法 | Android 写真 移す | 使い方 | iphone-photo-ssd、photo-backup-cloud-ssd-computer |
-| toolbox | 家具の転倒防止グッズの選び方｜L字金具・突っ張り棒・ストッパー | 家具 転倒防止 選び方 | 選び方 | disaster-preparedness-tools（東京消防庁・消防庁） |
 | ai | 画像生成AIで作った画像の著作権は？文化庁の考え方を整理 | AI 画像 著作権 | 解説 | ai-images-for-blogs（文化庁「AIと著作権」） |
 | life | 家電の延長保証は必要？メーカー保証との違いと確認すること | 延長保証 必要 | 解説 | lost-appliance-manual（メーカー・販売店の公式案内） |
 
@@ -63,3 +62,4 @@
 | 2026-10-30 | overseas-food-souvenir-quarantine | 海外のお土産で肉や果物は持ち込める？ソーセージ・ジャーキー・果物の検疫ルール |
 | 2026-10-30 | usb-c-cable-240w-comparison | 240W対応のUSB-Cケーブルを比較｜充電だけ・高耐久・映像出力も |
 | 2026-10-31 | monitor-height-distance | モニターの高さと距離の決め方｜画面の上端は目の高さまで・40cm以上離す |
+| 2026-10-31 | furniture-anti-tip-guide | 家具の転倒防止グッズの選び方｜L型金具・突っ張り棒・ストッパーの効果と組み合わせ |
