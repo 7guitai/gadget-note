@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：暖房器具の火災予防（電気ストーブ、洗濯物、距離の矢印、注意マーク） -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 54px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .tag { font-size: 18px; font-weight: 700; fill: #5E7B49; text-anchor: middle; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="320" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">くらし ／ 解説</text>
+  <text class="h1" x="68" y="252">ストーブの火災を</text>
+  <text class="h1" x="68" y="326">防ぐには？</text>
+  <rect x="72" y="376" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="436">可燃物との距離と</text>
+  <text class="sub" x="72" y="478">使い始めの点検</text>
+
+  <!-- 電気ストーブ -->
+  <g transform="translate(720 260)">
+    <rect width="150" height="200" rx="16" fill="#173D38"/>
+    <rect x="18" y="20" width="114" height="130" rx="8" fill="#2E5149"/>
+    <g fill="#E8B04B"><rect x="30" y="40" width="90" height="12" rx="6"/><rect x="30" y="74" width="90" height="12" rx="6"/><rect x="30" y="108" width="90" height="12" rx="6"/></g>
+    <rect x="20" y="200" width="110" height="14" rx="6" fill="#5E7B49"/>
+  </g>
+  <!-- 物干しと洗濯物 -->
+  <line x1="960" y1="200" x2="1130" y2="200" stroke="#7C9A5E" stroke-width="6" stroke-linecap="round"/>
+  <path d="M980 200 h60 v90 h-60z" fill="#FFFFFF" stroke="#C9D8B4" stroke-width="4"/>
+  <path d="M1060 200 h50 l10 60 h-70z" fill="#C9D8B4"/>
+  <!-- 距離の矢印 -->
+  <path d="M885 380 H 1100" stroke="#5E7B49" stroke-width="5"/>
+  <path d="M895 368 l-12 12 l12 12 M1090 368 l12 12 l-12 12" stroke="#5E7B49" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text class="tag" x="992" y="416">距離を空ける</text>
+  <!-- 注意マーク -->
+  <circle cx="1080" cy="130" r="28" fill="#FFFFFF" stroke="#C25B4A" stroke-width="6"/>
+  <rect x="1077" y="114" width="6" height="20" rx="3" fill="#C25B4A"/>
+  <circle cx="1080" cy="144" r="4" fill="#C25B4A"/>
+
+  <text class="cap" x="640" y="604">※ イメージ。実際の製品や距離ではありません</text>
+</svg>
