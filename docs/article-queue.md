@@ -64,3 +64,4 @@
 | 2026-10-31 | furniture-anti-tip-guide | 家具の転倒防止グッズの選び方｜L型金具・突っ張り棒・ストッパーの効果と組み合わせ |
 | 2026-11-01 | android-photos-to-pc | Androidスマホの写真をパソコンに移す方法｜USBケーブル・Googleフォト・クイック共有 |
 | 2026-11-01 | heater-fire-safety | 電気ストーブ・石油ストーブの火災を防ぐには？可燃物との距離と使い始めの点検 |
+| 2026-11-02 | gemini-activity-settings | Geminiの会話は保存される？「アクティビティの保存」と一時チャットの違い・削除の方法 |
