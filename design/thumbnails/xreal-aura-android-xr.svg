@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：XRグラス（一般的なメガネ型）、ケーブルでつながった本体、空中の画面。実在製品の形やロゴは描かない -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 56px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="320" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">ガジェット ／ 解説</text>
+  <text class="h1" x="68" y="254">XREAL AURA</text>
+  <text class="h1" x="68" y="328">とは？</text>
+  <rect x="72" y="376" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="436">Android XRのグラス・</text>
+  <text class="sub" x="72" y="478">Geminiでできること</text>
+
+  <!-- 空中の画面 -->
+  <g>
+    <rect x="720" y="120" width="170" height="110" rx="10" fill="#FFFFFF" stroke="#C9D8B4" stroke-width="4"/>
+    <rect x="740" y="140" width="130" height="10" rx="5" fill="#C9D8B4"/><rect x="740" y="162" width="90" height="10" rx="5" fill="#C9D8B4"/>
+    <rect x="910" y="100" width="200" height="130" rx="10" fill="#FFFFFF" stroke="#9DB383" stroke-width="4"/>
+    <path d="M990 145 l30 20 l-30 20z" fill="#7C9A5E"/>
+  </g>
+  <!-- グラス -->
+  <g transform="translate(760 290)">
+    <rect x="0" y="0" width="140" height="80" rx="30" fill="#173D38"/>
+    <rect x="12" y="12" width="116" height="56" rx="22" fill="#5E7B49" opacity=".55"/>
+    <rect x="180" y="0" width="140" height="80" rx="30" fill="#173D38"/>
+    <rect x="192" y="12" width="116" height="56" rx="22" fill="#5E7B49" opacity=".55"/>
+    <rect x="136" y="24" width="48" height="12" rx="6" fill="#173D38"/>
+    <rect x="-40" y="16" width="44" height="12" rx="6" fill="#173D38"/>
+    <rect x="316" y="16" width="44" height="12" rx="6" fill="#173D38"/>
+  </g>
+  <!-- ケーブルと本体 -->
+  <path d="M1120 312 C 1170 380, 1120 450, 1040 470" stroke="#5E7B49" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <rect x="900" y="440" width="140" height="70" rx="16" fill="#2E5149"/>
+  <circle cx="1010" cy="475" r="8" fill="#E8B04B"/>
+
+  <text class="cap" x="640" y="604">※ イメージ。実際の製品の形ではありません</text>
+</svg>

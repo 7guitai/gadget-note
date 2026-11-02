@@ -65,3 +65,4 @@
 | 2026-11-01 | android-photos-to-pc | Androidスマホの写真をパソコンに移す方法｜USBケーブル・Googleフォト・クイック共有 |
 | 2026-11-01 | heater-fire-safety | 電気ストーブ・石油ストーブの火災を防ぐには？可燃物との距離と使い始めの点検 |
 | 2026-11-02 | gemini-activity-settings | Geminiの会話は保存される？「アクティビティの保存」と一時チャットの違い・削除の方法 |
+| 2026-11-02 | xreal-aura-android-xr | XREAL AURAとは？Android XR初の有線XRグラス｜Geminiでできること・日本での予約 |
