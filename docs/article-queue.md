@@ -66,3 +66,4 @@
 | 2026-11-01 | heater-fire-safety | 電気ストーブ・石油ストーブの火災を防ぐには？可燃物との距離と使い始めの点検 |
 | 2026-11-02 | gemini-activity-settings | Geminiの会話は保存される？「アクティビティの保存」と一時チャットの違い・削除の方法 |
 | 2026-11-02 | xreal-aura-android-xr | XREAL AURAとは？Android XR初の有線XRグラス｜Geminiでできること・日本での予約 |
+| 2026-11-03 | step-stool-safety | 踏み台・足場台の安全な使い方｜大掃除の前に確認したい4つのポイントと選び方 |
