@@ -67,3 +67,4 @@
 | 2026-11-02 | xreal-aura-android-xr | XREAL AURAとは？Android XR初の有線XRグラス｜Geminiでできること・日本での予約 |
 | 2026-11-03 | step-stool-safety | 踏み台・足場台の安全な使い方｜大掃除の前に確認したい4つのポイントと選び方 |
 | 2026-11-03 | usb-flash-drive-comparison | USBメモリを比較｜USB-A・USB-C両対応、ノック式、スライド式の違い |
+| 2026-11-04 | duty-free-allowance-japan | 海外のお土産はいくらまで免税？お酒3本・たばこ・20万円の範囲と申告の方法 |
