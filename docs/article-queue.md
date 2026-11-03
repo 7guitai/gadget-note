@@ -18,7 +18,6 @@
 | gadget | Switch 2用のmicroSD Expressカードを比較｜容量・速度・ライセンス | Switch2 microSD Express 比較 | 容量、公表速度、任天堂ライセンスの有無、保証 | microsd-card-buying-guide （2026-10-23見送り：Samsungのライセンス品の仕様と日本向け型番を公式で確認できず。再挑戦時は任天堂の日本ページと各社日本語ページを確認） |
 | furniture | モニターアームを比較｜対応重量・天板の厚さ・VESA | モニターアーム 比較 | 対応重量・サイズ、VESA、天板厚、クランプ／グロメット | monitor-arm-buying-guide |
 | furniture | デスクライトを比較｜JISの照度区分・色温度・置き方 | デスクライト 比較 | JIS照度区分、色温度の調整、Ra、クランプ／台座 | desk-light-buying-guide |
-| gadget | USBメモリを比較｜USB 3.2・容量・形 | USBメモリ 比較 | 規格、公表速度、端子（A／C）、容量、キャップの有無 | usb-flash-drive-vs-portable-ssd |
 
 ## 公開済み
 | 日付 | slug | タイトル |
@@ -67,3 +66,4 @@
 | 2026-11-02 | gemini-activity-settings | Geminiの会話は保存される？「アクティビティの保存」と一時チャットの違い・削除の方法 |
 | 2026-11-02 | xreal-aura-android-xr | XREAL AURAとは？Android XR初の有線XRグラス｜Geminiでできること・日本での予約 |
 | 2026-11-03 | step-stool-safety | 踏み台・足場台の安全な使い方｜大掃除の前に確認したい4つのポイントと選び方 |
+| 2026-11-03 | usb-flash-drive-comparison | USBメモリを比較｜USB-A・USB-C両対応、ノック式、スライド式の違い |
