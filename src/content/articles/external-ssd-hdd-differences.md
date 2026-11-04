@@ -1,8 +1,9 @@
 ---
-title: "外付けSSDとHDDの違い｜用途から選ぶ保存先"
-description: "持ち歩く作業用ならSSD、大容量の据え置き保存ならHDD。速度だけでなく、容量単価、接続先、バックアップの組み方から選びます。"
+title: "外付けSSDとHDDの違いは？速さ・容量・持ち運びで選ぶ保存先"
+description: "外付けSSDとHDDの違いは、読み書きの速さ、容量あたりの費用、持ち歩きやすさ。持ち歩く作業用ならSSD、大容量の据え置き保存ならHDD。接続先やバックアップの組み方も含めて選び方を整理します。"
 category: gadget
 date: "2026-09-26"
+updated: "2026-11-04"
 kind: "解説"
 topics: [storage, backup]
 coverLabel: "STORE."

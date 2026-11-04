@@ -91,7 +91,7 @@ affiliate: false
 </ol>
 </figure>
 
-肉製品や果物の持ち込みのルールは<a href="/articles/overseas-food-souvenir-quarantine/">海外のお土産で肉や果物は持ち込める？ソーセージ・ジャーキー・果物の検疫ルール</a>で、飛行機に持ち込める液体のルールは<a href="/articles/souvenir-airplane-liquids/">ジャムや味噌は機内に持ち込める？飛行機でお土産を持ち帰るときの液体ルール</a>で紹介しています。
+肉製品や果物の持ち込みのルールは<a href="/articles/overseas-food-souvenir-quarantine/">海外のお土産で肉や果物は持ち込める？ソーセージ・ジャーキー・果物の検疫ルール</a>で、飛行機に持ち込める液体のルールは<a href="/articles/souvenir-airplane-liquids/">ジャムや味噌は国際線の機内に持ち込める？100ml・1Lの液体ルールとお土産の例</a>で紹介しています。
 
 ## 参照情報
 

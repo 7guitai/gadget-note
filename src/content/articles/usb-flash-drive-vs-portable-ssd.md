@@ -83,7 +83,7 @@ USBメモリは、例のU366のようにパソコンへ直接挿す形です。U
 - パソコンの容量不足を補い、大きなデータを置いておく
 - 動画編集など、大きなファイルを外付けのまま扱う
 
-外付けSSDの具体的な製品の比べ方は<a href="/articles/portable-ssd-use-case-3/">1TBの外付けSSDを3機種比較｜PCとスマホの使い方で選ぶ</a>、HDDとの違いは<a href="/articles/external-ssd-hdd-differences/">外付けSSDとHDDの違い｜用途から選ぶ保存先</a>で説明しています。
+外付けSSDの具体的な製品の比べ方は<a href="/articles/portable-ssd-use-case-3/">1TBの外付けSSDを3機種比較｜PCとスマホの使い方で選ぶ</a>、HDDとの違いは<a href="/articles/external-ssd-hdd-differences/">外付けSSDとHDDの違いは？速さ・容量・持ち運びで選ぶ保存先</a>で説明しています。
 
 ## どちらにも共通する注意
 
