@@ -9,7 +9,7 @@ coverLabel: "COMPARE."
 cover: "/images/usb-flash-drive-comparison/cover.webp"
 coverAlt: "「USBメモリを比較」のタイトル画像。端子が2つあるUSBメモリ、ノック式、スライド式の3本を描いたイメージイラスト"
 draft: false
-affiliate: false
+affiliate: true
 ---
 
 USBメモリは、**つなぎたい機器の端子（USB-AかUSB-Cか）**と、**キャップをなくさない形かどうか**で選ぶと分かりやすくなります。スマホやUSB-CしかないノートPCでも使いたいなら、**USB-AとUSB-Cの両方の端子がついたもの**が便利です。
@@ -52,11 +52,15 @@ USB-AとUSB-Cの**両方の端子**がついたUSBメモリです。アイ・オ
 
 色は、ホワイト、ブラック、レッド、ブルーの4色です。複数持つときに、色で中身を分けやすくなります。ファイルを暗号化するソフトを無償でダウンロードできるとしています。端子はUSB-Aだけなので、USB-Cしかない機器では、変換アダプターが必要です。
 
+<a class="buy-link" href="https://hb.afl.rakuten.co.jp/ichiba/5924bc2c.7739a973.5924bc2d.d501ddf3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsaino%2Fb0716zg5q1%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" rel="sponsored noopener">楽天市場でアイ・オー・データ U3-PSHシリーズを見る</a>
+
 ## パソコンで使うシンプルなもの：U3-STDR
 
 端子をスライドして出し入れする、**スタンダードな**USBメモリです。挿すだけで使え、面倒な設定はいらないと公式ページでは説明しています。キャップがないので、なくす心配もありません。
 
 容量は16GB〜256GBで、256GBはブラックだけです。ピンクやスケルトンの色は、公式ページで生産終了と書かれているものがあるため、ホワイトかブラックから選ぶのが確実です。端子はUSB-Aだけです。
+
+<a class="buy-link" href="https://hb.afl.rakuten.co.jp/ichiba/5924bd3a.bfd708cb.5924bd3b.eac1a6e8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fexcellar%2F1000023114%2F&amp;link_type=hybrid_url&amp;ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9" rel="sponsored noopener">楽天市場でアイ・オー・データ U3-STD32GR/K（U3-STDRシリーズ、32GB・ブラック）を見る</a>
 
 ## 選ぶ順番
 

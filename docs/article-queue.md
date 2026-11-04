@@ -69,3 +69,4 @@
 | 2026-11-03 | usb-flash-drive-comparison | USBメモリを比較｜USB-A・USB-C両対応、ノック式、スライド式の違い |
 | 2026-11-04 | duty-free-allowance-japan | 海外のお土産はいくらまで免税？お酒3本・たばこ・20万円の範囲と申告の方法 |
 | 2026-11-04 | power-strip-outlet-safety | 延長コード・コンセントの火災を防ぐには？1500Wの目安とトラッキング、5つの点検ポイント |
+| 2026-11-05 | mac-screenshot-shortcuts | Macでスクリーンショットを撮る方法｜shift＋command＋3・4・5の違いと保存先 |

@@ -21,6 +21,8 @@
 | Anker MagGo Wireless Charging Station (3-in-1, Foldable Pad)（B25M8） | https://link.amazon/B0h6iDRKp | − | qi2-3in1-charger-comparison | 使用中 |
 | Anker MagGo Wireless Charging Station (3-in-1, Dock Stand)（B25M4） | https://link.amazon/B0h1pExcs | − | qi2-3in1-charger-comparison | 使用中 |
 | Anker Prime Wireless Charging Station (3-in-1, MagGo, AirCool, Dock Stand)（B25X7） | https://link.amazon/B03fdZvim | − | qi2-3in1-charger-comparison | 使用中 |
+| I-O DATA U3-PSHシリーズ（楽天） | https://hb.afl.rakuten.co.jp/ichiba/5924bc2c.7739a973.5924bc2d.d501ddf3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsaino%2Fb0716zg5q1%2F&link_type=hybrid_url&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9 | − | usb-flash-drive-comparison | 使用中 |
+| I-O DATA U3-STD32GR/K（楽天） | https://hb.afl.rakuten.co.jp/ichiba/5924bd3a.bfd708cb.5924bd3b.eac1a6e8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fexcellar%2F1000023114%2F&link_type=hybrid_url&ut=eyJwYWdlIjoiaXRlbSIsInR5cGUiOiJoeWJyaWRfdXJsIiwic2l6ZSI6IjI0MHgyNDAiLCJuYW0iOjEsIm5hbXAiOiJyaWdodCIsImNvbSI6MSwiY29tcCI6ImRvd24iLCJwcmljZSI6MSwiYm9yIjoxLCJjb2wiOjEsImJidG4iOjEsInByb2QiOjAsImFtcCI6ZmFsc2V9 | − | usb-flash-drive-comparison | 使用中 |
 
 ## リンクがあると入れやすい記事（候補）
 商品を選ぶときの条件。この条件に合う商品のリンクがあれば、その記事に追加できる。
