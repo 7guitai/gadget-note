@@ -72,3 +72,4 @@
 | 2026-11-05 | bed-guard-stroller-safety | ベッドガードは何歳から？18か月未満は使わない理由と、ベビーカーの事故を防ぐポイント・子供PSCマーク |
 | 2026-11-06 | power-bank-airplane-rules | モバイルバッテリーは飛行機に持ち込める？2個まで・160Wh・機内で充電しないルール |
 | 2026-11-06 | desk-light-comparison | デスクライトを比較｜モニターライト・クランプ式・台座式の違いと選び方 |
+| 2026-11-07 | google-ai-mode-restaurant-search | Google検索のAIモードでレストランの空席を探せるように｜使い方と予約までの流れ |
