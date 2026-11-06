@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：デスクライトの比較（モニターライト、クランプ式アーム、台座式）。実在製品の形やロゴは描かない -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 56px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .tag { font-size: 17px; font-weight: 700; fill: #5E7B49; text-anchor: middle; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="320" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">家具 ／ 比較</text>
+  <text class="h1" x="68" y="256">デスクライトを</text>
+  <text class="h1" x="68" y="332">比較</text>
+  <rect x="72" y="378" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="438">モニターライト・</text>
+  <text class="sub" x="72" y="480">クランプ式・台座式</text>
+
+  <!-- 机 -->
+  <rect x="700" y="440" width="440" height="14" rx="4" fill="#5E7B49"/>
+  <!-- モニター＋モニターライト -->
+  <g transform="translate(720 270)">
+    <rect width="150" height="100" rx="8" fill="#173D38"/>
+    <rect x="70" y="100" width="10" height="50" fill="#173D38"/>
+    <rect x="45" y="150" width="60" height="20" rx="4" fill="#173D38"/>
+    <rect x="20" y="-18" width="110" height="14" rx="7" fill="#7C9A5E"/>
+    <path d="M30 -4 L10 60 H140 L120 -4z" fill="#F3E3B0" opacity=".5"/>
+  </g>
+  <text class="tag" x="795" y="490">モニターライト</text>
+  <!-- クランプ式アーム -->
+  <g stroke="#173D38" stroke-width="10" stroke-linecap="round" fill="none">
+    <path d="M960 440 L930 330 L1000 250"/>
+  </g>
+  <rect x="948" y="440" width="24" height="34" rx="4" fill="#173D38"/>
+  <rect x="980" y="236" width="80" height="20" rx="8" fill="#173D38"/>
+  <path d="M985 256 L970 330 H1075 L1055 256z" fill="#F3E3B0" opacity=".6"/>
+  <text class="tag" x="960" y="505">クランプ式</text>
+  <!-- 台座式 -->
+  <rect x="1060" y="424" width="70" height="16" rx="6" fill="#173D38"/>
+  <path d="M1095 424 L1095 330 L1060 310" stroke="#173D38" stroke-width="9" fill="none" stroke-linecap="round"/>
+  <rect x="1030" y="300" width="50" height="16" rx="6" fill="#173D38"/>
+  <text class="tag" x="1095" y="490">台座式</text>
+
+  <text class="cap" x="640" y="604">※ イメージ。実際の製品の形ではありません</text>
+</svg>

@@ -17,7 +17,6 @@
 |---|---|---|---|---|
 | gadget | Switch 2用のmicroSD Expressカードを比較｜容量・速度・ライセンス | Switch2 microSD Express 比較 | 容量、公表速度、任天堂ライセンスの有無、保証 | microsd-card-buying-guide （2026-10-23見送り：Samsungのライセンス品の仕様と日本向け型番を公式で確認できず。再挑戦時は任天堂の日本ページと各社日本語ページを確認） |
 | furniture | モニターアームを比較｜対応重量・天板の厚さ・VESA | モニターアーム 比較 | 対応重量・サイズ、VESA、天板厚、クランプ／グロメット | monitor-arm-buying-guide |
-| furniture | デスクライトを比較｜JISの照度区分・色温度・置き方 | デスクライト 比較 | JIS照度区分、色温度の調整、Ra、クランプ／台座 | desk-light-buying-guide |
 
 ## 公開済み
 | 日付 | slug | タイトル |
@@ -72,3 +71,4 @@
 | 2026-11-05 | mac-screenshot-shortcuts | Macでスクリーンショットを撮る方法｜shift＋command＋3・4・5の違いと保存先 |
 | 2026-11-05 | bed-guard-stroller-safety | ベッドガードは何歳から？18か月未満は使わない理由と、ベビーカーの事故を防ぐポイント・子供PSCマーク |
 | 2026-11-06 | power-bank-airplane-rules | モバイルバッテリーは飛行機に持ち込める？2個まで・160Wh・機内で充電しないルール |
+| 2026-11-06 | desk-light-comparison | デスクライトを比較｜モニターライト・クランプ式・台座式の違いと選び方 |
