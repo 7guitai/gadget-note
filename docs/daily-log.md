@@ -59,3 +59,4 @@
 | 2026-11-07 | 朝 | 公開 | google-ai-mode-restaurant-search | AIニュース：Google Japan Blog「AI モードの新機能」（2026/11/6、レストラン予約検索、日本はぐるなび・一休・ebicaなど）を優先（今週のAIニュース記事2本目）。AIモードの基本はGoogle Japan Blog（2025/9/9）で確認。使っているモデル名は当時の情報のため書かず。購入リンク表：readyなし、追加なし。note用原稿をGoogleドライブに保存 |
 | 2026-11-07 | 夕 | 公開 | gas-stove-clothing-fire | AIニュース：該当なし（OpenAI・Anthropicは研究・企業向け）。直前がai・furnitureのためlifeの季節テーマ（暖房・コンセント記事とは検索意図が別）。NITE「冬の“もふもふ”接近注意報！」（2026/1/29、PDF）で確認。消防庁の着衣着火の数字はNITE資料の引用として記載。購入リンク表：追加なし。note用原稿をGoogleドライブに保存 |
 | 2026-11-08 | 朝 | 公開 | snow-blower-safety | AIニュース：該当なし。購入リンク表：readyなし。直前がlife・aiのためtoolboxの季節テーマ。NITE「除雪の前に、危険を排除」（2025/11/27、PDF）で確認。発表は昨年11月と明記。購入リンク表：追加なし。note用原稿をGoogleドライブに保存 |
+| 2026-11-08 | 夕 | 公開 | android-free-up-storage | AIニュース：該当なし。直前がtoolbox・lifeのためgadget。最初はiPhoneのストレージを予定したが、Appleのユーザガイドの本文が取得できず（JS表示）断念。Androidヘルプ「Android デバイスの空き容量を増やす」で確認。購入リンク表：追加なし。note用原稿をGoogleドライブに保存 |

@@ -75,3 +75,4 @@
 | 2026-11-07 | google-ai-mode-restaurant-search | Google検索のAIモードでレストランの空席を探せるように｜使い方と予約までの流れ |
 | 2026-11-07 | gas-stove-clothing-fire | ガスこんろで服に火がつく「着衣着火」を防ぐには？冬に気をつけたい4つのポイント |
 | 2026-11-08 | snow-blower-safety | 除雪機の事故を防ぐには？使い始めの12月に多い事故と5つの注意点 |
+| 2026-11-08 | android-free-up-storage | Androidスマホの容量がいっぱいのときの対処｜空き容量を増やす5つの方法 |
