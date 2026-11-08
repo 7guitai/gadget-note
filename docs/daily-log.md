@@ -60,3 +60,4 @@
 | 2026-11-07 | 夕 | 公開 | gas-stove-clothing-fire | AIニュース：該当なし（OpenAI・Anthropicは研究・企業向け）。直前がai・furnitureのためlifeの季節テーマ（暖房・コンセント記事とは検索意図が別）。NITE「冬の“もふもふ”接近注意報！」（2026/1/29、PDF）で確認。消防庁の着衣着火の数字はNITE資料の引用として記載。購入リンク表：追加なし。note用原稿をGoogleドライブに保存 |
 | 2026-11-08 | 朝 | 公開 | snow-blower-safety | AIニュース：該当なし。購入リンク表：readyなし。直前がlife・aiのためtoolboxの季節テーマ。NITE「除雪の前に、危険を排除」（2025/11/27、PDF）で確認。発表は昨年11月と明記。購入リンク表：追加なし。note用原稿をGoogleドライブに保存 |
 | 2026-11-08 | 夕 | 公開 | android-free-up-storage | AIニュース：該当なし。直前がtoolbox・lifeのためgadget。最初はiPhoneのストレージを予定したが、Appleのユーザガイドの本文が取得できず（JS表示）断念。Androidヘルプ「Android デバイスの空き容量を増やす」で確認。購入リンク表：追加なし。note用原稿をGoogleドライブに保存 |
+| 2026-11-09 | 朝 | 公開 | care-bed-safety | AIニュース：該当なし。購入リンク表：readyなし。直前がgadget・toolboxのためfurniture（候補が少ないため新テーマ）。NITE「敬老の日に願い、届ける、安全なくらし」（2026/9/17、PDF）で確認。すき間の目安（A・B）は図が必要なため、数字と「資料の図で確認」の案内にとどめた。人物は表紙に描かず。購入リンク表：追加なし。note用原稿をGoogleドライブに保存 |

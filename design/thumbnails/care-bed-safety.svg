@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：介護ベッドの安全（ベッド、サイドレール、すき間のスペーサー、チェック）。人物は描かない -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 54px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .tag { font-size: 18px; font-weight: 700; fill: #5E7B49; text-anchor: middle; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="320" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">家具 ／ 解説</text>
+  <text class="h1" x="68" y="252">介護ベッドの</text>
+  <text class="h1" x="68" y="326">すき間の事故を防ぐ</text>
+  <rect x="72" y="376" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="436">JIS規格・スペーサーと</text>
+  <text class="sub" x="72" y="478">電動車いすの注意点</text>
+
+  <!-- ベッド -->
+  <g transform="translate(720 230)">
+    <path d="M30 120 L110 60 L150 60 L150 120z" fill="#FFFFFF" stroke="#C9D8B4" stroke-width="4"/>
+    <rect x="150" y="80" width="230" height="40" rx="8" fill="#FFFFFF" stroke="#C9D8B4" stroke-width="4"/>
+    <rect x="20" y="120" width="370" height="26" rx="6" fill="#7C9A5E"/>
+    <rect x="10" y="20" width="22" height="200" rx="8" fill="#173D38"/>
+    <rect x="378" y="60" width="22" height="160" rx="8" fill="#173D38"/>
+    <g fill="#5E7B49"><circle cx="60" cy="230" r="14"/><circle cx="350" cy="230" r="14"/></g>
+    <!-- サイドレール -->
+    <rect x="160" y="40" width="150" height="50" rx="10" fill="none" stroke="#173D38" stroke-width="7"/>
+    <!-- スペーサー -->
+    <rect x="300" y="60" width="26" height="50" rx="6" fill="#E8B04B"/>
+  </g>
+  <text class="tag" x="1040" y="260">すき間をふさぐ</text>
+  <!-- チェック -->
+  <circle cx="790" cy="170" r="34" fill="#FFFFFF" stroke="#5E7B49" stroke-width="6"/>
+  <path d="M774 170 l11 11 l22 -24" stroke="#5E7B49" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text class="cap" x="640" y="604">※ イメージ。実際の製品の形ではありません</text>
+</svg>
