@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：Gemini 4 Carbonの提供開始（重なった四角形のモデルの図、つながったエージェント）。企業ロゴや実在の画面は描かない -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 54px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .tag { font-size: 17px; font-weight: 700; fill: #5E7B49; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="320" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">AI ／ 解説</text>
+  <text class="h1" x="68" y="252">Gemini 4 Carbon</text>
+  <text class="h1" x="68" y="326">の提供開始</text>
+  <rect x="72" y="376" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="436">Argonとの違い・使える人</text>
+
+  <!-- 中央のモデル（重なった四角形） -->
+  <g transform="translate(830 250)">
+    <rect x="-70" y="-70" width="140" height="140" rx="22" fill="#C9D8B4"/>
+    <rect x="-52" y="-52" width="104" height="104" rx="18" fill="#7C9A5E"/>
+    <rect x="-32" y="-32" width="64" height="64" rx="14" fill="#173D38"/>
+  </g>
+  <!-- つながったエージェント -->
+  <g stroke="#9DB383" stroke-width="5" stroke-linecap="round">
+    <line x1="830" y1="320" x2="720" y2="430"/>
+    <line x1="830" y1="320" x2="830" y2="450"/>
+    <line x1="830" y1="320" x2="940" y2="430"/>
+    <line x1="900" y1="250" x2="1040" y2="200"/>
+  </g>
+  <circle cx="720" cy="440" r="30" fill="#FFFFFF" stroke="#173D38" stroke-width="5"/>
+  <circle cx="830" cy="460" r="30" fill="#FFFFFF" stroke="#173D38" stroke-width="5"/>
+  <circle cx="940" cy="440" r="30" fill="#FFFFFF" stroke="#173D38" stroke-width="5"/>
+  <g transform="translate(1050 195)">
+    <circle r="34" fill="#FFFFFF" stroke="#5E7B49" stroke-width="5"/>
+    <path d="M-14 0 L-4 11 L16 -11" fill="none" stroke="#E8B04B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text class="tag" x="700" y="530">長く続く複雑な作業向け</text>
+
+  <text class="cap" x="640" y="604">※ イメージ。実際の画面ではありません</text>
+</svg>
