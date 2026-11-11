@@ -78,3 +78,4 @@
 | 2026-11-08 | android-free-up-storage | Androidスマホの容量がいっぱいのときの対処｜空き容量を増やす5つの方法 |
 | 2026-11-09 | care-bed-safety | 介護ベッドのすき間に挟まる事故を防ぐには？JIS規格・スペーサーと、電動車いすの注意点 |
 | 2026-11-11 | gemini-4-carbon | Gemini 4 Carbonの提供開始｜Argonとの違い・使える人・日本での使い方 |
+| 2026-11-11 | gemini-screen-automation-japan | Geminiがアプリで配車や料理の注文を手伝う「スクリーン オートメーション」が日本で利用可能に｜対象機種・使い方・注意点 |

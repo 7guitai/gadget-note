@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：Geminiのスクリーン オートメーション（スマホの中のチェックリスト、車・料理・かごのアイコン）。企業ロゴや実在の画面は描かない -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 52px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .tag { font-size: 17px; font-weight: 700; fill: #5E7B49; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="320" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">AI ／ 解説</text>
+  <text class="h1" x="68" y="252">Geminiがアプリで</text>
+  <text class="h1" x="68" y="324">配車や注文を手伝う</text>
+  <rect x="72" y="374" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="434">対象機種・使い方・注意点</text>
+
+  <!-- スマホ -->
+  <rect x="790" y="110" width="220" height="400" rx="34" fill="#173D38"/>
+  <rect x="806" y="134" width="188" height="352" rx="20" fill="#FFFFFF"/>
+  <!-- チェックリスト -->
+  <g transform="translate(828 172)">
+    <circle cx="14" cy="14" r="14" fill="#9DB383"/>
+    <path d="M7 14 L12 19 L21 9" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="40" y="8" width="104" height="12" rx="6" fill="#C9D8B4"/>
+  </g>
+  <g transform="translate(828 222)">
+    <circle cx="14" cy="14" r="14" fill="#9DB383"/>
+    <path d="M7 14 L12 19 L21 9" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="40" y="8" width="88" height="12" rx="6" fill="#C9D8B4"/>
+  </g>
+  <g transform="translate(828 272)">
+    <circle cx="14" cy="14" r="12" fill="none" stroke="#E8B04B" stroke-width="4"/>
+    <rect x="40" y="8" width="110" height="12" rx="6" fill="#E6EBE1"/>
+  </g>
+  <rect x="828" y="410" width="144" height="44" rx="22" fill="#5E7B49"/>
+  <rect x="862" y="427" width="76" height="10" rx="5" fill="#FFFFFF"/>
+
+  <!-- 車 -->
+  <g transform="translate(1070 180)">
+    <circle r="44" fill="#FFFFFF" stroke="#C9D8B4" stroke-width="4"/>
+    <rect x="-26" y="-6" width="52" height="20" rx="6" fill="#173D38"/>
+    <path d="M-18 -6 L-10 -20 L10 -20 L18 -6 Z" fill="#7C9A5E"/>
+    <circle cx="-14" cy="16" r="6" fill="#E8B04B"/><circle cx="14" cy="16" r="6" fill="#E8B04B"/>
+  </g>
+  <!-- 料理（どんぶり） -->
+  <g transform="translate(1080 330)">
+    <circle r="44" fill="#FFFFFF" stroke="#C9D8B4" stroke-width="4"/>
+    <path d="M-26 -4 A26 22 0 0 0 26 -4 Z" fill="#7C9A5E"/>
+    <path d="M-12 -12 Q-6 -24 0 -12 Q6 -24 12 -12" fill="none" stroke="#9DB383" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <!-- かご -->
+  <g transform="translate(700 300)">
+    <circle r="44" fill="#FFFFFF" stroke="#C9D8B4" stroke-width="4"/>
+    <path d="M-24 -6 L24 -6 L18 20 L-18 20 Z" fill="#173D38"/>
+    <path d="M-14 -6 Q0 -30 14 -6" fill="none" stroke="#5E7B49" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <text class="tag" x="790" y="544">最後の確定は自分で</text>
+
+  <text class="cap" x="640" y="604">※ イメージ。実際の画面ではありません</text>
+</svg>
