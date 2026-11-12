@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：Androidスマホをなくしたとき（地図のピン、スマホ、音の波、鍵）。企業ロゴや実在の画面は描かない -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 54px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .tag { font-size: 17px; font-weight: 700; fill: #5E7B49; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="320" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">GADGET ／ 使い方</text>
+  <text class="h1" x="68" y="252">Androidスマホを</text>
+  <text class="h1" x="68" y="326">なくしたときの探し方</text>
+  <rect x="72" y="376" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="436">音を鳴らす・ロック・事前の設定</text>
+
+  <!-- 地図 -->
+  <rect x="720" y="150" width="360" height="300" rx="24" fill="#FFFFFF" stroke="#C9D8B4" stroke-width="4"/>
+  <path d="M720 260 L1080 220" stroke="#E6EBE1" stroke-width="22"/>
+  <path d="M860 150 L900 450" stroke="#E6EBE1" stroke-width="22"/>
+  <circle cx="930" cy="300" r="60" fill="#C9D8B4" opacity=".6"/>
+  <!-- ピン -->
+  <path d="M930 300 C900 262 896 240 896 228 A34 34 0 0 1 964 228 C964 240 960 262 930 300 Z" fill="#173D38"/>
+  <circle cx="930" cy="228" r="13" fill="#FFFFFF"/>
+  <!-- スマホ -->
+  <g transform="translate(770 300)">
+    <rect width="70" height="120" rx="12" fill="#173D38"/>
+    <rect x="7" y="12" width="56" height="94" rx="6" fill="#E6EBE1"/>
+    <path d="M86 40 Q98 60 86 80" fill="none" stroke="#E8B04B" stroke-width="5" stroke-linecap="round"/>
+    <path d="M100 30 Q118 60 100 90" fill="none" stroke="#E8B04B" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <!-- 鍵 -->
+  <g transform="translate(1010 370)">
+    <rect x="-24" y="-6" width="48" height="40" rx="8" fill="#5E7B49"/>
+    <path d="M-14 -6 V-18 A14 14 0 0 1 14 -18 V-6" fill="none" stroke="#5E7B49" stroke-width="7"/>
+    <circle cx="0" cy="12" r="5" fill="#FFFFFF"/>
+  </g>
+  <text class="tag" x="900" y="490" text-anchor="middle">なくす前の設定も大事</text>
+
+  <text class="cap" x="640" y="604">※ イメージ。実際の画面ではありません</text>
+</svg>
