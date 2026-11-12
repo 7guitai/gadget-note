@@ -81,3 +81,4 @@
 | 2026-11-11 | gemini-screen-automation-japan | Geminiがアプリで配車や料理の注文を手伝う「スクリーン オートメーション」が日本で利用可能に｜対象機種・使い方・注意点 |
 | 2026-11-12 | earthquake-power-gas-fire | 地震のあとの「通電火災」を防ぐには？ブレーカー・ガスの元栓と、復旧時に確認すること |
 | 2026-11-12 | android-find-lost-phone | Androidスマホをなくしたときの探し方｜Find Hubで音を鳴らす・ロック・データ消去と、事前の設定 |
+| 2026-11-13 | claude-fable-5-2 | Claude Fable 5.2が登場｜Proプランは11月17日まで追加料金なしで試せる・Opus 5.5との使い分け |
