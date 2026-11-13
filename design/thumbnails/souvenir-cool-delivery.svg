@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：お土産をクール便で送る（保冷の箱、雪の結晶、温度計、トラック）。企業ロゴは描かない -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 54px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .tag { font-size: 17px; font-weight: 700; fill: #5E7B49; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="320" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">SOUVENIR ／ 解説</text>
+  <text class="h1" x="68" y="252">お土産を</text>
+  <text class="h1" x="68" y="326">クール便で送るとき</text>
+  <rect x="72" y="376" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="436">温度・サイズ・予冷・送れる場所</text>
+
+  <!-- 保冷の箱 -->
+  <rect x="740" y="250" width="240" height="170" rx="14" fill="#FFFFFF" stroke="#173D38" stroke-width="6"/>
+  <rect x="728" y="226" width="264" height="40" rx="10" fill="#C9D8B4" stroke="#173D38" stroke-width="6"/>
+  <!-- 雪の結晶 -->
+  <g transform="translate(860 335)" stroke="#5E7B49" stroke-width="7" stroke-linecap="round">
+    <line x1="0" y1="-44" x2="0" y2="44"/>
+    <line x1="-38" y1="-22" x2="38" y2="22"/>
+    <line x1="-38" y1="22" x2="38" y2="-22"/>
+  </g>
+  <!-- 温度計 -->
+  <g transform="translate(1050 190)">
+    <rect x="-12" y="0" width="24" height="120" rx="12" fill="#FFFFFF" stroke="#173D38" stroke-width="5"/>
+    <rect x="-5" y="60" width="10" height="60" rx="5" fill="#E8B04B"/>
+    <circle cx="0" cy="136" r="22" fill="#E8B04B" stroke="#173D38" stroke-width="5"/>
+  </g>
+  <!-- トラック -->
+  <g transform="translate(990 410)">
+    <rect x="0" y="0" width="90" height="56" rx="8" fill="#7C9A5E"/>
+    <path d="M90 14 L118 14 L134 34 L134 56 L90 56 Z" fill="#173D38"/>
+    <circle cx="26" cy="60" r="12" fill="#173D38"/><circle cx="110" cy="60" r="12" fill="#173D38"/>
+  </g>
+  <text class="tag" x="860" y="470" text-anchor="middle">送る前に予冷</text>
+
+  <text class="cap" x="640" y="604">※ イメージイラスト</text>
+</svg>
