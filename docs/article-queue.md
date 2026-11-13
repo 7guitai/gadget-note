@@ -16,7 +16,6 @@
 | カテゴリ | タイトル案 | 狙う検索キーワード | 比べる項目の例 | 関連記事 |
 |---|---|---|---|---|
 | gadget | Switch 2用のmicroSD Expressカードを比較｜容量・速度・ライセンス | Switch2 microSD Express 比較 | 容量、公表速度、任天堂ライセンスの有無、保証 | microsd-card-buying-guide （2026-10-23見送り：Samsungのライセンス品の仕様と日本向け型番を公式で確認できず。再挑戦時は任天堂の日本ページと各社日本語ページを確認） |
-| furniture | モニターアームを比較｜対応重量・天板の厚さ・VESA | モニターアーム 比較 | 対応重量・サイズ、VESA、天板厚、クランプ／グロメット | monitor-arm-buying-guide |
 
 ## 公開済み
 | 日付 | slug | タイトル |
@@ -82,3 +81,4 @@
 | 2026-11-12 | earthquake-power-gas-fire | 地震のあとの「通電火災」を防ぐには？ブレーカー・ガスの元栓と、復旧時に確認すること |
 | 2026-11-12 | android-find-lost-phone | Androidスマホをなくしたときの探し方｜Find Hubで音を鳴らす・ロック・データ消去と、事前の設定 |
 | 2026-11-13 | claude-fable-5-2 | Claude Fable 5.2が登場｜Proプランは11月17日まで追加料金なしで試せる・Opus 5.5との使い分け |
+| 2026-11-13 | monitor-arm-comparison | モニターアームを比較｜3軸・4軸・2画面の違いと、天板の厚さ・奥行きの確認 |
