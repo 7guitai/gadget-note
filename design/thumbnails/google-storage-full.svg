@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：Googleの保存容量がいっぱい（容量メーター、メール・フォルダ・写真、ゴミ箱）。企業ロゴや実在の画面は描かない -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 52px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .tag { font-size: 17px; font-weight: 700; fill: #5E7B49; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+      .gb { font-size: 22px; font-weight: 800; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="320" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">GADGET ／ 使い方</text>
+  <text class="h1" x="68" y="252">Googleの保存容量が</text>
+  <text class="h1" x="68" y="324">いっぱいのとき</text>
+  <rect x="72" y="374" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="434">Gmail・ドライブ・フォトの整理</text>
+
+  <!-- 容量メーター -->
+  <rect x="720" y="150" width="360" height="44" rx="22" fill="#FFFFFF" stroke="#173D38" stroke-width="5"/>
+  <rect x="726" y="156" width="330" height="32" rx="16" fill="#E8B04B"/>
+  <text class="gb" x="900" y="230" text-anchor="middle">15GB</text>
+  <!-- メール -->
+  <g transform="translate(730 270)">
+    <rect width="100" height="70" rx="10" fill="#FFFFFF" stroke="#173D38" stroke-width="5"/>
+    <path d="M6 8 L50 42 L94 8" fill="none" stroke="#173D38" stroke-width="5" stroke-linejoin="round"/>
+  </g>
+  <!-- フォルダ -->
+  <g transform="translate(850 266)">
+    <path d="M0 14 h36 l10 -12 h54 v76 h-100 Z" fill="#7C9A5E"/>
+  </g>
+  <!-- 写真 -->
+  <g transform="translate(970 266)">
+    <rect width="100" height="78" rx="10" fill="#FFFFFF" stroke="#173D38" stroke-width="5"/>
+    <path d="M10 66 L40 36 L60 54 L74 42 L92 66 Z" fill="#9DB383"/>
+    <circle cx="72" cy="22" r="8" fill="#E8B04B"/>
+  </g>
+  <!-- ゴミ箱 -->
+  <g transform="translate(870 380)">
+    <rect x="-6" y="0" width="72" height="12" rx="4" fill="#173D38"/>
+    <rect x="18" y="-10" width="24" height="12" rx="4" fill="#173D38"/>
+    <path d="M2 16 L58 16 L52 84 L8 84 Z" fill="#C9D8B4" stroke="#173D38" stroke-width="5"/>
+  </g>
+  <text class="tag" x="900" y="500" text-anchor="middle">まずはゴミ箱から</text>
+
+  <text class="cap" x="640" y="604">※ イメージ。実際の画面ではありません</text>
+</svg>
