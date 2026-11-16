@@ -87,3 +87,4 @@
 | 2026-11-15 | google-storage-full | Googleの保存容量（15GB）がいっぱいのとき｜Gmail・ドライブ・フォトの空き容量を増やす方法 |
 | 2026-11-16 | power-tool-non-genuine-battery | 電動工具の互換バッテリー（非純正）は危ない？充電中の発火事故と、使う前に確認したいこと |
 | 2026-11-16 | gemini-4-hydrogen | Gemini 4 Hydrogenとは？無料でも使えるGemini 4｜Carbon・Argonとの違いと使い方 |
+| 2026-11-17 | low-temperature-burn-heaters | 低温やけどを防ぐには？電気あんか・カイロ・電気マットの注意点と、寝るときにしてはいけない使い方 |
