@@ -3,6 +3,7 @@ title: "Gemini 4 Carbonの提供開始｜Argonとの違い・使える人・日�
 description: "Googleは2026年11月11日（日本語版ブログ）、新しいAIモデル「Gemini 4 Carbon」の提供開始を発表しました。Gemini 4 Argonとの違い、Google AI Ultra・開発者・企業など使える人、APIの料金、日本での提供状況と注意点を、Googleの公式発表をもとに整理します。"
 category: ai
 date: "2026-11-11"
+updated: "2026-11-16"
 kind: "解説"
 topics: [ai-tools]
 coverLabel: "CARBON."
@@ -15,6 +16,8 @@ affiliate: false
 Googleは、新しいAIモデル「**Gemini 4 Carbon**（ジェミニ 4 カーボン）」の**提供開始**を発表しました。日本語版のGoogle Japan Blogでは**2026年11月11日**に案内されています。Carbonは、Googleが「最も強力なモデル」と位置づけるモデルで、長い時間をかけて何段階も進める作業（コーディング、調査、データ分析、サイバーセキュリティなど）向けに作られています。
 
 一般のユーザーが使えるのは、今のところ**有料プランの「Google AI Ultra」の加入者**です。Geminiアプリと、Google検索の「AIモード」で使えると案内されています。無料プランや「Google AI Pro」で使えるかどうかは、発表には書かれていません。この記事では、Googleの公式発表をもとに、Argonとの違いや使える人を整理します。
+
+**追記（2026年11月16日）**：Googleは11月12日（日本語版ブログ）、すべてのユーザー向けのモデル「Gemini 4 Hydrogen」の提供も始めました。無料でGemini 4を試したい人は、<a href="/articles/gemini-4-hydrogen/">Gemini 4 Hydrogenとは？無料でも使えるGemini 4｜Carbon・Argonとの違いと使い方</a>をご覧ください。
 
 ## Gemini 4 Carbonとは
 
