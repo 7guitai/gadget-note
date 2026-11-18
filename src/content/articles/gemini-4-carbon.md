@@ -17,7 +17,7 @@ Googleは、新しいAIモデル「**Gemini 4 Carbon**（ジェミニ 4 カー�
 
 一般のユーザーが使えるのは、今のところ**有料プランの「Google AI Ultra」の加入者**です。Geminiアプリと、Google検索の「AIモード」で使えると案内されています。無料プランや「Google AI Pro」で使えるかどうかは、発表には書かれていません。この記事では、Googleの公式発表をもとに、Argonとの違いや使える人を整理します。
 
-**追記（2026年11月16日）**：Googleは11月12日（日本語版ブログ）、すべてのユーザー向けのモデル「Gemini 4 Hydrogen」の提供も始めました。無料でGemini 4を試したい人は、<a href="/articles/gemini-4-hydrogen/">Gemini 4 Hydrogenとは？無料で使える？Carbon・Argonとの違い</a>をご覧ください。
+**追記（2026年11月16日）**：Googleは11月12日（日本語版ブログ）、すべてのユーザー向けのモデル「Gemini 4 Hydrogen」の提供も始めました。無料でGemini 4を試したい人は、<a href="/articles/gemini-4-hydrogen/">Gemini 4 Hydrogenとは？無料で使える最新モデル｜Carbonとの違い</a>をご覧ください。
 
 ## Gemini 4 Carbonとは
 

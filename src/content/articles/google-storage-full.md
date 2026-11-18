@@ -1,5 +1,5 @@
 ---
-title: "Googleストレージがいっぱいのときの対処法｜Gmail・ドライブ・フォト（15GB）"
+title: "Googleストレージがいっぱい！まずゴミ箱を空に｜Gmail・ドライブ・フォトの対処法"
 description: "Googleアカウントの無料の保存容量15GBは、Gmail・Googleドライブ・Googleフォトで共有されています。いっぱいになると何が起きるか、すぐにできるゴミ箱の削除、大きなメールやファイルの探し方、WhatsAppのバックアップ、2年以上超過したときのポリシーを、Googleのヘルプをもとに整理します。"
 category: gadget
 date: "2026-11-15"

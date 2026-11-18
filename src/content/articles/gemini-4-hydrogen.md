@@ -1,5 +1,5 @@
 ---
-title: "Gemini 4 Hydrogenとは？無料で使える？Carbon・Argonとの違い"
+title: "Gemini 4 Hydrogenとは？無料で使える最新モデル｜Carbonとの違い"
 description: "Googleは2026年11月12日（日本語版ブログ）、Gemini 4シリーズの新しいモデル「Gemini 4 Hydrogen」を発表し、Geminiアプリと Google 検索で、すべてのユーザーへの提供を順次始めました。CarbonやArgonとの違い、無料で使えるか、4つの思考レベル、APIの料金、注意点を、Googleの公式発表をもとに整理します。"
 category: ai
 date: "2026-11-16"
