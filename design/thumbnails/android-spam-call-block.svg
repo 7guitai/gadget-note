@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：Androidで迷惑電話をブロック（着信中のスマホ、警告、ブロック）。企業ロゴや実在の画面は描かない -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 54px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .tag { font-size: 17px; font-weight: 700; fill: #5E7B49; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+      .ex { font-size: 40px; font-weight: 900; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="320" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">GADGET ／ 使い方</text>
+  <text class="h1" x="68" y="252">Androidで</text>
+  <text class="h1" x="68" y="326">迷惑電話をブロック</text>
+  <rect x="72" y="376" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="436">フィルタ・番号ブロック・詐欺検知</text>
+
+  <!-- スマホ -->
+  <rect x="790" y="110" width="210" height="390" rx="32" fill="#173D38"/>
+  <rect x="805" y="134" width="180" height="342" rx="20" fill="#FFFFFF"/>
+  <circle cx="895" cy="215" r="38" fill="#E6EBE1"/>
+  <rect x="845" y="272" width="100" height="14" rx="7" fill="#C9D8B4"/>
+  <rect x="860" y="296" width="70" height="10" rx="5" fill="#E6EBE1"/>
+  <circle cx="845" cy="410" r="28" fill="#C0392B" opacity=".85"/>
+  <circle cx="945" cy="410" r="28" fill="#9DB383"/>
+  <!-- 警告 -->
+  <g transform="translate(1075 200)">
+    <path d="M0 -50 L48 36 L-48 36 Z" fill="#E8B04B" stroke="#173D38" stroke-width="5" stroke-linejoin="round"/>
+    <text class="ex" x="0" y="26" text-anchor="middle">!</text>
+  </g>
+  <!-- ブロック -->
+  <g transform="translate(720 300)">
+    <circle r="42" fill="#FFFFFF" stroke="#5E7B49" stroke-width="7"/>
+    <line x1="-28" y1="28" x2="28" y2="-28" stroke="#5E7B49" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <text class="tag" x="895" y="540" text-anchor="middle">電話アプリの設定で減らす</text>
+
+  <text class="cap" x="640" y="604">※ イメージ。実際の画面ではありません</text>
+</svg>

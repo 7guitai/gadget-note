@@ -88,3 +88,4 @@
 | 2026-11-16 | power-tool-non-genuine-battery | 電動工具の互換バッテリー（非純正）は危ない？充電中の発火事故と、使う前に確認したいこと |
 | 2026-11-16 | gemini-4-hydrogen | Gemini 4 Hydrogenとは？無料でも使えるGemini 4｜Carbon・Argonとの違いと使い方 |
 | 2026-11-17 | low-temperature-burn-heaters | 低温やけどを防ぐには？電気あんか・カイロ・電気マットの注意点と、寝るときにしてはいけない使い方 |
+| 2026-11-18 | android-spam-call-block | Androidで迷惑電話をブロックする方法｜電話アプリの迷惑電話フィルタ・番号ブロック・詐欺検知 |
