@@ -1,5 +1,5 @@
 ---
-title: "Androidスマホの写真をパソコンに移す方法｜USBケーブル・Googleフォト・クイック共有"
+title: "Androidの写真をパソコンに移す方法｜USB・Googleフォト・クイック共有"
 description: "Androidスマホの写真や動画をパソコンに移す方法を、GoogleのAndroidヘルプとGoogleフォト ヘルプをもとに整理します。USBケーブルでの「ファイル転送」、Googleフォトのバックアップ、Windows用クイック共有の違いと、うまくいかないときの確認点を説明します。"
 category: gadget
 date: "2026-11-01"

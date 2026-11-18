@@ -1,8 +1,9 @@
 ---
-title: "Claude Fable 5.2が登場｜Proプランは11月17日まで追加料金なしで試せる・Opus 5.5との使い分け"
-description: "Anthropicは2026年11月9日（米国時間）、AIモデル「Claude Fable 5.2」と「Claude Mythos 5.2」を発表しました。Fableの位置づけとOpus 5.5との使い分け、APIの料金、Proプランなどで期間限定で使えるローンチオファーの内容と期限（日本時間）、注意点を、Anthropicの公式発表とヘルプセンターをもとに整理します。"
+title: "Claude Fable 5.2とは？Opus 5.5との違い・料金・使えるプラン"
+description: "Claude Fable 5.2とは？Anthropicが2026年11月9日（米国時間）に発表したAIモデルです。Mythos 5.2との違い、Opus 5.5との使い分け、APIの料金、Max・Ultraプランの制限リセット、注意点を、Anthropicの公式発表とヘルプセンターをもとに整理します。"
 category: ai
 date: "2026-11-13"
+updated: "2026-11-18"
 kind: "解説"
 topics: [ai-tools, subscription]
 coverLabel: "FABLE 5.2."
@@ -14,7 +15,7 @@ affiliate: false
 
 Anthropicは**2026年11月9日（米国時間）**、AIモデル「**Claude Fable 5.2**」と「**Claude Mythos 5.2**」を発表しました。Fableは、Anthropicが「最も難しい技術的な課題」向けと位置づけるモデルで、前のFable 5.1より**最大30%速く**出力し、APIの料金も下がりました。
 
-一般のユーザーにとって大事なのは、発表に合わせた**ローンチオファー**です。**Proプラン**などでは、ふだんは使用量クレジット（追加の従量課金）で使うFableモデルが、**日本時間2026年11月17日（火）16時59分まで、プランの使用量の範囲で追加料金なしで使えます**。この記事では、Anthropicの公式発表とヘルプセンターをもとに、Fable 5.2の位置づけと、オファーの内容、注意点を整理します。
+発表に合わせて、**ローンチオファー**も行われました。**Proプラン**などでFableモデルをプランの使用量の範囲で追加料金なしで使える期間は、**日本時間2026年11月17日（火）16時59分で終了**しました。現在、Proプランなどでは、Fableモデルは使用量クレジット（追加の従量課金）で使います。**Max・Ultraプランなどの「Fable制限リセット」は、2027年3月まで使えます**。この記事では、Anthropicの公式発表とヘルプセンターをもとに、Fable 5.2の位置づけと、オファーの内容、注意点を整理します。
 
 ## Fable 5.2とMythos 5.2の違い
 
@@ -50,7 +51,9 @@ Anthropicのヘルプセンター「Claude Fable 5.2 ローンチ オファー�
 
 **Freeプランは対象外**です。Enterpriseプランは、シートの種類によって対象かどうかが分かれます。
 
-### Proプランの「1週間」はいつまで？
+### Proプランの「1週間」（終了しました）
+
+**追記（2026年11月18日）**：この期間は日本時間11月17日16時59分で終了しました。以下は終了前の内容です。
 
 Proプランと、Teamプランの標準シートでは、11月9日のローンチから**米国太平洋時間11月16日午後11時59分**まで、Fableモデルがプランの週間使用量制限に含まれます。**日本時間では11月17日（火）午後4時59分まで**です。
 
@@ -91,7 +94,7 @@ AIの答えをそのまま使わず確かめる方法は、<a href="/articles/ch
 <figcaption>Claude Fable 5.2を試すか考えるとき</figcaption>
 <ol class="flow-steps">
 <li class="flow-step"><p class="flow-q">Claudeの有料プラン（ProやMaxなど）を使っている？</p><ul class="flow-branches">
-<li><strong>Pro</strong> → 日本時間11月17日16時59分までは、週間使用量の50%まで追加料金なし。モデルの選択メニューからFableを選ぶ。</li>
+<li><strong>Pro</strong> → 追加料金なしの期間（11月17日16時59分まで）は終了。Fableは使用量クレジットで使う。</li>
 <li><strong>Max・Ultra</strong> → Fable制限リセットが届いているか「設定」→「使用量」で確認する。</li>
 <li><strong>Free</strong> → 今回のオファーの対象外。</li>
 </ul></li>
@@ -102,11 +105,11 @@ AIの答えをそのまま使わず確かめる方法は、<a href="/articles/ch
 </ol>
 </figure>
 
-同じ週には、GoogleもAIモデル「Gemini 4 Carbon」の提供を始めています。違いは<a href="/articles/gemini-4-carbon/">Gemini 4 Carbonの提供開始｜Argonとの違い・使える人・日本での使い方</a>をご覧ください。
+同じ週には、GoogleもAIモデル「Gemini 4 Carbon」の提供を始めています。違いは<a href="/articles/gemini-4-carbon/">Gemini 4 Carbonとは？Argonとの違い・使える人・日本での使い方</a>をご覧ください。
 
 ## 注意点
 
-- **期限**：Proプランの1週間とリセットは、日本時間11月17日（火）16時59分までです
+- **期限**：Proプランの1週間とリセットは、日本時間11月17日（火）16時59分で終了しました。Max・Ultraプランなどのリセットは2027年3月9日16時59分（日本時間）までです
 - **日本語での性能**：発表では、日本語での性能について特に説明されていません
 - **料金**：プランの料金や使用量の上限は変わることがあります。使う前に、Claudeの設定画面とヘルプセンターで確認してください
 

@@ -78,7 +78,7 @@ AppleとGoogleは、どちらも**高い温度**に注意するよう案内し�
 
 Appleは、デバイスを長期間保管するときは、フルに充電したり使い切ったりせず、50%前後充電した状態にするよう案内しています。予備のスマホや、しまっておく古い端末の参考にしましょう。
 
-充電器を選ぶときの確認項目は<a href="/articles/charging-checklist/">充電器を買う前に。端末・ケーブル・持ち運び方を確認しよう</a>、外出先での充電は<a href="/articles/mobile-power-bank-buying-guide/">モバイルバッテリーの選び方｜容量より先に見ること</a>で紹介しています。
+充電器を選ぶときの確認項目は<a href="/articles/charging-checklist/">充電器の選び方｜買う前に確認したい端末・ケーブル・持ち運び</a>、外出先での充電は<a href="/articles/mobile-power-bank-buying-guide/">モバイルバッテリーの選び方｜容量より先に見ること</a>で紹介しています。
 
 ## 参照情報
 

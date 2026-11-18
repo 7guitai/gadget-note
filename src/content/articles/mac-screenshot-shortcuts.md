@@ -1,5 +1,5 @@
 ---
-title: "Macでスクリーンショットを撮る方法｜shift＋command＋3・4・5の違いと保存先"
+title: "Macでスクショを撮る方法｜shift＋command＋3・4・5の違いと保存先"
 description: "Macのスクリーンショットは、shift・commandと数字キーの組み合わせで撮れます。Appleのサポート情報をもとに、画面全体・一部・ウインドウの撮り方、スクリーンショットアプリ、保存先の変え方、クリップボードに保存する方法を整理します。"
 category: gadget
 date: "2026-11-05"

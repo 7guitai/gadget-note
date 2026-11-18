@@ -1,5 +1,5 @@
 ---
-title: "Gemini 4 Hydrogenとは？無料でも使えるGemini 4｜Carbon・Argonとの違いと使い方"
+title: "Gemini 4 Hydrogenとは？無料で使える？Carbon・Argonとの違い"
 description: "Googleは2026年11月12日（日本語版ブログ）、Gemini 4シリーズの新しいモデル「Gemini 4 Hydrogen」を発表し、Geminiアプリと Google 検索で、すべてのユーザーへの提供を順次始めました。CarbonやArgonとの違い、無料で使えるか、4つの思考レベル、APIの料金、注意点を、Googleの公式発表をもとに整理します。"
 category: ai
 date: "2026-11-16"
@@ -28,7 +28,7 @@ Gemini 4シリーズには、これまでに「Argon」と「Carbon」が登場�
 
 Googleによると、Hydrogenは、知能を総合的に評価する指標で、標準の設定ではArgonを少し上回るスコアだったとしています。同じクラスのほかのモデルより、多くの場合で速く作業を終えるとも説明しています。ただし、これらはGoogleが示した評価の条件での結果で、ふだんの使い方での正確さをそのまま表す数字ではありません。
 
-CarbonとArgonについては、<a href="/articles/gemini-4-carbon/">Gemini 4 Carbonの提供開始｜Argonとの違い・使える人・日本での使い方</a>で紹介しています。
+CarbonとArgonについては、<a href="/articles/gemini-4-carbon/">Gemini 4 Carbonとは？Argonとの違い・使える人・日本での使い方</a>で紹介しています。
 
 ## 一般ユーザーにとって変わること
 
@@ -51,7 +51,7 @@ Googleは、Hydrogenで**Google検索もアップグレード**したとして�
 - ひと目でわかりやすい、視覚的な回答を返す
 - 質問を複数の小さなテーマに分けて調べる「クエリ ファンアウト」が進化し、より幅広い関連リンクを示す
 
-Google検索のAIモードの使い方は、<a href="/articles/google-ai-mode-restaurant-search/">Google検索のAIモードでレストランの空席を探せるように｜使い方と予約までの流れ</a>でも紹介しています。
+Google検索のAIモードの使い方は、<a href="/articles/google-ai-mode-restaurant-search/">GoogleのAIモードでレストランの空席を探す方法｜使い方と予約の流れ</a>でも紹介しています。
 
 ### Googleスプレッドシート
 

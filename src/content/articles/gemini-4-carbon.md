@@ -1,5 +1,5 @@
 ---
-title: "Gemini 4 Carbonの提供開始｜Argonとの違い・使える人・日本での使い方"
+title: "Gemini 4 Carbonとは？Argonとの違い・使える人・日本での使い方"
 description: "Googleは2026年11月11日（日本語版ブログ）、新しいAIモデル「Gemini 4 Carbon」の提供開始を発表しました。Gemini 4 Argonとの違い、Google AI Ultra・開発者・企業など使える人、APIの料金、日本での提供状況と注意点を、Googleの公式発表をもとに整理します。"
 category: ai
 date: "2026-11-11"
@@ -17,7 +17,7 @@ Googleは、新しいAIモデル「**Gemini 4 Carbon**（ジェミニ 4 カー�
 
 一般のユーザーが使えるのは、今のところ**有料プランの「Google AI Ultra」の加入者**です。Geminiアプリと、Google検索の「AIモード」で使えると案内されています。無料プランや「Google AI Pro」で使えるかどうかは、発表には書かれていません。この記事では、Googleの公式発表をもとに、Argonとの違いや使える人を整理します。
 
-**追記（2026年11月16日）**：Googleは11月12日（日本語版ブログ）、すべてのユーザー向けのモデル「Gemini 4 Hydrogen」の提供も始めました。無料でGemini 4を試したい人は、<a href="/articles/gemini-4-hydrogen/">Gemini 4 Hydrogenとは？無料でも使えるGemini 4｜Carbon・Argonとの違いと使い方</a>をご覧ください。
+**追記（2026年11月16日）**：Googleは11月12日（日本語版ブログ）、すべてのユーザー向けのモデル「Gemini 4 Hydrogen」の提供も始めました。無料でGemini 4を試したい人は、<a href="/articles/gemini-4-hydrogen/">Gemini 4 Hydrogenとは？無料で使える？Carbon・Argonとの違い</a>をご覧ください。
 
 ## Gemini 4 Carbonとは
 
@@ -28,7 +28,7 @@ Carbonは、10月に一般向けの提供が始まった「Gemini 4 Argon」に�
 
 Carbonは、Argonより**多くのトークンを使って**、より深く考え、何度も確かめながら作業を進めるように設計されているそうです。トークンは、AIが文章などを処理するときの単位です。そのぶん、ちょっとした質問にはArgonやほかのモデルのほうが向いている、という位置づけです。
 
-Argonについては、<a href="/articles/gemini-4-argon/">GoogleがGemini 4 Argonを発表。長時間の開発・業務処理を支える新モデル</a>で発表当時の内容をまとめています。
+Argonについては、<a href="/articles/gemini-4-argon/">Gemini 4 Argonとは？長時間の開発・業務処理向けの新モデル</a>で発表当時の内容をまとめています。
 
 ## 発表から提供開始までの流れ
 
@@ -57,7 +57,7 @@ Google Japan Blogの案内をまとめると、次のとおりです。
 
 Googleのサブスクリプションのページには、AIモードのCarbonは**一部の国で利用できる**と書かれ、国の一覧として検索ヘルプが案内されています。ただ、**2026年11月11日に確認した時点の検索ヘルプには、Carbonの項目がまだなく**、Argonの対象国（日本を含む）だけが載っていました。
 
-AIモードでCarbonが日本で使えるかどうかは、ヘルプが更新されるまで断定できません。Ultraに加入している人は、AIモードのモデル選択のメニューに表示されるかどうかで確認してください。AIモードそのものの使い方は、<a href="/articles/google-ai-mode-restaurant-search/">Google検索のAIモードでレストランの空席を探せるように｜使い方と予約までの流れ</a>でも紹介しています。
+AIモードでCarbonが日本で使えるかどうかは、ヘルプが更新されるまで断定できません。Ultraに加入している人は、AIモードのモデル選択のメニューに表示されるかどうかで確認してください。AIモードそのものの使い方は、<a href="/articles/google-ai-mode-restaurant-search/">GoogleのAIモードでレストランの空席を探す方法｜使い方と予約の流れ</a>でも紹介しています。
 
 ## 開発者向け：APIの料金と「/swarm」
 

@@ -1,5 +1,5 @@
 ---
-title: "XREAL AURAとは？Android XR初の有線XRグラス｜Geminiでできること・日本での予約"
+title: "XREAL AURAとは？Android XRの有線XRグラス｜できることと日本での予約"
 description: "GoogleとXREALは、Android XRを搭載した初の有線XRグラス「XREAL AURA」を発表し、日本で2026年11月2日から予約受付を始めました。Googleの発表とXREALの公式ページをもとに、できること、Geminiのサポート、主な仕様、買う前に確認したいことを整理します。"
 category: gadget
 date: "2026-11-02"

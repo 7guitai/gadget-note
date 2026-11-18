@@ -1,5 +1,5 @@
 ---
-title: "GoogleがGemini 4 Argonを発表。長時間の開発・業務処理を支える新モデル"
+title: "Gemini 4 Argonとは？長時間の開発・業務処理向けの新モデル"
 description: "Googleが2026年9月30日に発表したGemini 4 Argonは、最大100万トークンの出力に対応。開発や調査への活用、限定提供の状況、今後の対象プランと料金を整理します。"
 category: ai
 date: "2026-10-01"
