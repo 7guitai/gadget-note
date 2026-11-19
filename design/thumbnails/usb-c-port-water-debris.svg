@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：USB-Cの充電口（スマホの底面）、水滴、小さなゴミ、注意マーク。メーカーのロゴは描かない -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 54px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .tag { font-size: 17px; font-weight: 700; fill: #5E7B49; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+      .warn { font-size: 46px; font-weight: 800; fill: #173D38; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="320" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">GADGET ／ 解説</text>
+  <text class="h1" x="68" y="252">充電口に水・ゴミ</text>
+  <text class="h1" x="68" y="326">は危ない？</text>
+  <rect x="72" y="376" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="436">USB-Cのショートを防ぐ3つの注意</text>
+
+  <!-- スマホの底面 -->
+  <rect x="700" y="250" width="400" height="120" rx="50" fill="#FFFFFF" stroke="#173D38" stroke-width="6"/>
+  <rect x="840" y="292" width="120" height="36" rx="18" fill="#173D38"/>
+  <rect x="862" y="304" width="76" height="12" rx="6" fill="#7C9A5E"/>
+  <circle cx="760" cy="310" r="6" fill="#9DB383"/><circle cx="785" cy="310" r="6" fill="#9DB383"/>
+  <circle cx="1015" cy="310" r="6" fill="#9DB383"/><circle cx="1040" cy="310" r="6" fill="#9DB383"/>
+  <!-- 水滴 -->
+  <path d="M860 160 C860 160 830 200 830 222 a30 30 0 0 0 60 0 C890 200 860 160 860 160z" fill="#9DB383"/>
+  <path d="M800 190 C800 190 785 210 785 222 a15 15 0 0 0 30 0 C815 210 800 190 800 190z" fill="#C9D8B4"/>
+  <!-- ゴミ -->
+  <circle cx="960" cy="215" r="7" fill="#7C9A5E"/><rect x="985" y="195" width="16" height="6" rx="3" fill="#52675F" transform="rotate(30 993 198)"/><circle cx="935" cy="190" r="5" fill="#52675F"/>
+  <!-- 注意マーク -->
+  <g transform="translate(900 410)">
+    <path d="M0 0 L52 90 L-52 90 Z" fill="#E8B04B" stroke="#173D38" stroke-width="5" stroke-linejoin="round"/>
+    <text class="warn" x="0" y="80" text-anchor="middle">!</text>
+  </g>
+  <text class="tag" x="900" y="540" text-anchor="middle">濡れたまま・異物が入ったまま充電しない</text>
+
+  <text class="cap" x="640" y="604">※ イメージイラスト</text>
+</svg>

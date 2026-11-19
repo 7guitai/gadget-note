@@ -91,3 +91,4 @@
 | 2026-11-18 | android-spam-call-block | Androidで迷惑電話をブロックする方法｜電話アプリの迷惑電話フィルタ・番号ブロック・詐欺検知 |
 | 2026-11-19 | reuse-product-safety | 中古家電・もらい物の事故、9割は火災｜リユース品を使う前の5つのチェック |
 | 2026-11-19 | gemini-4-neon | Gemini 4 Neonとは？Proプランで使える新モデル｜Carbon・Hydrogenとの違い |
+| 2026-11-20 | usb-c-port-water-debris | 充電口に水・ゴミが入ったら危ない？USB-Cのショート・発火を防ぐ3つの注意 |
