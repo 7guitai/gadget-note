@@ -92,3 +92,4 @@
 | 2026-11-19 | reuse-product-safety | 中古家電・もらい物の事故、9割は火災｜リユース品を使う前の5つのチェック |
 | 2026-11-19 | gemini-4-neon | Gemini 4 Neonとは？Proプランで使える新モデル｜Carbon・Hydrogenとの違い |
 | 2026-11-20 | usb-c-port-water-debris | 充電口に水・ゴミが入ったら危ない？USB-Cのショート・発火を防ぐ3つの注意 |
+| 2026-11-20 | bosch-cordless-screwdriver-comparison | 家具の組み立て用 電動ドライバー比較｜ボッシュIXO 7・PushDrive・EasyDrillの違い |
