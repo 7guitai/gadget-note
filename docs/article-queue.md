@@ -93,3 +93,4 @@
 | 2026-11-19 | gemini-4-neon | Gemini 4 Neonとは？Proプランで使える新モデル｜Carbon・Hydrogenとの違い |
 | 2026-11-20 | usb-c-port-water-debris | 充電口に水・ゴミが入ったら危ない？USB-Cのショート・発火を防ぐ3つの注意 |
 | 2026-11-20 | bosch-cordless-screwdriver-comparison | 家具の組み立て用 電動ドライバー比較｜ボッシュIXO 7・PushDrive・EasyDrillの違い |
+| 2026-11-21 | cassette-stove-safety | カセットボンベが破裂する原因は？2台並べはNG｜カセットこんろの事故を防ぐ3つの注意 |
