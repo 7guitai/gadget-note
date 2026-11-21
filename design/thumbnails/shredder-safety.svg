@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：家庭用シュレッダーと紙、スプレー缶に禁止マーク。一般的な形で、メーカーのロゴは描かない -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 54px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .tag { font-size: 17px; font-weight: 700; fill: #5E7B49; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="320" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">GADGET ／ 解説</text>
+  <text class="h1" x="68" y="252">シュレッダーに</text>
+  <text class="h1" x="68" y="326">スプレーは危険</text>
+  <rect x="72" y="376" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="436">紙詰まりのNG対処と3つの注意</text>
+
+  <!-- 紙 -->
+  <rect x="770" y="140" width="130" height="110" rx="6" fill="#FFFFFF" stroke="#173D38" stroke-width="5"/>
+  <path d="M792 170 h86 M792 195 h86 M792 220 h60" stroke="#C9D8B4" stroke-width="7" stroke-linecap="round"/>
+  <!-- シュレッダー本体 -->
+  <rect x="720" y="240" width="230" height="40" rx="10" fill="#173D38"/>
+  <rect x="760" y="252" width="150" height="10" rx="5" fill="#52675F"/>
+  <rect x="730" y="278" width="210" height="170" rx="14" fill="#7C9A5E" stroke="#173D38" stroke-width="6"/>
+  <path d="M770 300 v120 M800 300 v120 M830 300 v120 M860 300 v120 M890 300 v120" stroke="#9DB383" stroke-width="8" stroke-linecap="round"/>
+  <!-- スプレー缶に禁止マーク -->
+  <g transform="translate(1040 300)">
+    <rect x="-28" y="-40" width="56" height="110" rx="12" fill="#E8B04B" stroke="#173D38" stroke-width="5"/>
+    <rect x="-12" y="-62" width="24" height="24" rx="4" fill="#173D38"/>
+    <circle r="78" cx="0" cy="10" fill="none" stroke="#173D38" stroke-width="10"/>
+    <path d="M-55 -45 L55 65" stroke="#173D38" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <text class="tag" x="900" y="500" text-anchor="middle">可燃性スプレー・電池は入れない</text>
+
+  <text class="cap" x="640" y="604">※ イメージイラスト</text>
+</svg>
