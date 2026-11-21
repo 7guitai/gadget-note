@@ -95,3 +95,4 @@
 | 2026-11-20 | bosch-cordless-screwdriver-comparison | 家具の組み立て用 電動ドライバー比較｜ボッシュIXO 7・PushDrive・EasyDrillの違い |
 | 2026-11-21 | cassette-stove-safety | カセットボンベが破裂する原因は？2台並べはNG｜カセットこんろの事故を防ぐ3つの注意 |
 | 2026-11-21 | shredder-safety | シュレッダーにエアダスターは爆発の危険｜紙詰まりのNG対処と指挟みを防ぐ3つの注意 |
+| 2026-11-22 | pet-fire-prevention | 留守中のペットが火事に？事故の9割が火災｜犬・猫のこんろ押し・尿の発火を防ぐ対策 |
