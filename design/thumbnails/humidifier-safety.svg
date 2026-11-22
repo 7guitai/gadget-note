@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：湯気の出るスチーム式加湿器、温度計、柵。メーカーのロゴは描かない -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 54px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .tag { font-size: 17px; font-weight: 700; fill: #5E7B49; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+      .t { font-size: 22px; font-weight: 800; fill: #173D38; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="320" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">LIFE ／ 解説</text>
+  <text class="h1" x="68" y="252">加湿器の蒸気は</text>
+  <text class="h1" x="68" y="326">90℃超えも</text>
+  <rect x="72" y="376" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="436">やけど・発火を防ぐ5つの注意</text>
+
+  <!-- 湯気 -->
+  <path d="M840 190 q-16 -26 0 -52 q16 -26 0 -52" fill="none" stroke="#C9D8B4" stroke-width="9" stroke-linecap="round"/>
+  <path d="M880 190 q-16 -26 0 -52 q16 -26 0 -52" fill="none" stroke="#9DB383" stroke-width="9" stroke-linecap="round"/>
+  <!-- 加湿器本体 -->
+  <rect x="800" y="200" width="120" height="30" rx="10" fill="#173D38"/>
+  <path d="M770 230 h180 l-14 220 h-152 z" fill="#FFFFFF" stroke="#173D38" stroke-width="6" stroke-linejoin="round"/>
+  <rect x="800" y="290" width="120" height="90" rx="12" fill="#C9D8B4"/>
+  <circle cx="860" cy="410" r="12" fill="#7C9A5E"/>
+  <!-- 温度計 -->
+  <g transform="translate(1010 170)">
+    <rect x="-14" y="0" width="28" height="160" rx="14" fill="#FFFFFF" stroke="#173D38" stroke-width="5"/>
+    <rect x="-6" y="30" width="12" height="130" rx="6" fill="#E8B04B"/>
+    <circle cx="0" cy="170" r="24" fill="#E8B04B" stroke="#173D38" stroke-width="5"/>
+    <text class="t" x="0" y="-12" text-anchor="middle">90℃</text>
+  </g>
+  <!-- 柵 -->
+  <g stroke="#5E7B49" stroke-width="8" stroke-linecap="round">
+    <path d="M700 470 h320"/>
+    <path d="M720 400 v80 M760 400 v80 M960 400 v80 M1000 400 v80"/>
+  </g>
+  <text class="tag" x="860" y="530" text-anchor="middle">子どもを近づけない・水あかを手入れ</text>
+
+  <text class="cap" x="640" y="604">※ イメージイラスト</text>
+</svg>
