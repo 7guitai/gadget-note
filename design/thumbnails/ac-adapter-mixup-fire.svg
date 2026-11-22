@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：形の似た2つのACアダプター、ラベル、充電式ライト。メーカーのロゴは描かない -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 54px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .tag { font-size: 17px; font-weight: 700; fill: #5E7B49; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+      .v { font-size: 22px; font-weight: 800; fill: #FFFFFF; }
+      .lb { font-size: 16px; font-weight: 800; fill: #173D38; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="320" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">GADGET ／ 解説</text>
+  <text class="h1" x="68" y="252">ACアダプターの</text>
+  <text class="h1" x="68" y="326">使い回しは危険</text>
+  <rect x="72" y="376" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="436">形が同じでも電圧は別</text>
+
+  <!-- アダプター1 -->
+  <g transform="translate(720 170)">
+    <rect width="120" height="80" rx="14" fill="#5E7B49" stroke="#173D38" stroke-width="5"/>
+    <text class="v" x="60" y="50" text-anchor="middle">5V</text>
+    <path d="M60 80 Q60 140 110 160" fill="none" stroke="#173D38" stroke-width="7" stroke-linecap="round"/>
+    <rect x="104" y="150" width="34" height="20" rx="6" fill="#52675F" transform="rotate(20 120 160)"/>
+    <rect x="-6" y="-26" width="70" height="26" rx="6" fill="#FFFFFF" stroke="#173D38" stroke-width="3"/>
+    <text class="lb" x="29" y="-7" text-anchor="middle">ライト</text>
+  </g>
+  <!-- アダプター2 -->
+  <g transform="translate(900 170)">
+    <rect width="120" height="80" rx="14" fill="#173D38"/>
+    <text class="v" x="60" y="50" text-anchor="middle">12V</text>
+    <path d="M60 80 Q60 140 110 160" fill="none" stroke="#173D38" stroke-width="7" stroke-linecap="round"/>
+    <rect x="104" y="150" width="34" height="20" rx="6" fill="#52675F" transform="rotate(20 120 160)"/>
+    <rect x="-6" y="-26" width="80" height="26" rx="6" fill="#FFFFFF" stroke="#173D38" stroke-width="3"/>
+    <text class="lb" x="34" y="-7" text-anchor="middle">ルーター</text>
+  </g>
+  <!-- 充電式ライト -->
+  <g transform="translate(760 390)">
+    <rect width="200" height="60" rx="18" fill="#FFFFFF" stroke="#173D38" stroke-width="6"/>
+    <rect x="196" y="8" width="40" height="44" rx="8" fill="#E8B04B" stroke="#173D38" stroke-width="5"/>
+    <rect x="30" y="22" width="60" height="16" rx="8" fill="#C9D8B4"/>
+  </g>
+  <text class="tag" x="890" y="520" text-anchor="middle">付属の充電器で・ラベルで区別</text>
+
+  <text class="cap" x="640" y="604">※ イメージイラスト</text>
+</svg>
