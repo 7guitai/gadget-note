@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：壁に75度で立て掛けたはしごと、開き止めの付いた脚立。メーカーのロゴは描かない -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 54px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .tag { font-size: 17px; font-weight: 700; fill: #5E7B49; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+      .deg { font-size: 26px; font-weight: 800; fill: #173D38; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="320" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">TOOLBOX ／ 解説</text>
+  <text class="h1" x="68" y="252">はしごの角度は</text>
+  <text class="h1" x="68" y="326">75度</text>
+  <rect x="72" y="376" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="436">脚立にまたがるのはNG</text>
+
+  <!-- 床と壁 -->
+  <rect x="690" y="460" width="430" height="10" rx="5" fill="#52675F"/>
+  <rect x="928" y="130" width="14" height="335" fill="#C9D8B4"/>
+  <!-- はしご（75度） -->
+  <g stroke="#173D38" stroke-width="8" stroke-linecap="round">
+    <path d="M800 460 L885 145"/>
+    <path d="M840 460 L925 145"/>
+  </g>
+  <g stroke="#5E7B49" stroke-width="7" stroke-linecap="round"><path d="M811 420 L851 420"/><path d="M822 380 L862 380"/><path d="M832 340 L872 340"/><path d="M843 300 L883 300"/><path d="M854 260 L894 260"/><path d="M865 220 L905 220"/><path d="M876 180 L916 180"/></g>
+  <path d="M760 460 A40 40 0 0 1 790 425" fill="none" stroke="#E8B04B" stroke-width="5"/>
+  <text class="deg" x="735" y="440">75°</text>
+  <!-- 脚立 -->
+  <g transform="translate(1030 240)">
+    <rect x="-36" y="-12" width="72" height="16" rx="5" fill="#173D38"/>
+    <path d="M-30 4 L-70 220 M30 4 L70 220" stroke="#173D38" stroke-width="8" stroke-linecap="round"/>
+    <path d="M-38 60 h-4 M-48 115 h-4 M-58 170 h-4" stroke="#5E7B49" stroke-width="7" stroke-linecap="round"/>
+    <path d="M-36 60 H36 M-46 115 H46 M-56 170 H56" stroke="#7C9A5E" stroke-width="6" stroke-linecap="round"/>
+    <path d="M-50 140 L50 140" stroke="#E8B04B" stroke-width="5" stroke-dasharray="8 6"/>
+  </g>
+  <text class="tag" x="900" y="520" text-anchor="middle">支えてもらう・開き止めをロック</text>
+
+  <text class="cap" x="640" y="604">※ イメージイラスト</text>
+</svg>
