@@ -100,3 +100,4 @@
 | 2026-11-23 | humidifier-safety | 加湿器の蒸気は90℃超えも｜子どものやけど・水あかの発火を防ぐ5つの注意 |
 | 2026-11-23 | ladder-stepladder-safety | はしごの角度は75度｜脚立にまたがるのはNG、転落事故を防ぐ使い方と選び方 |
 | 2026-11-24 | online-shopping-product-safety | ネット通販の家電、事故の約3割に｜買う前の4つのチェックとPSEマークの見方 |
+| 2026-11-24 | zojirushi-steam-humidifier-comparison | 象印のスチーム式加湿器を比較｜EE-DG・RV・TC・MCの違いと部屋の広さの目安 |
