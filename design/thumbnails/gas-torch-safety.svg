@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：カセットボンベに付けたガストーチと炎、ひし形のマーク風の表示（実在のマークは描かない） -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 54px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .tag { font-size: 17px; font-weight: 700; fill: #5E7B49; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="320" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">TOOLBOX ／ 解説</text>
+  <text class="h1" x="68" y="252">ガストーチの事故</text>
+  <text class="h1" x="68" y="326">7割が製品の不具合</text>
+  <rect x="72" y="376" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="436">マークの確認とガス漏れ対策</text>
+
+  <!-- ボンベ（横置き） -->
+  <rect x="700" y="300" width="230" height="90" rx="40" fill="#E8B04B" stroke="#173D38" stroke-width="6"/>
+  <rect x="740" y="325" width="120" height="14" rx="7" fill="#F6F2EA" opacity=".6"/>
+  <!-- トーチ本体 -->
+  <rect x="925" y="315" width="60" height="60" rx="10" fill="#173D38"/>
+  <circle cx="955" cy="345" r="12" fill="#9DB383"/>
+  <rect x="985" y="330" width="80" height="30" rx="6" fill="#52675F"/>
+  <!-- 炎 -->
+  <path d="M1065 345 q40 -30 70 0 q-30 30 -70 0 z" fill="#E8B04B"/>
+  <path d="M1065 345 q25 -14 45 0 q-20 14 -45 0 z" fill="#F6F2EA"/>
+  <!-- ひし形マーク風 -->
+  <g transform="translate(820 200)">
+    <path d="M0 -50 L50 0 L0 50 L-50 0 Z" fill="#FFFFFF" stroke="#173D38" stroke-width="6"/>
+    <rect x="-24" y="-8" width="48" height="16" rx="4" fill="#C9D8B4"/>
+  </g>
+  <!-- ガス漏れの線 -->
+  <path d="M930 300 q10 -20 0 -40 M948 296 q12 -22 0 -46" fill="none" stroke="#9DB383" stroke-width="5" stroke-linecap="round" stroke-dasharray="6 6"/>
+  <text class="tag" x="900" y="470" text-anchor="middle">付けたら「シュー」音・においを確認</text>
+
+  <text class="cap" x="640" y="604">※ イメージイラスト</text>
+</svg>
