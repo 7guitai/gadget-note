@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：電子レンジの中のアルミホイルと火花、IHこんろ。メーカーのロゴは描かない -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 54px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .tag { font-size: 17px; font-weight: 700; fill: #5E7B49; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="320" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">LIFE ／ 解説</text>
+  <text class="h1" x="68" y="252">電子レンジに</text>
+  <text class="h1" x="68" y="326">アルミは危険</text>
+  <rect x="72" y="376" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="436">調理家電の事故を防ぐ3つのポイント</text>
+
+  <!-- 電子レンジ -->
+  <rect x="700" y="140" width="380" height="220" rx="20" fill="#FFFFFF" stroke="#173D38" stroke-width="7"/>
+  <rect x="725" y="165" width="260" height="170" rx="12" fill="#C9D8B4"/>
+  <rect x="1000" y="170" width="55" height="20" rx="6" fill="#E6EBE1"/>
+  <circle cx="1027" cy="230" r="16" fill="#E6EBE1" stroke="#173D38" stroke-width="4"/>
+  <circle cx="1027" cy="290" r="16" fill="#E6EBE1" stroke="#173D38" stroke-width="4"/>
+  <!-- アルミホイル包み -->
+  <path d="M800 300 q10 -50 55 -55 q45 5 55 55 z" fill="#E6EBE1" stroke="#52675F" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M820 290 l20 -20 M850 290 l18 -26 M880 292 l14 -18" stroke="#9DB383" stroke-width="3"/>
+  <!-- 火花 -->
+  <g fill="#E8B04B">
+    <path d="M790 230 l8 18 l18 4 l-18 6 l-8 18 l-6 -18 l-18 -6 l18 -4 z"/>
+    <path d="M925 215 l6 13 l13 3 l-13 4 l-6 13 l-4 -13 l-13 -4 l13 -3 z"/>
+  </g>
+  <!-- IHこんろ -->
+  <rect x="740" y="400" width="300" height="60" rx="12" fill="#173D38"/>
+  <circle cx="820" cy="430" r="20" fill="none" stroke="#7C9A5E" stroke-width="5"/>
+  <circle cx="960" cy="430" r="20" fill="none" stroke="#E8B04B" stroke-width="5"/>
+  <text class="tag" x="890" y="510" text-anchor="middle">金属はレンジ加熱しない・モードを確認</text>
+
+  <text class="cap" x="640" y="604">※ イメージイラスト</text>
+</svg>
