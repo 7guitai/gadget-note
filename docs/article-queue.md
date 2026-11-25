@@ -102,3 +102,4 @@
 | 2026-11-24 | online-shopping-product-safety | ネット通販の家電、事故の約3割に｜買う前の4つのチェックとPSEマークの見方 |
 | 2026-11-24 | zojirushi-steam-humidifier-comparison | 象印のスチーム式加湿器を比較｜EE-DG・RV・TC・MCの違いと部屋の広さの目安 |
 | 2026-11-25 | gas-torch-safety | ガストーチの事故は7割が製品の不具合｜PSLPGマークの確認とガス漏れを防ぐ使い方 |
+| 2026-11-25 | google-passkey | Googleのパスキーとは？パスワード不要でログイン｜設定方法と使えない時の対処 |

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- OCHA NOTE サムネ：指紋マークのスマホと鍵、ログイン画面。企業ロゴや実在の画面は描かない -->
+  <defs>
+    <style>
+      text { font-family: Noto, sans-serif; fill: #173D38; }
+      .pill { font-size: 17px; font-weight: 700; letter-spacing: .12em; fill: #FFFFFF; }
+      .eye { font-size: 24px; font-weight: 600; fill: #5E7B49; letter-spacing: .04em; }
+      .h1 { font-size: 54px; font-weight: 800; letter-spacing: -.02em; }
+      .sub { font-size: 28px; font-weight: 600; fill: #3F5A50; }
+      .tag { font-size: 17px; font-weight: 700; fill: #5E7B49; }
+      .cap { font-size: 17px; font-weight: 600; fill: #52675F; }
+      .pw { font-size: 26px; font-weight: 800; fill: #9DB383; letter-spacing: .2em; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="630" fill="#F6F2EA"/>
+  <circle cx="900" cy="320" r="250" fill="#E6EBE1"/>
+  <circle cx="1120" cy="70" r="70" fill="#ECEAE4"/>
+  <circle cx="660" cy="560" r="44" fill="#ECEAE4"/>
+
+  <rect x="72" y="64" width="156" height="38" rx="19" fill="#173D38"/>
+  <text class="pill" x="150" y="89" text-anchor="middle">OCHA NOTE</text>
+  <text class="eye" x="72" y="170">GADGET ／ 使い方</text>
+  <text class="h1" x="68" y="252">Googleの</text>
+  <text class="h1" x="68" y="326">パスキーとは？</text>
+  <rect x="72" y="376" width="72" height="6" rx="3" fill="#9DB383"/>
+  <text class="sub" x="72" y="436">指紋・顔・PINでログイン</text>
+
+  <!-- ログイン画面（パスワード欄に取り消し線） -->
+  <rect x="700" y="150" width="220" height="150" rx="16" fill="#FFFFFF" stroke="#173D38" stroke-width="5"/>
+  <rect x="725" y="180" width="170" height="20" rx="10" fill="#E6EBE1"/>
+  <rect x="725" y="220" width="170" height="40" rx="10" fill="#F6F2EA" stroke="#C9D8B4" stroke-width="3"/>
+  <text class="pw" x="810" y="250" text-anchor="middle">••••••</text>
+  <path d="M730 240 L890 240" stroke="#E8B04B" stroke-width="5" stroke-linecap="round"/>
+  <!-- スマホ -->
+  <rect x="930" y="190" width="150" height="270" rx="26" fill="#FFFFFF" stroke="#173D38" stroke-width="6"/>
+  <g transform="translate(1005 320)" fill="none" stroke="#5E7B49" stroke-width="6" stroke-linecap="round">
+    <path d="M-30 10 a30 30 0 0 1 60 0 v12"/>
+    <path d="M-18 14 a18 18 0 0 1 36 0 v18"/>
+    <path d="M-6 18 a6 6 0 0 1 12 0 v22"/>
+    <path d="M-42 0 a42 42 0 0 1 84 0"/>
+  </g>
+  <!-- 鍵 -->
+  <g transform="translate(760 380)">
+    <circle r="32" fill="#E8B04B" stroke="#173D38" stroke-width="5"/>
+    <circle r="11" fill="#E6EBE1"/>
+    <path d="M30 0 h90 v22 M95 0 v16" stroke="#173D38" stroke-width="10" stroke-linecap="round" fill="none"/>
+  </g>
+  <text class="tag" x="900" y="520" text-anchor="middle">パスワードを入力しない</text>
+
+  <text class="cap" x="640" y="604">※ イメージイラスト</text>
+</svg>
